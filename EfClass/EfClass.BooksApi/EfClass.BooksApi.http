@@ -1,0 +1,6 @@
+@EfClass.BooksApi_HostAddress = http://localhost:5035
+
+GET {{EfClass.BooksApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

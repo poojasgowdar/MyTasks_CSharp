@@ -1,0 +1,12 @@
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\bin\Debug\net8.0\EfClass.Models.deps.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\bin\Debug\net8.0\EfClass.Models.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\bin\Debug\net8.0\EfClass.Models.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\refint\EfClass.Models.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\EfClass.Models.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Models\obj\Debug\net8.0\ref\EfClass.Models.dll

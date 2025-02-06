@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\bin\Debug\Lambda_Exp.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\bin\Debug\Lambda_Exp.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\bin\Debug\Lambda_Exp.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\obj\Debug\Lambda_Exp.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\obj\Debug\Lambda_Exp.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\obj\Debug\Lambda_Exp.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\Lambda_Exp\obj\Debug\Lambda_Exp.pdb

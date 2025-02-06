@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\bin\Debug\net8.0\ConsoleAppLinqExample.exe
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\bin\Debug\net8.0\ConsoleAppLinqExample.deps.json
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\bin\Debug\net8.0\ConsoleAppLinqExample.runtimeconfig.json
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\bin\Debug\net8.0\ConsoleAppLinqExample.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\bin\Debug\net8.0\ConsoleAppLinqExample.pdb
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\refint\ConsoleAppLinqExample.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.pdb
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ConsoleAppLinqExample.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\ConsoleAppLinqExample\obj\Debug\net8.0\ref\ConsoleAppLinqExample.dll

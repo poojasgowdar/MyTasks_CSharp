@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\bin\Debug\net8.0\AutoMapper.deps.json
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\bin\Debug\net8.0\AutoMapper.pdb
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.dll
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\refint\AutoMapper.dll
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.pdb
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\ref\AutoMapper.dll
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\bin\Debug\net8.0\AutoMapper.runtimeconfig.json
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\AutoMapper\obj\Debug\net8.0\AutoMapper.genruntimeconfig.cache

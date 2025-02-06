@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\obj\Debug\RefAndOutParameter.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\obj\Debug\RefAndOutParameter.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\bin\Debug\RefAndOutParameter.exe.config
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\bin\Debug\RefAndOutParameter.exe
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\bin\Debug\RefAndOutParameter.pdb
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\obj\Debug\RefAndOutParameter.exe
+C:\Users\Pooja S\source\repos\Exception_Handling\RefAndOutParameter\obj\Debug\RefAndOutParameter.pdb

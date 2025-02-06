@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC26291D-80C8-43C4-929C-4C0C23D58866}|LINQ_Ex\\LINQ_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\LINQ_Ex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC26291D-80C8-43C4-929C-4C0C23D58866}|LINQ_Ex\\LINQ_Ex.csproj|solutionrelative:LINQ_Ex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56F05B9-B7E3-4957-BDC1-DE69128BEA0C}|Linq_Ex3\\Linq_Ex3.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\linq_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56F05B9-B7E3-4957-BDC1-DE69128BEA0C}|Linq_Ex3\\Linq_Ex3.csproj|solutionrelative:linq_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B350375-F5DF-41F1-8478-92A37D1433EC}|Asynchronous_Ex\\Asynchronous_Ex.csproj|c:\\users\\pooja s\\source\\repos\\linq_ex\\asynchronous_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B350375-F5DF-41F1-8478-92A37D1433EC}|Asynchronous_Ex\\Asynchronous_Ex.csproj|solutionrelative:asynchronous_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF5548-8519-4D18-B7D1-B089839358AE}|Linq_Ex6\\Linq_Ex6.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Ex6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF5548-8519-4D18-B7D1-B089839358AE}|Linq_Ex6\\Linq_Ex6.csproj|solutionrelative:Linq_Ex6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1B733B-B95B-480A-AC2E-53F2C2EA17C4}|Linq_Test\\Linq_Test.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\linq_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1B733B-B95B-480A-AC2E-53F2C2EA17C4}|Linq_Test\\Linq_Test.csproj|solutionrelative:linq_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5306C0-B32C-4626-8120-6DC920F6CAF0}|Linq4\\Linq4.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\linq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5306C0-B32C-4626-8120-6DC920F6CAF0}|Linq4\\Linq4.csproj|solutionrelative:linq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039EF0F-1C6D-4F49-8C39-00EEE984B02F}|Linq5\\Linq5.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F039EF0F-1C6D-4F49-8C39-00EEE984B02F}|Linq5\\Linq5.csproj|solutionrelative:Linq5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECCF470-B49C-42C6-89E8-FFA241A20620}|Example2\\Example2.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECCF470-B49C-42C6-89E8-FFA241A20620}|Example2\\Example2.csproj|solutionrelative:Example2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6126046-BBF7-4E7E-8821-8BA5B45E310A}|Person\\Person.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Person\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6126046-BBF7-4E7E-8821-8BA5B45E310A}|Person\\Person.csproj|solutionrelative:Person\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8E2EDD-05A2-4E7E-82AF-AF817373C41E}|Example\\Example.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8E2EDD-05A2-4E7E-82AF-AF817373C41E}|Example\\Example.csproj|solutionrelative:Example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF82F0E-C2E3-4444-8499-46BA6FCBE1E1}|Example3\\Example3.csproj|C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF82F0E-C2E3-4444-8499-46BA6FCBE1E1}|Example3\\Example3.csproj|solutionrelative:Example3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Ex3\\Program.cs",
+              "RelativeToolTip": "Linq_Ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:21:00Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Test\\Program.cs",
+              "RelativeToolTip": "Linq_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:15:10.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example\\Program.cs",
+              "RelativeDocumentMoniker": "Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example\\Program.cs",
+              "RelativeToolTip": "Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:31:12.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example2\\Program.cs",
+              "RelativeDocumentMoniker": "Example2\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example2\\Program.cs",
+              "RelativeToolTip": "Example2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:03:05.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq5\\Program.cs",
+              "RelativeDocumentMoniker": "Linq5\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq5\\Program.cs",
+              "RelativeToolTip": "Linq5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:07:38.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example3\\Program.cs",
+              "RelativeDocumentMoniker": "Example3\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Example3\\Program.cs",
+              "RelativeToolTip": "Example3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:45:22.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\LINQ_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\LINQ_Ex\\Program.cs",
+              "RelativeToolTip": "LINQ_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:07:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq_Ex6\\Program.cs",
+              "RelativeToolTip": "Linq_Ex6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:07:33.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Asynchronous_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "Asynchronous_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Asynchronous_Ex\\Program.cs",
+              "RelativeToolTip": "Asynchronous_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:28:17.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Person\\Program.cs",
+              "RelativeDocumentMoniker": "Person\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Person\\Program.cs",
+              "RelativeToolTip": "Person\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:44:58.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq4\\Program.cs",
+              "RelativeDocumentMoniker": "Linq4\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LINQ_Ex\\Linq4\\Program.cs",
+              "RelativeToolTip": "Linq4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:08:02.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

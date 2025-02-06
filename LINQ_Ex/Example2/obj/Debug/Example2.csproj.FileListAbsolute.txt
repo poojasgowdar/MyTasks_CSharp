@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\bin\Debug\Example2.exe.config
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\bin\Debug\Example2.exe
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\bin\Debug\Example2.pdb
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\obj\Debug\Example2.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\obj\Debug\Example2.exe
+C:\Users\Pooja S\source\repos\LINQ_Ex\Example2\obj\Debug\Example2.pdb

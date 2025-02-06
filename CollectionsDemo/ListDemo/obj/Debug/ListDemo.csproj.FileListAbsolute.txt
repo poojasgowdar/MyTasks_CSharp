@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\obj\Debug\ListDemo.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\ListDemo\obj\Debug\ListDemo.pdb

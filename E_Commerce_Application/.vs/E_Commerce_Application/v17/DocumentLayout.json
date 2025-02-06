@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\viewmodels\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\viewmodels\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\viewmodels\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\viewmodels\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\viewmodels\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\viewmodels\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\dataaccesslayer\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\dataaccesslayer\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\dataaccesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\dataaccesslayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\mappingprofile\\createmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\mappingprofile\\createmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Migrations\\20241214095602_One.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E_Commerce_Application\\Migrations\\20241214095602_One.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|c:\\users\\pooja s\\source\\repos\\e_commerce_application\\e_commerce_application\\migrations\\20241214100613_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92146670-9EB5-4015-B76F-5CBF3A78CE27}|E_Commerce_Application\\E_Commerce_Application.csproj|solutionrelative:e_commerce_application\\migrations\\20241214100613_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\ViewModels\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\ViewModels\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\ViewModels\\ProductUpdateDto.cs",
+              "RelativeToolTip": "E_Commerce_Application\\ViewModels\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:47:40.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\ViewModels\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\ViewModels\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\ViewModels\\ResponseDto.cs",
+              "RelativeToolTip": "E_Commerce_Application\\ViewModels\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:38:34.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Repository\\IRepository.cs",
+              "RelativeToolTip": "E_Commerce_Application\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:50:50.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "E_Commerce_Application\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:44:52.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\ViewModels\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\ViewModels\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\ViewModels\\ProductCreateDto.cs",
+              "RelativeToolTip": "E_Commerce_Application\\ViewModels\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:16:22.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\DataAccessLayer\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\DataAccessLayer\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\DataAccessLayer\\ProductDbContext.cs",
+              "RelativeToolTip": "E_Commerce_Application\\DataAccessLayer\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:12:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\DataAccessLayer\\Product.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\DataAccessLayer\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\DataAccessLayer\\Product.cs",
+              "RelativeToolTip": "E_Commerce_Application\\DataAccessLayer\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:10:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Program.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Program.cs",
+              "RelativeToolTip": "E_Commerce_Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:15:05.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Controllers\\Productcontroller.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\Controllers\\Productcontroller.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Controllers\\Productcontroller.cs",
+              "RelativeToolTip": "E_Commerce_Application\\Controllers\\Productcontroller.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:21:26.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\MappingProfile\\CreateMapper.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\MappingProfile\\CreateMapper.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\MappingProfile\\CreateMapper.cs",
+              "RelativeToolTip": "E_Commerce_Application\\MappingProfile\\CreateMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:54:26.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241214100613_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Migrations\\20241214100613_Initial.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\Migrations\\20241214100613_Initial.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Migrations\\20241214100613_Initial.cs",
+              "RelativeToolTip": "E_Commerce_Application\\Migrations\\20241214100613_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:06:14.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241214095602_One.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Migrations\\20241214095602_One.cs",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\Migrations\\20241214095602_One.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\Migrations\\20241214095602_One.cs",
+              "RelativeToolTip": "E_Commerce_Application\\Migrations\\20241214095602_One.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:56:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\appsettings.json",
+              "RelativeDocumentMoniker": "E_Commerce_Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\E_Commerce_Application\\E_Commerce_Application\\appsettings.json",
+              "RelativeToolTip": "E_Commerce_Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T06:33:51.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

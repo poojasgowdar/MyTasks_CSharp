@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\bin\Debug\ArrayToListCollection.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\bin\Debug\ArrayToListCollection.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\bin\Debug\ArrayToListCollection.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\obj\Debug\ArrayToListCollection.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\obj\Debug\ArrayToListCollection.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\obj\Debug\ArrayToListCollection.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\ArrayToListCollection\obj\Debug\ArrayToListCollection.pdb

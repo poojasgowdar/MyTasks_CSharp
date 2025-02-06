@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\migrations\\20241204122932_seed_data_and_1tomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\migrations\\20241204122932_seed_data_and_1tomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\migrations\\20241204120727_cap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\migrations\\20241204120727_cap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\migrations\\20241204105308_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\migrations\\20241204105308_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Migrations\\SchoolContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\Migrations\\SchoolContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:16:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Student.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\Student.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Student.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\DBModels\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:29:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Course.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\Course.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Course.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\DBModels\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:29:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwEMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:39:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\StudentCourse.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\DBModels\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:17:58.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Program.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Program.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:37:48.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Teacher.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Teacher.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\DBModels\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:29:43.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\appsettings.json",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\appsettings.json",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T10:41:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241204122932_seed_data_and_1toMany.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\20241204122932_seed_data_and_1toMany.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Migrations\\20241204122932_seed_data_and_1toMany.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\20241204122932_seed_data_and_1toMany.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\Migrations\\20241204122932_seed_data_and_1toMany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:29:32.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241204120727_cap.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\20241204120727_cap.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Migrations\\20241204120727_cap.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\20241204120727_cap.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\Migrations\\20241204120727_cap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:07:28.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241204105308_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\20241204105308_Init.cs",
+              "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Migrations\\20241204105308_Init.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\20241204105308_Init.cs",
+              "RelativeToolTip": "New_ASPCORE_WEB_API\\Migrations\\20241204105308_Init.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:53:08.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

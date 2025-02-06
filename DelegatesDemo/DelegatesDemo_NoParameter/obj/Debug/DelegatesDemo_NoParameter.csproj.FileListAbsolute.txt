@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\bin\Debug\DelegatesDemo_NoParameter.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\bin\Debug\DelegatesDemo_NoParameter.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\bin\Debug\DelegatesDemo_NoParameter.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\obj\Debug\DelegatesDemo_NoParameter.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\obj\Debug\DelegatesDemo_NoParameter.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\obj\Debug\DelegatesDemo_NoParameter.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_NoParameter\obj\Debug\DelegatesDemo_NoParameter.pdb

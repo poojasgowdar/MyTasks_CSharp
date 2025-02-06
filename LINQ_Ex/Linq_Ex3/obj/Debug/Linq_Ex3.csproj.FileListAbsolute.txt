@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\bin\Debug\Linq_Ex3.exe.config
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\bin\Debug\Linq_Ex3.exe
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\bin\Debug\Linq_Ex3.pdb
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\obj\Debug\Linq_Ex3.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\obj\Debug\Linq_Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\obj\Debug\Linq_Ex3.exe
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Ex3\obj\Debug\Linq_Ex3.pdb

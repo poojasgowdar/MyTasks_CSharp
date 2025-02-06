@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\bin\Debug\Async.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\bin\Debug\Async.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\bin\Debug\Async.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\obj\Debug\Async.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\obj\Debug\Async.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\Async\obj\Debug\Async.pdb

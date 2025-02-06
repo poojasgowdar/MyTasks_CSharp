@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\bin\Debug\Interview_prep.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\bin\Debug\Interview_prep.exe
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\bin\Debug\Interview_prep.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\obj\Debug\Interview_prep.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\obj\Debug\Interview_prep.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\obj\Debug\Interview_prep.exe
+C:\Users\Pooja S\source\repos\Interview_prep\Interview_prep\obj\Debug\Interview_prep.pdb

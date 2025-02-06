@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|c:\\users\\pooja s\\source\\repos\\securitydemomvc\\securitydemomvc\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|solutionrelative:securitydemomvc\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|c:\\users\\pooja s\\source\\repos\\securitydemomvc\\securitydemomvc\\securitydemomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|solutionrelative:securitydemomvc\\securitydemomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|c:\\users\\pooja s\\source\\repos\\securitydemomvc\\securitydemomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|solutionrelative:securitydemomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|c:\\users\\pooja s\\source\\repos\\securitydemomvc\\securitydemomvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|solutionrelative:securitydemomvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|c:\\users\\pooja s\\source\\repos\\securitydemomvc\\securitydemomvc\\models\\mvcauthenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|solutionrelative:securitydemomvc\\models\\mvcauthenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|c:\\users\\pooja s\\source\\repos\\securitydemomvc\\securitydemomvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FC6DB2-CDDF-45BA-BE22-C347966E5CA9}|SecurityDemoMVC\\SecurityDemoMVC.csproj|solutionrelative:securitydemomvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityDemoMVC",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\SecurityDemoMVC.csproj",
+              "RelativeDocumentMoniker": "SecurityDemoMVC\\SecurityDemoMVC.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\SecurityDemoMVC.csproj",
+              "RelativeToolTip": "SecurityDemoMVC\\SecurityDemoMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T04:47:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityDemoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Program.cs",
+              "RelativeToolTip": "SecurityDemoMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:44:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "SecurityDemoMVC\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "SecurityDemoMVC\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:44:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "SecurityDemoMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "SecurityDemoMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:41:32.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SecurityDemoMVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "SecurityDemoMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:37:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MvcAuthenticationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Models\\MvcAuthenticationContext.cs",
+              "RelativeDocumentMoniker": "SecurityDemoMVC\\Models\\MvcAuthenticationContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Models\\MvcAuthenticationContext.cs",
+              "RelativeToolTip": "SecurityDemoMVC\\Models\\MvcAuthenticationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:17:01.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

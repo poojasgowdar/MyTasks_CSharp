@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\bin\Debug\net8.0\DataModels.deps.json
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\bin\Debug\net8.0\DataModels.dll
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\bin\Debug\net8.0\DataModels.pdb
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.dll
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\refint\DataModels.dll
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.pdb
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\ref\DataModels.dll
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\bin\Debug\net8.0\DataModels.runtimeconfig.json
+C:\Users\Pooja S\source\repos\Seed_Data_Example\DataModels\obj\Debug\net8.0\DataModels.genruntimeconfig.cache

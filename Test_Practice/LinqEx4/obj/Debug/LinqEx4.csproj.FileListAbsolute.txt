@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\bin\Debug\LinqEx4.exe.config
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\bin\Debug\LinqEx4.exe
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\bin\Debug\LinqEx4.pdb
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\obj\Debug\LinqEx4.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\obj\Debug\LinqEx4.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\obj\Debug\LinqEx4.exe
+C:\Users\Pooja S\source\repos\Test_Practice\LinqEx4\obj\Debug\LinqEx4.pdb

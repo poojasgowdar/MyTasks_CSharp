@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Middleware",
+    "\\Middleware\\Middlewares",
+    "\\Repositories",
+    "\\Repositories\\Repository",
+    "\\Services",
+    "\\Services\\Service",
+    "\\SessionTracking_Controller"
+  ],
+  "SelectedNode": "\\Services\\Service\\ProductService.cs",
+  "PreviewInSolutionExplorer": false
+}

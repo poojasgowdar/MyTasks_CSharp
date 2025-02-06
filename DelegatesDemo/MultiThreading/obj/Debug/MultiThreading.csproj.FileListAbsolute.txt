@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\MultiThreading\obj\Debug\MultiThreading.pdb

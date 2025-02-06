@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\bin\Debug\Specialization.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\bin\Debug\Specialization.exe
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\bin\Debug\Specialization.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\obj\Debug\Specialization.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\obj\Debug\Specialization.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\obj\Debug\Specialization.exe
+C:\Users\Pooja S\source\repos\Interview_prep\Specialization\obj\Debug\Specialization.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VsYWoQelpC1PM8ZuCRMPqSqnASxzEF//QIwTut78YtA=",
+  "Source": "User_Endpoint_API",
+  "BasePath": "_content/User_Endpoint_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

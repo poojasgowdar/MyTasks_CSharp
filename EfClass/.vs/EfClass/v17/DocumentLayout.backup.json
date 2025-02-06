@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.booksapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|solutionrelative:efclass.booksapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.dataaccess\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|solutionrelative:efclass.booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|solutionrelative:efclass.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|solutionrelative:efclass.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|solutionrelative:efclass.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80CC8DE-0A83-4051-9C43-C772DA69487D}|EfClass.Services\\EfClass.Services.csproj|solutionrelative:efclass.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|solutionrelative:efclass.managers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.dataaccess\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.managers\\efclass.managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|solutionrelative:efclass.managers\\efclass.managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.booksapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|solutionrelative:efclass.booksapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.managers\\usersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|solutionrelative:efclass.managers\\usersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.managers\\iusersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|solutionrelative:efclass.managers\\iusersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|solutionrelative:efclass.booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.managers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB617CE-6BF0-4409-A50D-699145375FAC}|EfClass.Managers\\EfClass.Managers.csproj|solutionrelative:efclass.managers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AD896D8-3632-4821-88B2-33799117D285}|EfClass.BooksApi\\EfClass.BooksApi.csproj|solutionrelative:efclass.booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Practice_CRUD_OPERATION_API\\Practice_CRUD_OPERATION_API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.models\\dbmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D54C71-C576-42F1-BBD5-7E91C9D92A14}|EfClass.Models\\EfClass.Models.csproj|solutionrelative:efclass.models\\dbmodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\efclass\\efclass.dataaccess\\migrations\\20241209071128_initial_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA16B7F-B0CE-4F5C-9CAC-E21FF3015933}|EfClass.DataAccess\\EfClass.DataAccess.csproj|solutionrelative:efclass.dataaccess\\migrations\\20241209071128_initial_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "EfClass.Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\IUserService.cs",
+              "RelativeToolTip": "EfClass.Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:46:38.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EfClass.Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\UserService.cs",
+              "RelativeToolTip": "EfClass.Services\\UserService.cs",
+              "ViewState": "AgIAABUAAABwZmZmZmYwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:48:44.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\Program.cs",
+              "RelativeDocumentMoniker": "EfClass.BooksApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\Program.cs",
+              "RelativeToolTip": "EfClass.BooksApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:06:23.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "EfClass.DataAccess\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "EfClass.DataAccess\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:02:19.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "EfClass.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "EfClass.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:00:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "EfClass.BooksApi\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\MyMappingProfile.cs",
+              "RelativeToolTip": "EfClass.BooksApi\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:36:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "EfClass.DataAccess\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\BookDbContext.cs",
+              "RelativeToolTip": "EfClass.DataAccess\\BookDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:58:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "EfClass.Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\IBookService.cs",
+              "RelativeToolTip": "EfClass.Services\\IBookService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:44:35.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\BookService.cs",
+              "RelativeDocumentMoniker": "EfClass.Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Services\\BookService.cs",
+              "RelativeToolTip": "EfClass.Services\\BookService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:49:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\BookManager.cs",
+              "RelativeDocumentMoniker": "EfClass.Managers\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\BookManager.cs",
+              "RelativeToolTip": "EfClass.Managers\\BookManager.cs",
+              "ViewState": "AgIAABcAAAAAMzMzMzPzvyMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:50:03.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "EfClass.DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "EfClass.DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:34:35.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "EfClass.DataAccess\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "EfClass.DataAccess\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAB4AAACAmZmZmZkZwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:44:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EfClass.Managers.csproj",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\EfClass.Managers.csproj",
+              "RelativeDocumentMoniker": "EfClass.Managers\\EfClass.Managers.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\EfClass.Managers.csproj",
+              "RelativeToolTip": "EfClass.Managers\\EfClass.Managers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T04:11:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EfClass.BooksApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EfClass.BooksApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:55:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:08:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\UsersManager.cs",
+              "RelativeDocumentMoniker": "EfClass.Managers\\UsersManager.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\UsersManager.cs",
+              "RelativeToolTip": "EfClass.Managers\\UsersManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:12:13.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsersManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\IUsersManager.cs",
+              "RelativeDocumentMoniker": "EfClass.Managers\\IUsersManager.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\IUsersManager.cs",
+              "RelativeToolTip": "EfClass.Managers\\IUsersManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:06:40.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\User.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\User.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\User.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:57:19.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:44:37.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "EfClass.BooksApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "EfClass.BooksApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:11:56.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\IBookManager.cs",
+              "RelativeDocumentMoniker": "EfClass.Managers\\IBookManager.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Managers\\IBookManager.cs",
+              "RelativeToolTip": "EfClass.Managers\\IBookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:49:28.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EfClass.BooksApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.BooksApi\\appsettings.json",
+              "RelativeToolTip": "EfClass.BooksApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T06:48:12.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241209071128_Initial_Mig.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Migrations\\20241209071128_Initial_Mig.cs",
+              "RelativeDocumentMoniker": "EfClass.DataAccess\\Migrations\\20241209071128_Initial_Mig.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.DataAccess\\Migrations\\20241209071128_Initial_Mig.cs",
+              "RelativeToolTip": "EfClass.DataAccess\\Migrations\\20241209071128_Initial_Mig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:11:28.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_CRUD_OPERATION_API\\Practice_CRUD_OPERATION_API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Practice_CRUD_OPERATION_API\\Practice_CRUD_OPERATION_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_CRUD_OPERATION_API\\Practice_CRUD_OPERATION_API\\appsettings.json",
+              "RelativeToolTip": "..\\Practice_CRUD_OPERATION_API\\Practice_CRUD_OPERATION_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T06:54:29.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\Author.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\Author.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\Author.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:56:27.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\Category.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\Category.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\Category.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:56:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\BookCategory.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\BookCategory.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:56:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\Book.cs",
+              "RelativeDocumentMoniker": "EfClass.Models\\DBModels\\Book.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EfClass\\EfClass.Models\\DBModels\\Book.cs",
+              "RelativeToolTip": "EfClass.Models\\DBModels\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:52:18.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

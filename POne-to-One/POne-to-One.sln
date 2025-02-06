@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POne-to-One", "POne-to-One\POne-to-One.csproj", "{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToOne", "OneToOne\OneToOne.csproj", "{C4009937-4738-4544-A141-D17F5BB32BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dtos", "Dtos\Dtos.csproj", "{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4009937-4738-4544-A141-D17F5BB32BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4009937-4738-4544-A141-D17F5BB32BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4009937-4738-4544-A141-D17F5BB32BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4009937-4738-4544-A141-D17F5BB32BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6A9288-80A3-458B-B3E2-1F39F0B7E11B}
+	EndGlobalSection
+EndGlobal

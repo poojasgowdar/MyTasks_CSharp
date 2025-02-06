@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\bin\Debug\DelegatesDemo_WithParameter.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\bin\Debug\DelegatesDemo_WithParameter.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\bin\Debug\DelegatesDemo_WithParameter.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\obj\Debug\DelegatesDemo_WithParameter.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\obj\Debug\DelegatesDemo_WithParameter.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\obj\Debug\DelegatesDemo_WithParameter.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\DelegatesDemo_WithParameter\obj\Debug\DelegatesDemo_WithParameter.pdb

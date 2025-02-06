@@ -1,0 +1,91 @@
+﻿@model MovieList.Models.MovieViewModel
+@{
+    ViewData["Title"] = "Movie List";
+}
+
+<div class="container mt-4">
+    <h1>Movie List</h1>
+
+    <form method="get" class="mb-4">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="titleFilter">Filter by Title:</label>
+                    <input type="text" id="titleFilter" name="titleFilter"
+                           class="form-control" value="@Model.TitleFilter"
+                           placeholder="Enter title...">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label>Filter by Genres:</label>
+                    <select id="genreFilters" name="genreFilters" class="form-control" multiple size="5">
+                        @foreach (var genre in Model.AllGenres)
+                        {
+                            <option value="@genre"
+                                    selected="@Model.SelectedGenres.Contains(genre)">
+                                @genre
+                            </option>
+                        }
+                    </select>
+                    <small class="form-text text-muted">Hold Ctrl/Cmd to select multiple genres</small>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary mt-4">Apply Filters</button>
+                <a href="@Url.Action("Index")" class="btn btn-secondary mt-2">Clear Filters</a>
+            </div>
+        </div>
+    </form>
+
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Thumbnail</th>
+                    <th>Title</th>
+                    <th>Year</th>
+                    <th>Cast</th>
+                    <th>Genres</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var movie in Model.Movies)
+                {
+                    <tr>
+                        <td>
+                            @if (!string.IsNullOrEmpty(movie.Thumbnail))
+                            {
+                                <img src="@movie.Thumbnail" alt="@movie.Title" style="max-width: 50px;">
+                            }
+                        </td>
+                        <td>@movie.Title</td>
+                        <td>@movie.Year</td>
+                        <td>@string.Join(", ", movie.Cast ?? new List<string>())</td>
+                        <td>@string.Join(", ", movie.Genres ?? new List<string>())</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @if (Model.TotalPages > 1)
+    {
+        <nav aria-label="Page navigation">
+            <ul class="pagination justify-content-center">
+                @for (int i = Math.Max(1, Model.CurrentPage - 5);
+               i <= Math.Min(Model.TotalPages, Model.CurrentPage + 5); i++)
+                {
+                    <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                        <a class="page-link"
+                           href="@Url.Action("Index", new { page = i,
+                                                          titleFilter = Model.TitleFilter,
+                                                          genreFilters = Model.SelectedGenres })">
+                            @i
+                        </a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    }
+</div>

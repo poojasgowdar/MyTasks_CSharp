@@ -1,0 +1,12 @@
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\bin\Debug\net8.0\Swagger.deps.json
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\bin\Debug\net8.0\Swagger.dll
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\bin\Debug\net8.0\Swagger.pdb
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.dll
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\refint\Swagger.dll
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\Swagger.pdb
+C:\Users\Pooja S\source\repos\Movie_List\Swagger\obj\Debug\net8.0\ref\Swagger.dll

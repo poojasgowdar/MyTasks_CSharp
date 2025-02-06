@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MVC_New_Project.Models.Product>
+
+<style>
+    body {
+        background-color: #ffe4e1;
+        color: #333; 
+        font-family: Arial, sans-serif;
+    }
+    h5 {
+        text-align: center;
+        color: #6f42c1;
+        font-weight: bold; 
+    }
+
+    .table {
+        width: 80%;
+        margin: 20px auto;
+        border: 3px solid #ff6347; 
+    }
+
+
+    .table th, .table td {
+        text-align: center; 
+        vertical-align: middle; 
+    }
+
+    a {
+        color: #28a745;
+        text-decoration: none; 
+    }
+
+    a:hover {
+          color: #8b0000;
+         text-decoration: underline;
+    }
+
+    .create-link {
+        display: block;
+        text-align: center;
+        margin: 20px auto;
+        color: #007bff;
+        font-weight: bold;
+    }
+
+    .create-link:hover {
+            color: #0056b3;
+    }
+</style>
+
+<h5>Products List</h5>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = product.Id })">Edit</a> 
+                    <a href="@Url.Action("Delete", new { id = product.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="create-link">Create New Product</a>

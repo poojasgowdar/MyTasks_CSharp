@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\bin\Debug\Abstraction_Ex.exe.config
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\bin\Debug\Abstraction_Ex.exe
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\bin\Debug\Abstraction_Ex.pdb
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\obj\Debug\Abstraction_Ex.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\obj\Debug\Abstraction_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\obj\Debug\Abstraction_Ex.exe
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Abstraction_Ex\obj\Debug\Abstraction_Ex.pdb

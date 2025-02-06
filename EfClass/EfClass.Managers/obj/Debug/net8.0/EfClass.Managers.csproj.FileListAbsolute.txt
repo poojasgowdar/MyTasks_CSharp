@@ -1,0 +1,17 @@
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.Managers.deps.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.Managers.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.Managers.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.DataAccess.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.Models.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.DataAccess.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\bin\Debug\net8.0\EfClass.Models.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass..9A30F671.Up2Date
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\refint\EfClass.Managers.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\EfClass.Managers.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.Managers\obj\Debug\net8.0\ref\EfClass.Managers.dll

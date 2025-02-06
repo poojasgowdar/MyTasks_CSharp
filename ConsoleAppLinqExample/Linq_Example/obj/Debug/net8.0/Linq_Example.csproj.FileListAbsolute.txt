@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\bin\Debug\net8.0\Linq_Example.exe
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\bin\Debug\net8.0\Linq_Example.deps.json
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\bin\Debug\net8.0\Linq_Example.runtimeconfig.json
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\bin\Debug\net8.0\Linq_Example.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\bin\Debug\net8.0\Linq_Example.pdb
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\refint\Linq_Example.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.pdb
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\Linq_Example.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Example\obj\Debug\net8.0\ref\Linq_Example.dll

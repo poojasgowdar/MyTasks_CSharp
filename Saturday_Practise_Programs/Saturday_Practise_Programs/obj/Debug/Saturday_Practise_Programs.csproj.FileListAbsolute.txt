@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\bin\Debug\Saturday_Practise_Programs.exe.config
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\bin\Debug\Saturday_Practise_Programs.exe
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\bin\Debug\Saturday_Practise_Programs.pdb
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\obj\Debug\Saturday_Practise_Programs.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\obj\Debug\Saturday_Practise_Programs.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\obj\Debug\Saturday_Practise_Programs.exe
+C:\Users\Pooja S\source\repos\Saturday_Practise_Programs\Saturday_Practise_Programs\obj\Debug\Saturday_Practise_Programs.pdb

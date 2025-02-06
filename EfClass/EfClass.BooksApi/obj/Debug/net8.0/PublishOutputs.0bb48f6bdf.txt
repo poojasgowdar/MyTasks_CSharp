@@ -1,0 +1,11 @@
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\EfClass.BooksApi.exe
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\EfClass.BooksApi.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\EfClass.BooksApi.deps.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\EfClass.BooksApi.runtimeconfig.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\EfClass.BooksApi.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.BooksApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

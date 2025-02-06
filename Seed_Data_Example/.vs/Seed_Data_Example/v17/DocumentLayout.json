@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC661299-B58C-43C7-8F1C-29DBAFF94A54}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\seed_data_example\\productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC661299-B58C-43C7-8F1C-29DBAFF94A54}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC661299-B58C-43C7-8F1C-29DBAFF94A54}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\seed_data_example\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC661299-B58C-43C7-8F1C-29DBAFF94A54}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC661299-B58C-43C7-8F1C-29DBAFF94A54}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\seed_data_example\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC661299-B58C-43C7-8F1C-29DBAFF94A54}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1891ACF-8911-4F3C-BC57-BF265AB128BF}|DataModels\\DataModels.csproj|c:\\users\\pooja s\\source\\repos\\seed_data_example\\datamodels\\entities\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1891ACF-8911-4F3C-BC57-BF265AB128BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\entities\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1891ACF-8911-4F3C-BC57-BF265AB128BF}|DataModels\\DataModels.csproj|c:\\users\\pooja s\\source\\repos\\seed_data_example\\datamodels\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1891ACF-8911-4F3C-BC57-BF265AB128BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T04:32:54.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\ProductController\\Program.cs",
+              "RelativeDocumentMoniker": "ProductController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\ProductController\\Program.cs",
+              "RelativeToolTip": "ProductController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:25:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:13:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\DataModels\\Entities\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "DataModels\\Entities\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\DataModels\\Entities\\AddDbContext.cs",
+              "RelativeToolTip": "DataModels\\Entities\\AddDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:12:01.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\DataModels\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DataModels\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Seed_Data_Example\\DataModels\\Entities\\Product.cs",
+              "RelativeToolTip": "DataModels\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:11:22.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

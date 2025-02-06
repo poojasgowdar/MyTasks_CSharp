@@ -1,0 +1,7 @@
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\obj\Debug\EncapsulationEx.csproj.AssemblyReference.cache
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\obj\Debug\EncapsulationEx.csproj.CoreCompileInputs.cache
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\bin\Debug\EncapsulationEx.exe.config
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\bin\Debug\EncapsulationEx.exe
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\bin\Debug\EncapsulationEx.pdb
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\obj\Debug\EncapsulationEx.exe
+C:\Users\PoojaShivananda\source\repos\EncapsulationEx\EncapsulationEx\obj\Debug\EncapsulationEx.pdb

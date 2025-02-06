@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\New_ASPCORE_WEB_API.props" />
+</Project>

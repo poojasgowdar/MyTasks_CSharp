@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\bin\Debug\net8.0\Linq_Operations.exe
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\bin\Debug\net8.0\Linq_Operations.deps.json
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\bin\Debug\net8.0\Linq_Operations.runtimeconfig.json
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\bin\Debug\net8.0\Linq_Operations.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\bin\Debug\net8.0\Linq_Operations.pdb
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\refint\Linq_Operations.dll
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.pdb
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\Linq_Operations.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\ConsoleAppLinqExample\Linq_Operations\obj\Debug\net8.0\ref\Linq_Operations.dll

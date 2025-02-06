@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\bin\Debug\Palindrome_String.exe.config
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\bin\Debug\Palindrome_String.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\bin\Debug\Palindrome_String.pdb
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\obj\Debug\Palindrome_String.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\obj\Debug\Palindrome_String.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\obj\Debug\Palindrome_String.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Palindrome_String\obj\Debug\Palindrome_String.pdb

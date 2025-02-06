@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DB_Connect5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

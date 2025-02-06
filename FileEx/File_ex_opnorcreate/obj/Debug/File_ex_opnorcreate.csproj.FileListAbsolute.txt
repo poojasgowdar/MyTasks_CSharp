@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\bin\Debug\File_ex_opnorcreate.exe.config
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\bin\Debug\File_ex_opnorcreate.exe
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\bin\Debug\File_ex_opnorcreate.pdb
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\obj\Debug\File_ex_opnorcreate.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\obj\Debug\File_ex_opnorcreate.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\obj\Debug\File_ex_opnorcreate.exe
+C:\Users\Pooja S\source\repos\FileEx\File_ex_opnorcreate\obj\Debug\File_ex_opnorcreate.pdb

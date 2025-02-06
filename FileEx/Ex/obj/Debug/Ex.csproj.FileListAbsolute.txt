@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\FileEx\Ex\bin\Debug\Ex.exe.config
+C:\Users\Pooja S\source\repos\FileEx\Ex\bin\Debug\Ex.exe
+C:\Users\Pooja S\source\repos\FileEx\Ex\bin\Debug\Ex.pdb
+C:\Users\Pooja S\source\repos\FileEx\Ex\obj\Debug\Ex.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\FileEx\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\FileEx\Ex\obj\Debug\Ex.exe
+C:\Users\Pooja S\source\repos\FileEx\Ex\obj\Debug\Ex.pdb

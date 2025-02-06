@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{710C2394-C828-406C-890B-7E6A6A8903B0}|String_Ex\\String_Ex.csproj|c:\\users\\pooja s\\source\\repos\\test_practice\\string_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710C2394-C828-406C-890B-7E6A6A8903B0}|String_Ex\\String_Ex.csproj|solutionrelative:string_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679AAF86-C241-4984-9A47-B34B2956B5A2}|WordCount\\WordCount.csproj|c:\\users\\pooja s\\source\\repos\\test_practice\\wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679AAF86-C241-4984-9A47-B34B2956B5A2}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620E4A8A-AB50-4806-8799-A25BA5091F87}|Palindrome_String\\Palindrome_String.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\palindrome_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620E4A8A-AB50-4806-8799-A25BA5091F87}|Palindrome_String\\Palindrome_String.csproj|solutionrelative:palindrome_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77016120-3618-4DF9-AF44-0A9FA84F4F02}|ReverseString\\ReverseString.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77016120-3618-4DF9-AF44-0A9FA84F4F02}|ReverseString\\ReverseString.csproj|solutionrelative:reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6AC88C-0A93-469A-9FD5-6869704890F8}|Synchronous_Ex\\Synchronous_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\synchronous_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6AC88C-0A93-469A-9FD5-6869704890F8}|Synchronous_Ex\\Synchronous_Ex.csproj|solutionrelative:synchronous_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064CBF07-AE57-4067-BB68-576C4B6EC52C}|Asynchronous_Ex\\Asynchronous_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\asynchronous_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064CBF07-AE57-4067-BB68-576C4B6EC52C}|Asynchronous_Ex\\Asynchronous_Ex.csproj|solutionrelative:asynchronous_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA931BBF-AA3A-4CFD-B8D6-C7B0459D113C}|UnBoxing_Boxing\\UnBoxing_Boxing.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\unboxing_boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA931BBF-AA3A-4CFD-B8D6-C7B0459D113C}|UnBoxing_Boxing\\UnBoxing_Boxing.csproj|solutionrelative:unboxing_boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29E31D-A23C-4AFF-838C-4EBC4EA78259}|Boxing_Unboxing\\Boxing_Unboxing.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\boxing_unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29E31D-A23C-4AFF-838C-4EBC4EA78259}|Boxing_Unboxing\\Boxing_Unboxing.csproj|solutionrelative:boxing_unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7645EE7B-8C23-4BFF-96C3-666617D18A0F}|LinqEx3\\LinqEx3.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\linqex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7645EE7B-8C23-4BFF-96C3-666617D18A0F}|LinqEx3\\LinqEx3.csproj|solutionrelative:linqex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968BF044-CB47-407D-83B6-493F56DCFECC}|Linq_Ex2\\Linq_Ex2.csproj|C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\linq_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968BF044-CB47-407D-83B6-493F56DCFECC}|Linq_Ex2\\Linq_Ex2.csproj|solutionrelative:linq_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\String_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "String_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\String_Ex\\Program.cs",
+              "RelativeToolTip": "String_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:35:31.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\WordCount\\Program.cs",
+              "RelativeDocumentMoniker": "WordCount\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\WordCount\\Program.cs",
+              "RelativeToolTip": "WordCount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:22:18.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Palindrome_String\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrome_String\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Palindrome_String\\Program.cs",
+              "RelativeToolTip": "Palindrome_String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:16:41.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseString\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\ReverseString\\Program.cs",
+              "RelativeToolTip": "ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:05:29.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Asynchronous_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "Asynchronous_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Asynchronous_Ex\\Program.cs",
+              "RelativeToolTip": "Asynchronous_Ex\\Program.cs",
+              "ViewState": "AgIAAAMAAACAmZmZmZkBwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:46:09.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Synchronous_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "Synchronous_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Synchronous_Ex\\Program.cs",
+              "RelativeToolTip": "Synchronous_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:29:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\LinqEx3\\Program.cs",
+              "RelativeDocumentMoniker": "LinqEx3\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\LinqEx3\\Program.cs",
+              "RelativeToolTip": "LinqEx3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:22:53.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Linq_Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Linq_Ex2\\Program.cs",
+              "RelativeToolTip": "Linq_Ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:21:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\UnBoxing_Boxing\\Program.cs",
+              "RelativeDocumentMoniker": "UnBoxing_Boxing\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\UnBoxing_Boxing\\Program.cs",
+              "RelativeToolTip": "UnBoxing_Boxing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:51:30.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Boxing_Unboxing\\Program.cs",
+              "RelativeDocumentMoniker": "Boxing_Unboxing\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Test_Practice\\Boxing_Unboxing\\Program.cs",
+              "RelativeToolTip": "Boxing_Unboxing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:38:28.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

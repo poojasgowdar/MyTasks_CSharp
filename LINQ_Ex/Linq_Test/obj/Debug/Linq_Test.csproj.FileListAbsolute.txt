@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\obj\Debug\Linq_Test.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\obj\Debug\Linq_Test.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\bin\Debug\Linq_Test.exe.config
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\bin\Debug\Linq_Test.exe
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\bin\Debug\Linq_Test.pdb
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\obj\Debug\Linq_Test.exe
+C:\Users\Pooja S\source\repos\LINQ_Ex\Linq_Test\obj\Debug\Linq_Test.pdb

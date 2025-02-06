@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\bin\Debug\AreaOfRectangle.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\obj\Debug\AreaOfRectangle.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\AreaOfRectangle\obj\Debug\AreaOfRectangle.pdb

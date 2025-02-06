@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\bin\Debug\AnonymousEx.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\bin\Debug\AnonymousEx.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\bin\Debug\AnonymousEx.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\obj\Debug\AnonymousEx.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\obj\Debug\AnonymousEx.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\obj\Debug\AnonymousEx.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\AnonymousEx\obj\Debug\AnonymousEx.pdb

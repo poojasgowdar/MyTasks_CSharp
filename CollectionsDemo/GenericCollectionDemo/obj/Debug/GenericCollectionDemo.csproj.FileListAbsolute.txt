@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.pdb

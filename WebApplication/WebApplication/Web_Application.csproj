@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<!-- Ensure this is .NET 8 -->
+		<Nullable>enable</Nullable>
+		<!-- Enables nullable reference types -->
+		<ImplicitUsings>enable</ImplicitUsings>
+		<!-- Enables implicit usings across your project -->
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- Entity Framework Core and related tools -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+			<PrivateAssets>all</PrivateAssets>
+			<!-- Keeps the design-time assets private -->
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+			<PrivateAssets>all</PrivateAssets>
+			<!-- Keeps tools private -->
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+
+		<!-- AutoMapper for object mapping -->
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+
+		<!-- Swashbuckle for Swagger generation -->
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+
+		<!-- LinqKit for advanced LINQ support in EF Core -->
+		<PackageReference Include="LinqKit.Microsoft.EntityFrameworkCore" Version="8.1.7" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<!-- Project references to other projects within your solution -->
+		<ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+		<ProjectReference Include="..\Interfaces\Interfaces.csproj" />
+		<ProjectReference Include="..\Models\Models.csproj" />
+		<ProjectReference Include="..\Services\Services.csproj" />
+	</ItemGroup>
+
+</Project>

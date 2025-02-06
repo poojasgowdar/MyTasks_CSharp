@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\bin\Debug\File_OpenOrCreate.exe.config
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\bin\Debug\File_OpenOrCreate.exe
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\bin\Debug\File_OpenOrCreate.pdb
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\obj\Debug\File_OpenOrCreate.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\obj\Debug\File_OpenOrCreate.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\obj\Debug\File_OpenOrCreate.exe
+C:\Users\Pooja S\source\repos\FileEx\File_OpenOrCreate\obj\Debug\File_OpenOrCreate.pdb

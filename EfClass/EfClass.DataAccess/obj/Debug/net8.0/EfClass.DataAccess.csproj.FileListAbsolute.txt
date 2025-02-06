@@ -1,0 +1,17 @@
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\bin\Debug\net8.0\EfClass.DataAccess.deps.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\bin\Debug\net8.0\EfClass.DataAccess.runtimeconfig.json
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\bin\Debug\net8.0\EfClass.DataAccess.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\bin\Debug\net8.0\EfClass.DataAccess.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\bin\Debug\net8.0\EfClass.Models.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\bin\Debug\net8.0\EfClass.Models.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass..F99043F0.Up2Date
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\refint\EfClass.DataAccess.dll
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.pdb
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\EfClass.DataAccess.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\EfClass\EfClass.DataAccess\obj\Debug\net8.0\ref\EfClass.DataAccess.dll

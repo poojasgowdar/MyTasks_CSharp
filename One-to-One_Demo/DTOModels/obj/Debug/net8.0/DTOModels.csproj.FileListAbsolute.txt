@@ -1,0 +1,11 @@
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\bin\Debug\net8.0\DTOModels.deps.json
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\bin\Debug\net8.0\DTOModels.dll
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\bin\Debug\net8.0\DTOModels.pdb
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\DTOModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\DTOModels.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\DTOModels.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\DTOModels.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\DTOModels.dll
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\refint\DTOModels.dll
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\DTOModels.pdb
+C:\Users\Pooja S\source\repos\One-to-One_Demo\DTOModels\obj\Debug\net8.0\ref\DTOModels.dll

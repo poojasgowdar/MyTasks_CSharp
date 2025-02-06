@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\bin\Debug\Array_Resize.exe.config
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\bin\Debug\Array_Resize.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\bin\Debug\Array_Resize.pdb
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\obj\Debug\Array_Resize.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\obj\Debug\Array_Resize.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\obj\Debug\Array_Resize.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Array_Resize\obj\Debug\Array_Resize.pdb

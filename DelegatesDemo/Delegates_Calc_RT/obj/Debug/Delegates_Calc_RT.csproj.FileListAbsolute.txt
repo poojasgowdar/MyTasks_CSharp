@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\bin\Debug\Delegates_Calc_RT.exe.config
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\bin\Debug\Delegates_Calc_RT.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\bin\Debug\Delegates_Calc_RT.pdb
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\obj\Debug\Delegates_Calc_RT.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\obj\Debug\Delegates_Calc_RT.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\obj\Debug\Delegates_Calc_RT.exe
+C:\Users\Pooja S\source\repos\DelegatesDemo\Delegates_Calc_RT\obj\Debug\Delegates_Calc_RT.pdb

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\user_endpoint_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\user_endpoint_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\viewmodels\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\viewmodels\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\viewmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Migrations\\20241210091618_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User_Endpoint_API\\Migrations\\20241210091618_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|c:\\users\\pooja s\\source\\repos\\user_endpoint_api\\user_endpoint_api\\migrations\\20241210102924_seeddata11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F596270-AE4A-42FB-9BA5-DA224F293308}|User_Endpoint_API\\User_Endpoint_API.csproj|solutionrelative:user_endpoint_api\\migrations\\20241210102924_seeddata11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Models\\User.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:19:42.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:30:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Program.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Program.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:34:31.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\appsettings.json",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\appsettings.json",
+              "RelativeToolTip": "User_Endpoint_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T04:35:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:29:58.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Models\\Admin.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:27:08.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Context\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Context\\AppDbcontext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Context\\AppDbcontext.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Context\\AppDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:25:53.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User_Endpoint_API.csproj",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\User_Endpoint_API.csproj",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\User_Endpoint_API.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\User_Endpoint_API.csproj",
+              "RelativeToolTip": "User_Endpoint_API\\User_Endpoint_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T11:27:10.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\ViewModels\\AdminDto.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\ViewModels\\AdminDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\ViewModels\\AdminDto.cs",
+              "RelativeToolTip": "User_Endpoint_API\\ViewModels\\AdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:11:41.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241210102924_seeddata11.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Migrations\\20241210102924_seeddata11.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Migrations\\20241210102924_seeddata11.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Migrations\\20241210102924_seeddata11.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Migrations\\20241210102924_seeddata11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:29:24.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\ViewModels\\UserDto.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\ViewModels\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\ViewModels\\UserDto.cs",
+              "RelativeToolTip": "User_Endpoint_API\\ViewModels\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:11:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241210091618_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Migrations\\20241210091618_Init.cs",
+              "RelativeDocumentMoniker": "User_Endpoint_API\\Migrations\\20241210091618_Init.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\User_Endpoint_API\\User_Endpoint_API\\Migrations\\20241210091618_Init.cs",
+              "RelativeToolTip": "User_Endpoint_API\\Migrations\\20241210091618_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:16:18.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

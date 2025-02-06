@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\bin\Debug\DictionaryEmp.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\bin\Debug\DictionaryEmp.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\bin\Debug\DictionaryEmp.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\obj\Debug\DictionaryEmp.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\obj\Debug\DictionaryEmp.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\obj\Debug\DictionaryEmp.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\DictionaryEmp\obj\Debug\DictionaryEmp.pdb

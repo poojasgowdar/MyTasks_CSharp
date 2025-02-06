@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\FileEx\File_Append\bin\Debug\File_Append.exe.config
+C:\Users\Pooja S\source\repos\FileEx\File_Append\bin\Debug\File_Append.exe
+C:\Users\Pooja S\source\repos\FileEx\File_Append\bin\Debug\File_Append.pdb
+C:\Users\Pooja S\source\repos\FileEx\File_Append\obj\Debug\File_Append.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\FileEx\File_Append\obj\Debug\File_Append.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\FileEx\File_Append\obj\Debug\File_Append.exe
+C:\Users\Pooja S\source\repos\FileEx\File_Append\obj\Debug\File_Append.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\bin\Debug\Synchronous_Ex.exe.config
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\bin\Debug\Synchronous_Ex.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\bin\Debug\Synchronous_Ex.pdb
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\obj\Debug\Synchronous_Ex.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\obj\Debug\Synchronous_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\obj\Debug\Synchronous_Ex.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Synchronous_Ex\obj\Debug\Synchronous_Ex.pdb

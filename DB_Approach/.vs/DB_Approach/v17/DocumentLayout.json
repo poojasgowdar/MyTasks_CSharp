@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Views\\Brands\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Views\\Brands\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Views\\Brands\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Models\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\MvcDatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Models\\MvcDatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\BrandsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB_Approach\\Controllers\\BrandsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DB_Approach\\Views\\Brands\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Edit.cshtml",
+              "RelativeToolTip": "DB_Approach\\Views\\Brands\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T06:30:34.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DB_Approach\\Views\\Brands\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Delete.cshtml",
+              "RelativeToolTip": "DB_Approach\\Views\\Brands\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T06:29:09.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "DB_Approach\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "DB_Approach\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T06:16:54.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DB_Approach\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:04:14.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Program.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Program.cs",
+              "RelativeToolTip": "DB_Approach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:03:53.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DB_Approach\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:03:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DB_Approach\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:02:34.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Product.cs",
+              "RelativeToolTip": "DB_Approach\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:43:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Brand.cs",
+              "RelativeToolTip": "DB_Approach\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:48:45.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MvcDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\MvcDatabaseContext.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Models\\MvcDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\MvcDatabaseContext.cs",
+              "RelativeToolTip": "DB_Approach\\Models\\MvcDatabaseContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:01:15.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Models\\Category.cs",
+              "RelativeToolTip": "DB_Approach\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:48:53.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DB_Approach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DB_Approach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T05:45:12.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "DB_Approach\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\DB_Approach\\DB_Approach\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "DB_Approach\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:02:02.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

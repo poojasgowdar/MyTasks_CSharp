@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Xucvma/ikk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\Linq_Operations\\Linq_Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

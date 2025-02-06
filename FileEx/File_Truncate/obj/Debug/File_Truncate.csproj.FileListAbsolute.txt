@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\bin\Debug\File_Truncate.exe.config
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\bin\Debug\File_Truncate.exe
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\bin\Debug\File_Truncate.pdb
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\obj\Debug\File_Truncate.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\obj\Debug\File_Truncate.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\obj\Debug\File_Truncate.exe
+C:\Users\Pooja S\source\repos\FileEx\File_Truncate\obj\Debug\File_Truncate.pdb

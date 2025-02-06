@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40C6EE-F467-4969-84E1-8A3CFE149AC0}|MovieList\\MovieList.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\movielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40C6EE-F467-4969-84E1-8A3CFE149AC0}|MovieList\\MovieList.csproj|solutionrelative:movielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B11307F-B35C-41C1-8295-9606731620F3}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\services\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B11307F-B35C-41C1-8295-9606731620F3}|Services\\Services.csproj|solutionrelative:services\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184AC56-1396-43B5-9FBF-9317E98E27FB}|Interface\\Interface.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\interface\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184AC56-1396-43B5-9FBF-9317E98E27FB}|Interface\\Interface.csproj|solutionrelative:interface\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76AF57D-F9E9-49FB-A8E1-5C25185DD50B}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\models\\datamodels\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76AF57D-F9E9-49FB-A8E1-5C25185DD50B}|Models\\Models.csproj|solutionrelative:models\\datamodels\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76AF57D-F9E9-49FB-A8E1-5C25185DD50B}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\models\\datamodels\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76AF57D-F9E9-49FB-A8E1-5C25185DD50B}|Models\\Models.csproj|solutionrelative:models\\datamodels\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40C6EE-F467-4969-84E1-8A3CFE149AC0}|MovieList\\MovieList.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40C6EE-F467-4969-84E1-8A3CFE149AC0}|MovieList\\MovieList.csproj|solutionrelative:movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C2CE96-C5FB-434F-AAF0-993F9DC20D1D}|Swagger\\Swagger.csproj|c:\\users\\pooja s\\source\\repos\\movie_list\\swagger\\swaggers\\enumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C2CE96-C5FB-434F-AAF0-993F9DC20D1D}|Swagger\\Swagger.csproj|solutionrelative:swagger\\swaggers\\enumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Services\\ServiceLayer\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceLayer\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Services\\ServiceLayer\\MovieService.cs",
+              "RelativeToolTip": "Services\\ServiceLayer\\MovieService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:47:09.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\MovieList\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieList\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\MovieList\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieList\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:46:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Interface\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Interface\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Interface\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Interface\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:39:46.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnumSchemaFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Swagger\\Swaggers\\EnumSchemaFilter.cs",
+              "RelativeDocumentMoniker": "Swagger\\Swaggers\\EnumSchemaFilter.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Swagger\\Swaggers\\EnumSchemaFilter.cs",
+              "RelativeToolTip": "Swagger\\Swaggers\\EnumSchemaFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:36:26.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\MovieList\\Program.cs",
+              "RelativeDocumentMoniker": "MovieList\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\MovieList\\Program.cs",
+              "RelativeToolTip": "MovieList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:34:50.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Models\\DataModels\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\Genre.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Models\\DataModels\\Genre.cs",
+              "RelativeToolTip": "Models\\DataModels\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:34:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Models\\DataModels\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\Movie.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Movie_List\\Models\\DataModels\\Movie.cs",
+              "RelativeToolTip": "Models\\DataModels\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:24:12.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

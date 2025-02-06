@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\bin\Debug\Linq_Ex1.exe.config
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\bin\Debug\Linq_Ex1.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\bin\Debug\Linq_Ex1.pdb
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\obj\Debug\Linq_Ex1.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\obj\Debug\Linq_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\obj\Debug\Linq_Ex1.exe
+C:\Users\Pooja S\source\repos\Test_Practice\Linq_Ex1\obj\Debug\Linq_Ex1.pdb

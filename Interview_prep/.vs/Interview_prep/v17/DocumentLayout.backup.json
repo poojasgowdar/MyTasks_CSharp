@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0C97DF-BA7A-4B16-8002-BAC568295012}|Multi_Level_Inheritance\\Multi_Level_Inheritance.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\multi_level_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0C97DF-BA7A-4B16-8002-BAC568295012}|Multi_Level_Inheritance\\Multi_Level_Inheritance.csproj|solutionrelative:multi_level_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FDEDBC-82C5-4096-A98E-CB03E1B9BD09}|Single_level_Inheritance\\Single_level_Inheritance.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\single_level_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FDEDBC-82C5-4096-A98E-CB03E1B9BD09}|Single_level_Inheritance\\Single_level_Inheritance.csproj|solutionrelative:single_level_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14BB084-953D-4F35-A6A8-D32D1AC1918D}|Specialization\\Specialization.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\specialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14BB084-953D-4F35-A6A8-D32D1AC1918D}|Specialization\\Specialization.csproj|solutionrelative:specialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D665BD-704E-4B9E-9847-036FFF5C6042}|Linq_GroupBy_Task\\Linq_GroupBy_Task.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\linq_groupby_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D665BD-704E-4B9E-9847-036FFF5C6042}|Linq_GroupBy_Task\\Linq_GroupBy_Task.csproj|solutionrelative:linq_groupby_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A5861F-5410-4A0A-B9CE-3C8C54F5EBD5}|GroupBy1\\GroupBy1.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\groupby1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A5861F-5410-4A0A-B9CE-3C8C54F5EBD5}|GroupBy1\\GroupBy1.csproj|solutionrelative:groupby1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1AC08D-3DE4-4971-BED8-D4477AC02BB2}|GroupBy_Ex\\GroupBy_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\groupby_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1AC08D-3DE4-4971-BED8-D4477AC02BB2}|GroupBy_Ex\\GroupBy_Ex.csproj|solutionrelative:groupby_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B7D70F-7EAE-4468-B4DC-1A09338A58FD}|Interview_prep\\Interview_prep.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\interview_prep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B7D70F-7EAE-4468-B4DC-1A09338A58FD}|Interview_prep\\Interview_prep.csproj|solutionrelative:interview_prep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E924ADA5-DF6D-44E1-8939-6B9C0A5DD77A}|Delegates_Example1\\Delegates_Example1.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\delegates_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E924ADA5-DF6D-44E1-8939-6B9C0A5DD77A}|Delegates_Example1\\Delegates_Example1.csproj|solutionrelative:delegates_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Multi_Level_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Multi_Level_Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Multi_Level_Inheritance\\Program.cs",
+              "RelativeToolTip": "Multi_Level_Inheritance\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:15:11.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Single_level_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Single_level_Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Single_level_Inheritance\\Program.cs",
+              "RelativeToolTip": "Single_level_Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:50:35.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Specialization\\Program.cs",
+              "RelativeDocumentMoniker": "Specialization\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Specialization\\Program.cs",
+              "RelativeToolTip": "Specialization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:51:26.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Linq_GroupBy_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_GroupBy_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Linq_GroupBy_Task\\Program.cs",
+              "RelativeToolTip": "Linq_GroupBy_Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:45:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\GroupBy1\\Program.cs",
+              "RelativeDocumentMoniker": "GroupBy1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\GroupBy1\\Program.cs",
+              "RelativeToolTip": "GroupBy1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:30:13.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\GroupBy_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "GroupBy_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\GroupBy_Ex\\Program.cs",
+              "RelativeToolTip": "GroupBy_Ex\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwDYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:04:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Delegates_Example1\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates_Example1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Delegates_Example1\\Program.cs",
+              "RelativeToolTip": "Delegates_Example1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:58:34.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Interview_prep\\Program.cs",
+              "RelativeDocumentMoniker": "Interview_prep\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Interview_prep\\Program.cs",
+              "RelativeToolTip": "Interview_prep\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:41:13.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

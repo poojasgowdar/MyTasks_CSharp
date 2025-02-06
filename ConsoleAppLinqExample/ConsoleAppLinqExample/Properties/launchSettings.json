@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleAppLinqExample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

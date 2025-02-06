@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\bin\Debug\File_CreateNew.exe.config
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\bin\Debug\File_CreateNew.exe
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\bin\Debug\File_CreateNew.pdb
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\obj\Debug\File_CreateNew.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\obj\Debug\File_CreateNew.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\obj\Debug\File_CreateNew.exe
+C:\Users\Pooja S\source\repos\FileEx\File_CreateNew\obj\Debug\File_CreateNew.pdb

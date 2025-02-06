@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\pone-to-one\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|solutionrelative:pone-to-one\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\onetoone\\mapper\\createmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\mapper\\createmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\onetoone\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\onetoone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\onetoone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4009937-4738-4544-A141-D17F5BB32BF7}|OneToOne\\OneToOne.csproj|solutionrelative:onetoone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\pone-to-one\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|solutionrelative:pone-to-one\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\dtos\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FC7FA5-0C4A-4EB4-B756-DDA745D723AD}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\pone-to-one\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|solutionrelative:pone-to-one\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|c:\\users\\pooja s\\source\\repos\\pone-to-one\\pone-to-one\\migrations\\20250108044045_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544B8B7E-1D9D-4BCE-94A0-F488D646BF2E}|POne-to-One\\POne-to-One.csproj|solutionrelative:pone-to-one\\migrations\\20250108044045_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\Dtos\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\Dtos\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:20:20.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\Mapper\\CreateMapper.cs",
+              "RelativeDocumentMoniker": "OneToOne\\Mapper\\CreateMapper.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\Mapper\\CreateMapper.cs",
+              "RelativeToolTip": "OneToOne\\Mapper\\CreateMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:17:37.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250108044045_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Migrations\\20250108044045_Init.cs",
+              "RelativeDocumentMoniker": "POne-to-One\\Migrations\\20250108044045_Init.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Migrations\\20250108044045_Init.cs",
+              "RelativeToolTip": "POne-to-One\\Migrations\\20250108044045_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:40:45.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\Program.cs",
+              "RelativeDocumentMoniker": "OneToOne\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\Program.cs",
+              "RelativeToolTip": "OneToOne\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:26:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\appsettings.json",
+              "RelativeDocumentMoniker": "OneToOne\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\appsettings.json",
+              "RelativeToolTip": "OneToOne\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T04:19:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "POne-to-One\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "POne-to-One\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:09:58.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "POne-to-One\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Entities\\Course.cs",
+              "RelativeToolTip": "POne-to-One\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:52:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "OneToOne\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\OneToOne\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "OneToOne\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:48:20.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "POne-to-One\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\POne-to-One\\POne-to-One\\Entities\\Student.cs",
+              "RelativeToolTip": "POne-to-One\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:46:54.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

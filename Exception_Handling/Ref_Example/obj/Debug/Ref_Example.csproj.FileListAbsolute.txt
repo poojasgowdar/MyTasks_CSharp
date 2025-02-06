@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\bin\Debug\Ref_Example.exe.config
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\bin\Debug\Ref_Example.exe
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\bin\Debug\Ref_Example.pdb
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\obj\Debug\Ref_Example.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\obj\Debug\Ref_Example.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\obj\Debug\Ref_Example.exe
+C:\Users\Pooja S\source\repos\Exception_Handling\Ref_Example\obj\Debug\Ref_Example.pdb

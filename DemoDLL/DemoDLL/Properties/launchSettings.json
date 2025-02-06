@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoDLL": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

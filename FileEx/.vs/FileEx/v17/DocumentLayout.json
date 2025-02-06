@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7E5F5A-CD13-4EC7-BE87-D72453B6D056}|File_Open\\File_Open.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\file_open\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7E5F5A-CD13-4EC7-BE87-D72453B6D056}|File_Open\\File_Open.csproj|solutionrelative:file_open\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C0BF1E-BCE5-40F7-A4F5-DBCFE3300836}|File_Truncate\\File_Truncate.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\file_truncate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C0BF1E-BCE5-40F7-A4F5-DBCFE3300836}|File_Truncate\\File_Truncate.csproj|solutionrelative:file_truncate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BDE346-4A4B-4A8B-9363-393F6E00D6BA}|File_Append\\File_Append.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\file_append\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BDE346-4A4B-4A8B-9363-393F6E00D6BA}|File_Append\\File_Append.csproj|solutionrelative:file_append\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFBDB9F-D7D5-4365-9A51-F93F1874A763}|File_ex_opnorcreate\\File_ex_opnorcreate.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\file_ex_opnorcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFBDB9F-D7D5-4365-9A51-F93F1874A763}|File_ex_opnorcreate\\File_ex_opnorcreate.csproj|solutionrelative:file_ex_opnorcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72068696-A715-43AE-88EF-BD658F5659BA}|Ex_Synchronous\\Ex_Synchronous.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\ex_synchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72068696-A715-43AE-88EF-BD658F5659BA}|Ex_Synchronous\\Ex_Synchronous.csproj|solutionrelative:ex_synchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CDF871-4977-4EF9-B8A7-946544BA8EA1}|FileEx\\FileEx.csproj|c:\\users\\pooja s\\source\\repos\\fileex\\fileex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CDF871-4977-4EF9-B8A7-946544BA8EA1}|FileEx\\FileEx.csproj|solutionrelative:fileex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F08071-712B-4FB8-A1D1-771CFF65A2FD}|File_Operations_Ex\\File_Operations_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\file_operations_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F08071-712B-4FB8-A1D1-771CFF65A2FD}|File_Operations_Ex\\File_Operations_Ex.csproj|solutionrelative:file_operations_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E015C85A-F248-4ECF-90C2-D0CC87D585F8}|File_CreateNew\\File_CreateNew.csproj|C:\\Users\\Pooja S\\source\\repos\\FileEx\\file_createnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E015C85A-F248-4ECF-90C2-D0CC87D585F8}|File_CreateNew\\File_CreateNew.csproj|solutionrelative:file_createnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\FileEx\\Program.cs",
+              "RelativeDocumentMoniker": "FileEx\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\FileEx\\Program.cs",
+              "RelativeToolTip": "FileEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:48:58.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\Ex_Synchronous\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_Synchronous\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\Ex_Synchronous\\Program.cs",
+              "RelativeToolTip": "Ex_Synchronous\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:22:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_ex_opnorcreate\\Program.cs",
+              "RelativeDocumentMoniker": "File_ex_opnorcreate\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_ex_opnorcreate\\Program.cs",
+              "RelativeToolTip": "File_ex_opnorcreate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:17:37.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Append\\Program.cs",
+              "RelativeDocumentMoniker": "File_Append\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Append\\Program.cs",
+              "RelativeToolTip": "File_Append\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:06:16.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Truncate\\Program.cs",
+              "RelativeDocumentMoniker": "File_Truncate\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Truncate\\Program.cs",
+              "RelativeToolTip": "File_Truncate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:05:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Open\\Program.cs",
+              "RelativeDocumentMoniker": "File_Open\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Open\\Program.cs",
+              "RelativeToolTip": "File_Open\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:01:26.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_CreateNew\\Program.cs",
+              "RelativeDocumentMoniker": "File_CreateNew\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_CreateNew\\Program.cs",
+              "RelativeToolTip": "File_CreateNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:57:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Operations_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "File_Operations_Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\FileEx\\File_Operations_Ex\\Program.cs",
+              "RelativeToolTip": "File_Operations_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:19:26.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

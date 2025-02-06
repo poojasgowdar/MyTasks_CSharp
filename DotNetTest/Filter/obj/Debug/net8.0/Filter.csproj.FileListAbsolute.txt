@@ -1,0 +1,14 @@
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\bin\Debug\net8.0\Filter.deps.json
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\bin\Debug\net8.0\Filter.runtimeconfig.json
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\bin\Debug\net8.0\Filter.dll
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\bin\Debug\net8.0\Filter.pdb
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.dll
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\refint\Filter.dll
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.pdb
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\Filter.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\DotNetTest\Filter\obj\Debug\net8.0\ref\Filter.dll

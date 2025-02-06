@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\bin\Debug\GenericDictionaryDemo.exe.config
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\bin\Debug\GenericDictionaryDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\bin\Debug\GenericDictionaryDemo.pdb
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.exe
+C:\Users\Pooja S\source\repos\CollectionsDemo\GenericDictionaryDemo\obj\Debug\GenericDictionaryDemo.pdb

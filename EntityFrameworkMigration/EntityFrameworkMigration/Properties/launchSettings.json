@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EntityFrameworkMigration": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

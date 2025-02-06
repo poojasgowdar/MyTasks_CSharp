@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB45BBD-33C6-4066-97A3-D8815AC9C051}|Filter\\Filter.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\filter\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB45BBD-33C6-4066-97A3-D8815AC9C051}|Filter\\Filter.csproj|solutionrelative:filter\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5019BF1-8C29-4C1A-8F6F-0DDA95F14474}|Middleware\\Middleware.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\middleware\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5019BF1-8C29-4C1A-8F6F-0DDA95F14474}|Middleware\\Middleware.csproj|solutionrelative:middleware\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D1327-74DF-4788-8553-BE10DD7AF44B}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\services\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732D1327-74DF-4788-8553-BE10DD7AF44B}|Services\\Services.csproj|solutionrelative:services\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0647FF-0FCC-43B1-8578-6FE2E81010F2}|Entities\\Entities.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0647FF-0FCC-43B1-8578-6FE2E81010F2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0647FF-0FCC-43B1-8578-6FE2E81010F2}|Entities\\Entities.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\entities\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0647FF-0FCC-43B1-8578-6FE2E81010F2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F102C6-94BB-4416-99E4-028FFA55D6C4}|Repository\\Repository.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F102C6-94BB-4416-99E4-028FFA55D6C4}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24E1317-0E3C-496F-8204-040BF1E5691F}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\dtos\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24E1317-0E3C-496F-8204-040BF1E5691F}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE2265D-9C72-4875-961E-EA8B9B97F258}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE2265D-9C72-4875-961E-EA8B9B97F258}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE2265D-9C72-4875-961E-EA8B9B97F258}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE2265D-9C72-4875-961E-EA8B9B97F258}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E475009-D1D8-4626-BB6D-FB74C13E961D}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE2265D-9C72-4875-961E-EA8B9B97F258}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\interfaces\\interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BE2265D-9C72-4875-961E-EA8B9B97F258}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24E1317-0E3C-496F-8204-040BF1E5691F}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\dtos\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24E1317-0E3C-496F-8204-040BF1E5691F}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24E1317-0E3C-496F-8204-040BF1E5691F}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\source\\repos\\productstask\\dtos\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24E1317-0E3C-496F-8204-040BF1E5691F}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Repository\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Repository\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:48:19.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:02:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Middleware\\MiddleWares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\MiddleWares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Middleware\\MiddleWares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\MiddleWares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:29:47.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\Program.cs",
+              "RelativeDocumentMoniker": "ProductController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\Program.cs",
+              "RelativeToolTip": "ProductController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:57:26.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Filter\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Filter\\Filters\\LogActionFilter.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Filter\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Filter\\Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:12:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T03:55:55.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\ServiceLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceLayer\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\ServiceLayer\\ProductService.cs",
+              "RelativeToolTip": "Services\\ServiceLayer\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:49:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Entities\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:42:51.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "Entities\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:42:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dto\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dto\\ProductCreateDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:42:30.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interface\\IService.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:15:04.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:15:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.http",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\ProductController.http",
+              "RelativeDocumentMoniker": "ProductController\\ProductController.http",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\ProductController\\ProductController.http",
+              "RelativeToolTip": "ProductController\\ProductController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-16T10:47:06.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj",
+              "RelativeToolTip": "Interfaces\\Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T10:13:50.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dto\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dto\\ProductUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:42:41.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:42:49.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
