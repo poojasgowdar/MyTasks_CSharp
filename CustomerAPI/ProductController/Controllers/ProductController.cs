@@ -56,6 +56,7 @@ namespace ProductController.Controllers
                 return StatusCode(500, new { message = "An error occurred while fetching the product." });
             }
         }
+        
 
 
 

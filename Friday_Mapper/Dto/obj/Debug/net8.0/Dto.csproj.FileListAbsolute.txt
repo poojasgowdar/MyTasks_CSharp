@@ -1,0 +1,15 @@
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\bin\Debug\net8.0\Dto.runtimeconfig.json
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\bin\Debug\net8.0\Dto.dll
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.sourcelink.json
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.dll
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\Dto.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\Friday_Mapper\Dto\obj\Debug\net8.0\ref\Dto.dll

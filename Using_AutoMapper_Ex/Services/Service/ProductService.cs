@@ -24,20 +24,25 @@ namespace Services.Service
             _mapper = mapper;
         }
 
-        public List<ProductDTO> GetAllProducts()
+        public List<Product> GetAllProducts(string name, int page, int pageSize)
         {
-            var products=_productRepository.GetAllProducts();
-            return _mapper.Map<List<ProductDTO>>(products);
+            return _productRepository.GetAllProducts(name, page, pageSize);
         }
         public ProductDTO GetById(int id)
         {
             var product = _productRepository.GetById(id);
             return _mapper.Map<ProductDTO>(product);
         }
+        
         public void Add(ProductDTO productDTO)
         {
             var product = _mapper.Map<Product>(productDTO);
             _productRepository.Add(product); 
+        }
+        public void AddBulk(List<ProductDTO> productDtos)
+        {
+            var products = _mapper.Map<List<Product>>(productDtos);
+            _productRepository.AddBulk(products);
         }
 
         public bool UpdateById(int id,ProductDTO productDto)
@@ -54,6 +59,10 @@ namespace Services.Service
         public void DeleteById(int id)
         {
             _productRepository.Delete(id);
+        }
+        public bool DeleteBulkProducts(List<int> productDtos)
+        {
+            return _productRepository.DeleteBulk(productDtos);
         }
     }
 }

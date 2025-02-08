@@ -17,9 +17,9 @@ namespace ProductController.Controllers
         }
 
         [HttpGet("GetAllProducts")]
-        public IActionResult GetAll()
+        public IActionResult GetAll([FromQuery] string name, [FromQuery] int page = 1, [FromQuery] int pageSize = 10)
         {
-            var products = _productService.GetAllProducts();
+            var products = _productService.GetAllProducts(name, page, pageSize);
             return Ok(products);
         }
 
@@ -39,6 +39,14 @@ namespace ProductController.Controllers
         {
             _productService.Add(productDTO);
              return Ok("Product added successfully");
+        }
+
+        [HttpPost("CreateBulkProducts")]
+        public IActionResult AddBulk([FromBody] List<ProductDTO> productDtos)
+        {
+
+            _productService.AddBulk(productDtos);
+            return Ok("Bulk Products added successfully");
         }
 
         [HttpPut("UpdateProduct{id}")]
@@ -61,5 +69,15 @@ namespace ProductController.Controllers
             _productService.DeleteById(id);
             return Ok("Product Deleted Successfully");
         }
+        [HttpDelete("DeleteBulkProducts")]
+        public IActionResult DeleteBulk([FromBody] List<int> ids)
+        {
+            bool isDeleted =_productService.DeleteBulkProducts(ids);
+            if (!isDeleted)
+                return NotFound(new { Message = "No matching products found for deletion." });
+            return Ok("Products deleted successfully.");
+        }
+
+
     }
 }

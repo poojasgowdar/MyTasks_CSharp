@@ -12,3 +12,4 @@ C:\Users\Pooja S\source\repos\POne-to-One\POne-to-One\obj\Debug\net8.0\refint\PO
 C:\Users\Pooja S\source\repos\POne-to-One\POne-to-One\obj\Debug\net8.0\POne-to-One.pdb
 C:\Users\Pooja S\source\repos\POne-to-One\POne-to-One\obj\Debug\net8.0\POne-to-One.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\POne-to-One\POne-to-One\obj\Debug\net8.0\ref\POne-to-One.dll
+C:\Users\Pooja S\source\repos\POne-to-One\POne-to-One\obj\Debug\net8.0\POne-to-One.sourcelink.json

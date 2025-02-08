@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|solutionrelative:models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|solutionrelative:models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0118070D-47D0-4CA0-94CD-9F9F32598921}|UserController\\UserController.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\usercontroller\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0118070D-47D0-4CA0-94CD-9F9F32598921}|UserController\\UserController.csproj|solutionrelative:usercontroller\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\models\\dbmodels\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|solutionrelative:models\\dbmodels\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0118070D-47D0-4CA0-94CD-9F9F32598921}|UserController\\UserController.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\usercontroller\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0118070D-47D0-4CA0-94CD-9F9F32598921}|UserController\\UserController.csproj|solutionrelative:usercontroller\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0B7AF-94AE-4E13-9A7F-5CB0CC1F8C01}|Models\\Models.csproj|solutionrelative:models\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35E1C6CB-6466-4DB4-8EB8-F40FC93D48F3}|DTOModels\\DTOModels.csproj|c:\\users\\pooja s\\source\\repos\\one-to-one_demo\\dtomodels\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -174,26 +174,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\UserController\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "UserController\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\UserController\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UserController\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAIwBMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:25:45.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\Models\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\Models\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Models\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:23:17.996Z",
               "EditorCaption": ""
@@ -206,20 +206,20 @@
               "RelativeDocumentMoniker": "Models\\DbModels\\UserProfile.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\Models\\DbModels\\UserProfile.cs",
               "RelativeToolTip": "Models\\DbModels\\UserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:21:50.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\Models\\DbModels\\User.cs",
               "RelativeDocumentMoniker": "Models\\DbModels\\User.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\One-to-One_Demo\\Models\\DbModels\\User.cs",
               "RelativeToolTip": "Models\\DbModels\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:21:34.908Z",
               "EditorCaption": ""

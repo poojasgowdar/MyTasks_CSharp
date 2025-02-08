@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\bin\Debug\PropertyInjection.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\bin\Debug\PropertyInjection.exe
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\bin\Debug\PropertyInjection.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\obj\Debug\PropertyInjection.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\obj\Debug\PropertyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\obj\Debug\PropertyInjection.exe
+C:\Users\Pooja S\source\repos\Interview_prep\PropertyInjection\obj\Debug\PropertyInjection.pdb

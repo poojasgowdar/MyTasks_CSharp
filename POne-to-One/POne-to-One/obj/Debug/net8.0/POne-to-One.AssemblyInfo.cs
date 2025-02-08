@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POne-to-One")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3bf027a29b7bed1e5090b2c7cb9432216502be")]
 [assembly: System.Reflection.AssemblyProductAttribute("POne-to-One")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POne-to-One")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

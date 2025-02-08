@@ -10,11 +10,13 @@ namespace Interfaces.Interface
 {
     public interface IRepository
     {
-        public List<Product> GetAllProducts();
+        public List<Product> GetAllProducts(string name,int page,int pageSize);
         public Product GetById(int id);
         public void Add(Product product);
+        public void AddBulk(List<Product> products);
         public void Update(Product product);
         public void Delete(int id);
+        public bool DeleteBulk(List<int> productIds);
 
 
     }

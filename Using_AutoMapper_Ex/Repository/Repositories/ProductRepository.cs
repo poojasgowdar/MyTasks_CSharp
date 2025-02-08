@@ -16,9 +16,14 @@ namespace Repository.Repositories
             _context = context;
         }
 
-        public List<Product> GetAllProducts()
+        public List<Product> GetAllProducts(string name, int page, int pageSize)
         {
-            return _context.Products.ToList();
+            var query = _context.Products.AsQueryable();
+            if (!string.IsNullOrEmpty(name))
+            {
+                query = query.Where(p => p.Name.Contains(name));
+            }
+            return query.Skip((page - 1) * pageSize).Take(pageSize).ToList();
         }
 
         public Product GetById(int id)
@@ -29,6 +34,12 @@ namespace Repository.Repositories
         public void Add(Product product)
         {
             _context.Products.Add(product);
+            _context.SaveChanges();
+        }
+
+        public void AddBulk(List<Product> products)
+        {
+            _context.Products.AddRange(products);
             _context.SaveChanges();
         }
         public void Update(Product product)
@@ -46,6 +57,17 @@ namespace Repository.Repositories
                 _context.SaveChanges();
             }
 
+        }
+        public bool DeleteBulk(List<int> productIds)
+        {
+            var products = _context.Products.Where(p => productIds.Contains(p.Id)).ToList();
+            if (!products.Any())
+            {
+                return false;
+            }
+            _context.Products.RemoveRange(products);
+            _context.SaveChanges();
+            return true;
         }
     }
 }

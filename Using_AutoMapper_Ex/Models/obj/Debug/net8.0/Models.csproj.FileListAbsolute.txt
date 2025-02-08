@@ -12,3 +12,4 @@ C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Models\obj\Debug\net8.0\ref\Mo
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Models\bin\Debug\net8.0\Models.runtimeconfig.json
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Models\obj\Debug\net8.0\Models.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Models\obj\Debug\net8.0\Models.sourcelink.json

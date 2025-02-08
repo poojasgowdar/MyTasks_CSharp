@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\bin\Debug\MethodInjection.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\bin\Debug\MethodInjection.exe
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\bin\Debug\MethodInjection.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\obj\Debug\MethodInjection.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\obj\Debug\MethodInjection.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\obj\Debug\MethodInjection.exe
+C:\Users\Pooja S\source\repos\Interview_prep\MethodInjection\obj\Debug\MethodInjection.pdb
