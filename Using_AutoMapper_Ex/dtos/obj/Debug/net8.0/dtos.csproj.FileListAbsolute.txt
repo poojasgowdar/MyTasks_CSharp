@@ -9,7 +9,5 @@ C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\dtos.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\refint\dtos.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\dtos.pdb
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\ref\dtos.dll
-C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\bin\Debug\net8.0\dtos.runtimeconfig.json
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\dtos.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\dtos.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\dtos\obj\Debug\net8.0\dtos.sourcelink.json

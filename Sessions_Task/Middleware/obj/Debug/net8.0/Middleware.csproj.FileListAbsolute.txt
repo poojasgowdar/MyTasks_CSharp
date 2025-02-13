@@ -10,3 +10,4 @@ C:\Users\Pooja S\source\repos\Sessions_Task\Middleware\obj\Debug\net8.0\Middlewa
 C:\Users\Pooja S\source\repos\Sessions_Task\Middleware\obj\Debug\net8.0\refint\Middleware.dll
 C:\Users\Pooja S\source\repos\Sessions_Task\Middleware\obj\Debug\net8.0\Middleware.pdb
 C:\Users\Pooja S\source\repos\Sessions_Task\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\Pooja S\source\repos\Sessions_Task\Middleware\obj\Debug\net8.0\Middleware.sourcelink.json

@@ -11,7 +11,7 @@ namespace Repository.Repositories
     public class ProductRepository:IRepository
     {
         private readonly AppDbContext _context;
-        public ProductRepository(AppDbContext context)
+        public ProductRepository(AppDbContext context)  
         {
             _context = context;
         }
@@ -24,6 +24,7 @@ namespace Repository.Repositories
                 query = query.Where(p => p.Name.Contains(name));
             }
             return query.Skip((page - 1) * pageSize).Take(pageSize).ToList();
+            
         }
 
         public Product GetById(int id)

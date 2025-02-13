@@ -9,9 +9,7 @@ C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\obj\Debug\net8.0\Serv
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\obj\Debug\net8.0\ref\Services.dll
-C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\bin\Debug\net8.0\Services.runtimeconfig.json
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\bin\Debug\net8.0\dtos.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\bin\Debug\net8.0\Interfaces.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Services\bin\Debug\net8.0\Models.dll

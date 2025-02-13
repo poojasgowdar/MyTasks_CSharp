@@ -1,0 +1,38 @@
+﻿@model IEnumerable< Product_MVC_Project.Models.Product>
+@{
+    ViewData["Title"] = "All Product List";
+}
+<h2> @ViewBag.Title</h2>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+<a asp-action="CreateProduct" class="btn btn-primary">Add New Product</a>
+<table class="product-table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {   
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    <a asp-action="UpdateProduct" asp-route-id="@product.Id" class="btn btn-warning">Update</a>
+                    <a asp-action="DeleteProduct" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

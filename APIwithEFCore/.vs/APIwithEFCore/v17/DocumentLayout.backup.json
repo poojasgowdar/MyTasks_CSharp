@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|c:\\users\\pooja s\\source\\repos\\apiwithefcore\\apiwithefcore\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|solutionrelative:apiwithefcore\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|c:\\users\\pooja s\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|solutionrelative:apiwithefcore\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|c:\\users\\pooja s\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|solutionrelative:apiwithefcore\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|c:\\users\\pooja s\\source\\repos\\apiwithefcore\\apiwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|solutionrelative:apiwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|c:\\users\\pooja s\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|solutionrelative:apiwithefcore\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|c:\\users\\pooja s\\source\\repos\\apiwithefcore\\apiwithefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07FB4F9-CD51-481A-9585-61A3C582D166}|APIwithEFCore\\APIwithEFCore.csproj|solutionrelative:apiwithefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "APIwithEFCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Program.cs",
+              "RelativeToolTip": "APIwithEFCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:14:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Context\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "APIwithEFCore\\Context\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Context\\SchoolContext.cs",
+              "RelativeToolTip": "APIwithEFCore\\Context\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:10:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "APIwithEFCore\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\Teacher.cs",
+              "RelativeToolTip": "APIwithEFCore\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:10:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "APIwithEFCore\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "APIwithEFCore\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:10:42.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "APIwithEFCore\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\Student.cs",
+              "RelativeToolTip": "APIwithEFCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:10:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "APIwithEFCore\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\APIwithEFCore\\APIwithEFCore\\Models\\Course.cs",
+              "RelativeToolTip": "APIwithEFCore\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:10:27.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

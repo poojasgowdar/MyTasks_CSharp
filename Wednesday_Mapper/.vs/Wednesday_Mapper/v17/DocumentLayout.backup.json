@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71D67C0-9EC6-4E46-B935-4517D373BF00}|Repository\\Repository.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71D67C0-9EC6-4E46-B935-4517D373BF00}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDE0F06-347E-4955-895D-CFB89415A56C}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\interfaces\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDE0F06-347E-4955-895D-CFB89415A56C}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDE0F06-347E-4955-895D-CFB89415A56C}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\interfaces\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDE0F06-347E-4955-895D-CFB89415A56C}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\helpers\\basicauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\helpers\\basicauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6423BD-52B2-4649-8909-259C57211470}|Middlewares\\Middlewares.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\middlewares\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6423BD-52B2-4649-8909-259C57211470}|Middlewares\\Middlewares.csproj|solutionrelative:middlewares\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601CB3F-942E-40E9-A100-106C7853B1B4}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\services\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601CB3F-942E-40E9-A100-106C7853B1B4}|Services\\Services.csproj|solutionrelative:services\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57874F9E-43C2-4FE7-BBB1-9873B5D43C3F}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57874F9E-43C2-4FE7-BBB1-9873B5D43C3F}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C5A9815C-83CE-4E06-A335-A3953C79E9D3}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA98016F-1AA7-4CE9-8365-E7C872081365}|Dtos\\Dtos.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\dtos\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA98016F-1AA7-4CE9-8365-E7C872081365}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57874F9E-43C2-4FE7-BBB1-9873B5D43C3F}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\wednesday_mapper\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57874F9E-43C2-4FE7-BBB1-9873B5D43C3F}|Models\\Models.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicAuthorizationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Helpers\\BasicAuthorizationAttribute.cs",
+              "RelativeDocumentMoniker": "ProductController\\Helpers\\BasicAuthorizationAttribute.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Helpers\\BasicAuthorizationAttribute.cs",
+              "RelativeToolTip": "ProductController\\Helpers\\BasicAuthorizationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:49:58.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Program.cs",
+              "RelativeDocumentMoniker": "ProductController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Program.cs",
+              "RelativeToolTip": "ProductController\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvzgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:15:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T08:37:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Interfaces\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Interfaces\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:42:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Interfaces\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Interfaces\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:43:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Repository\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Repository\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:44:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasicAuthenticationClient.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Helpers\\BasicAuthenticationClient.cs",
+              "RelativeDocumentMoniker": "ProductController\\Helpers\\BasicAuthenticationClient.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Helpers\\BasicAuthenticationClient.cs",
+              "RelativeToolTip": "ProductController\\Helpers\\BasicAuthenticationClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:51:12.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Helpers\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "ProductController\\Helpers\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Helpers\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "ProductController\\Helpers\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAABYAAAAAzczMzMwUwCwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:51:46.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAArwEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:53:18.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Middlewares\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Middlewares\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:51:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Controllers\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\Controllers\\MyMappingProfile.cs",
+              "RelativeToolTip": "ProductController\\Controllers\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:58:05.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Services\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Services\\Service\\ProductService.cs",
+              "RelativeToolTip": "Services\\Service\\ProductService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:45:38.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:08:48.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Dtos\\Dto\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Dtos\\Dto\\ProductDTO.cs",
+              "RelativeToolTip": "Dtos\\Dto\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:52:22.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.http",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\ProductController.http",
+              "RelativeDocumentMoniker": "ProductController\\ProductController.http",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\ProductController.http",
+              "RelativeToolTip": "ProductController\\ProductController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-13T08:45:44.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:41:40.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

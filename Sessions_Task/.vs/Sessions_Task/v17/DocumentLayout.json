@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08D32D2F-AB3B-45BD-9965-492C921961AC}|Middleware\\Middleware.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\middleware\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D32D2F-AB3B-45BD-9965-492C921961AC}|Middleware\\Middleware.csproj|solutionrelative:middleware\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\sessiontracking_controller\\helpers\\basicauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50AAA8B-6DA2-46CB-B394-ADD0EE828BC1}|SessionTracking_Controller\\SessionTracking_Controller.csproj|solutionrelative:sessiontracking_controller\\helpers\\basicauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{480A1EC5-2085-46AF-8621-81B5F09F6D38}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\sessions_task\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +54,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:24:55.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Helpers\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Helpers\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Helpers\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Helpers\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:19:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicAuthenticationClient.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Helpers\\BasicAuthenticationClient.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Helpers\\BasicAuthenticationClient.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Helpers\\BasicAuthenticationClient.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Helpers\\BasicAuthenticationClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:19:04.731Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Middleware\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Middleware\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:22:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Program.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Program.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:19:46.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicAuthorizationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Helpers\\BasicAuthorizationAttribute.cs",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\Helpers\\BasicAuthorizationAttribute.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Helpers\\BasicAuthorizationAttribute.cs",
+              "RelativeToolTip": "SessionTracking_Controller\\Helpers\\BasicAuthorizationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:20:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\appsettings.json",
+              "RelativeDocumentMoniker": "SessionTracking_Controller\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\appsettings.json",
+              "RelativeToolTip": "SessionTracking_Controller\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T12:24:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Models\\Entities\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
@@ -46,12 +153,11 @@
               "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T05:36:12.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T05:36:12.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
@@ -63,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Repositories\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Repository\\ProductRepository.cs",
@@ -75,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Interfaces\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
@@ -84,32 +190,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T09:00:07.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Program.cs",
-              "RelativeDocumentMoniker": "SessionTracking_Controller\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\SessionTracking_Controller\\Program.cs",
-              "RelativeToolTip": "SessionTracking_Controller\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T08:19:46.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Middleware\\Middlewares\\LoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "Middleware\\Middlewares\\LoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Sessions_Task\\Middleware\\Middlewares\\LoggingMiddleware.cs",
-              "RelativeToolTip": "Middleware\\Middlewares\\LoggingMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T07:22:05.224Z",
-              "EditorCaption": ""
             }
           ]
         }

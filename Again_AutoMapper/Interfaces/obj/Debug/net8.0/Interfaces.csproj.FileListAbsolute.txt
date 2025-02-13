@@ -1,5 +1,4 @@
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
-C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\bin\Debug\net8.0\Interfaces.dll
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\bin\Debug\net8.0\Interfaces.pdb
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\bin\Debug\net8.0\dtos.dll
@@ -15,5 +14,5 @@ C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\Inter
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\Interfaces.dll
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\Interfaces.pdb
-C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+C:\Users\Pooja S\source\repos\Again_AutoMapper\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json

@@ -2,6 +2,7 @@
 using Interfaces.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ProductController.Helpers;
 
 namespace ProductController.Controllers
 {
@@ -16,6 +17,7 @@ namespace ProductController.Controllers
         }
 
         [HttpGet("GetAllProducts")]
+        [BasicAuthorization]
         public IActionResult GetAllProducts()
         {
             var products = _productService.GetProducts();
@@ -23,6 +25,7 @@ namespace ProductController.Controllers
         }
 
         [HttpGet("GetProductsById{id}")]
+        [BasicAuthorization]
         public IActionResult GetById(int id)
         {
             var product = _productService.GetById(id);
@@ -34,6 +37,7 @@ namespace ProductController.Controllers
         }
 
         [HttpPost("CreateNewProduct")]
+        [BasicAuthorization]
         public IActionResult Add([FromBody] ProductDTO productDto)
         {
             _productService.Add(productDto);
@@ -41,6 +45,7 @@ namespace ProductController.Controllers
         }
 
         [HttpPut("UpdateProductById{id}")]
+        [BasicAuthorization]
         public IActionResult Update(int id, ProductDTO productDto)
         {
             var result = _productService.UpdateById(id, productDto);
@@ -52,6 +57,7 @@ namespace ProductController.Controllers
         }
 
         [HttpDelete("DeleteProductById{id}")]
+        [BasicAuthorization]
         public IActionResult DeleteById(int id)
         {
             var existingProduct = _productService.GetById(id);

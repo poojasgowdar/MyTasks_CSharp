@@ -9,9 +9,7 @@ C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\obj\Debug\net8.0\In
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\obj\Debug\net8.0\Interfaces.pdb
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
-C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\bin\Debug\net8.0\dtos.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\bin\Debug\net8.0\Models.dll
 C:\Users\Pooja S\source\repos\Using_AutoMapper_Ex\Interfaces\bin\Debug\net8.0\dtos.pdb

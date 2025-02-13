@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodInjection", "MethodIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyInjection", "PropertyInjection\PropertyInjection.csproj", "{6141E91B-7054-42AA-86E4-ECACAB14B0C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMethods", "ExampleMethods\ExampleMethods.csproj", "{F530FFD1-A4A3-428A-A30A-500596ED8865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aysnchronous_Example1", "Aysnchronous_Example1\Aysnchronous_Example1.csproj", "{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{6141E91B-7054-42AA-86E4-ECACAB14B0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6141E91B-7054-42AA-86E4-ECACAB14B0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6141E91B-7054-42AA-86E4-ECACAB14B0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F530FFD1-A4A3-428A-A30A-500596ED8865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F530FFD1-A4A3-428A-A30A-500596ED8865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F530FFD1-A4A3-428A-A30A-500596ED8865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F530FFD1-A4A3-428A-A30A-500596ED8865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

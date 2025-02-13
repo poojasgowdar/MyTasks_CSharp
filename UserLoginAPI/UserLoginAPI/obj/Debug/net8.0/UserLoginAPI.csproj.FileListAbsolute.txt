@@ -177,3 +177,4 @@ C:\Users\Pooja S\source\repos\UserLoginAPI\UserLoginAPI\obj\Debug\net8.0\UserLog
 C:\Users\Pooja S\source\repos\UserLoginAPI\UserLoginAPI\obj\Debug\net8.0\UserLoginAPI.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\UserLoginAPI\UserLoginAPI\obj\Debug\net8.0\ref\UserLoginAPI.dll
 C:\Users\Pooja S\source\repos\UserLoginAPI\UserLoginAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Pooja S\source\repos\UserLoginAPI\UserLoginAPI\obj\Debug\net8.0\UserLoginAPI.sourcelink.json

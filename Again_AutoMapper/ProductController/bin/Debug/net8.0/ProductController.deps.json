@@ -1105,11 +1105,6 @@
         }
       },
       "dtos/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "13.0.1",
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1"
-        },
         "runtime": {
           "dtos.dll": {
             "assemblyVersion": "1.0.0",
@@ -1119,9 +1114,6 @@
       },
       "Interfaces/1.0.0": {
         "dependencies": {
-          "AutoMapper": "13.0.1",
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
           "Models": "1.0.0",
           "dtos": "1.0.0"
         },
@@ -1147,10 +1139,7 @@
       },
       "Repository/1.0.0": {
         "dependencies": {
-          "AutoMapper": "13.0.1",
           "Interfaces": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
           "Models": "1.0.0"
         },
         "runtime": {
@@ -1162,10 +1151,7 @@
       },
       "Services/1.0.0": {
         "dependencies": {
-          "AutoMapper": "13.0.1",
-          "Interfaces": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1"
+          "Interfaces": "1.0.0"
         },
         "runtime": {
           "Services.dll": {

@@ -1,5 +1,6 @@
 ﻿using dtos.dto;
 using Interfaces.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace ProductController.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(AuthenticationSchemes = "BasicAuthentication")]
     public class ProductController : ControllerBase
     {
         private readonly IService _productService;
@@ -33,6 +35,7 @@ namespace ProductController.Controllers
             }
             return Ok(product);
         }
+       
 
         [HttpPost("CreateProduct")]
         public IActionResult Add([FromBody] ProductDTO productDTO)
@@ -58,7 +61,7 @@ namespace ProductController.Controllers
 
             return Ok("Product Updated Successfully");
         }
-
+        
         [HttpDelete("DeleteProduct{id}")]
         public IActionResult Delete(int id)
         {

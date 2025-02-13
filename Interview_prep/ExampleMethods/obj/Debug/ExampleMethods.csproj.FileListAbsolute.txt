@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\bin\Debug\ExampleMethods.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\bin\Debug\ExampleMethods.exe
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\bin\Debug\ExampleMethods.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\obj\Debug\ExampleMethods.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\obj\Debug\ExampleMethods.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\obj\Debug\ExampleMethods.exe
+C:\Users\Pooja S\source\repos\Interview_prep\ExampleMethods\obj\Debug\ExampleMethods.pdb

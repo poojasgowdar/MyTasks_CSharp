@@ -179,3 +179,4 @@ C:\Users\Pooja S\source\repos\Sessions_Task\SessionTracking_Controller\obj\Debug
 C:\Users\Pooja S\source\repos\Sessions_Task\SessionTracking_Controller\obj\Debug\net8.0\ref\SessionTracking_Controller.dll
 C:\Users\Pooja S\source\repos\Sessions_Task\SessionTracking_Controller\bin\Debug\net8.0\Middleware.dll
 C:\Users\Pooja S\source\repos\Sessions_Task\SessionTracking_Controller\bin\Debug\net8.0\Middleware.pdb
+C:\Users\Pooja S\source\repos\Sessions_Task\SessionTracking_Controller\obj\Debug\net8.0\SessionTracking_Controller.sourcelink.json

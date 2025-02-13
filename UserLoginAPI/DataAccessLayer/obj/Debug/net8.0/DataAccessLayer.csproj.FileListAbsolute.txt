@@ -12,3 +12,4 @@ C:\Users\Pooja S\source\repos\UserLoginAPI\DataAccessLayer\obj\Debug\net8.0\refi
 C:\Users\Pooja S\source\repos\UserLoginAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\Pooja S\source\repos\UserLoginAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\UserLoginAPI\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Pooja S\source\repos\UserLoginAPI\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

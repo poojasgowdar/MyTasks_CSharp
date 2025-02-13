@@ -21,7 +21,7 @@ namespace Services.Service
         }
         public List<StudentDTO> GetAllStudents()
         {
-            var students = _studentRepository.GetAll();
+            var students = _studentRepository.GetAll(); 
             return _mapper.Map<List<StudentDTO>>(students);
         }
         public StudentDTO GetStudentById(int id)

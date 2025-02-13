@@ -1,0 +1,13 @@
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\bin\Debug\net8.0\Middlewares.deps.json
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\bin\Debug\net8.0\Middlewares.dll
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\bin\Debug\net8.0\Middlewares.pdb
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.sourcelink.json
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.dll
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\refint\Middlewares.dll
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\Middlewares.pdb
+C:\Users\Pooja S\source\repos\Wednesday_Mapper\Middlewares\obj\Debug\net8.0\ref\Middlewares.dll
