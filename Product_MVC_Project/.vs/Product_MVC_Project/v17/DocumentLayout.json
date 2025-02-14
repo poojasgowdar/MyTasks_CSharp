@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|solutionrelative:product_mvc_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1366BB4-ADC1-44BE-97DA-0CE67BA38D26}|Product_MVC_Project\\Product_MVC_Project.csproj|c:\\users\\pooja s\\source\\repos\\product_mvc_project\\product_mvc_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -122,11 +122,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:46:58.712Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T04:21:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Product_MVC_Project\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-12T05:53:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs",
+              "RelativeToolTip": "Product_MVC_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:28:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Product_MVC_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T04:05:00.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
@@ -134,20 +198,19 @@
               "RelativeToolTip": "Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T12:22:00.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T12:22:00.105Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Product_MVC_Project\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:27:11.797Z",
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T11:34:58.5Z",
               "EditorCaption": ""
             },
             {
@@ -164,57 +227,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Product_MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:46:58.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T04:21:46.427Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product_MVC_Project\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product_MVC_Project\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:27:11.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Product_MVC_Project\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-12T05:53:01.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs",
-              "RelativeToolTip": "Product_MVC_Project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:28:40.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CreateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\CreateProduct.cshtml",
               "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Product\\CreateProduct.cshtml",
@@ -222,25 +247,11 @@
               "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\CreateProduct.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T05:40:34.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:40:34.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeleteProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
-              "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T11:34:58.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Product_MVC_Project\\wwwroot\\js\\site.js",
@@ -265,18 +276,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Product_MVC_Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T04:05:00.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Product_MVC_Project\\Controllers\\HomeController.cs",

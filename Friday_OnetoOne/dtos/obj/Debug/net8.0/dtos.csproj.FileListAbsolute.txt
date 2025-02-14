@@ -1,0 +1,12 @@
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\bin\Debug\net8.0\dtos.deps.json
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\bin\Debug\net8.0\dtos.dll
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\bin\Debug\net8.0\dtos.pdb
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.sourcelink.json
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.dll
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\refint\dtos.dll
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\dtos.pdb
+C:\Users\Pooja S\source\repos\Friday_OnetoOne\dtos\obj\Debug\net8.0\ref\dtos.dll

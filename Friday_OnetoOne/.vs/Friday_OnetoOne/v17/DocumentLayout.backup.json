@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentscontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|solutionrelative:studentscontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE5FED-6690-473F-9D96-4360941831DE}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\services\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE5FED-6690-473F-9D96-4360941831DE}|Services\\Services.csproj|solutionrelative:services\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB7BBAB-EF2C-4109-BB60-2FF604D40287}|StudentRepository\\Repository.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentrepository\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB7BBAB-EF2C-4109-BB60-2FF604D40287}|StudentRepository\\Repository.csproj|solutionrelative:studentrepository\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1DC730-71DD-465C-9228-BD8E55361FF4}|Interface\\Interface.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\interface\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1DC730-71DD-465C-9228-BD8E55361FF4}|Interface\\Interface.csproj|solutionrelative:interface\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|solutionrelative:models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentscontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|solutionrelative:studentscontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1DC730-71DD-465C-9228-BD8E55361FF4}|Interface\\Interface.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\interface\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1DC730-71DD-465C-9228-BD8E55361FF4}|Interface\\Interface.csproj|solutionrelative:interface\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}|dtos\\dtos.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\dtos\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}|dtos\\dtos.csproj|solutionrelative:dtos\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}|dtos\\dtos.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\dtos\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}|dtos\\dtos.csproj|solutionrelative:dtos\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentscontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|solutionrelative:studentscontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentscontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|solutionrelative:studentscontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentsController\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentsController\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:46:30.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:19:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "Models\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:19:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:23:46.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentRepository\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentRepository\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentRepository\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentRepository\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:43:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interface\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:41:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studentservice.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Services\\Service\\Studentservice.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\Studentservice.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Services\\Service\\Studentservice.cs",
+              "RelativeToolTip": "Services\\Service\\Studentservice.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:44:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Program.cs",
+              "RelativeToolTip": "StudentsController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:48:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Interface\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface\\Interface\\IService.cs",
+              "RelativeToolTip": "Interface\\Interface\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:41:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\dtos\\dto\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "dtos\\dto\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\dtos\\dto\\StudentDTO.cs",
+              "RelativeToolTip": "dtos\\dto\\StudentDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:47:13.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\dtos\\dto\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "dtos\\dto\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\dtos\\dto\\CourseDTO.cs",
+              "RelativeToolTip": "dtos\\dto\\CourseDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:47:29.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Controllers\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "StudentsController\\Controllers\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Controllers\\MyMappingProfile.cs",
+              "RelativeToolTip": "StudentsController\\Controllers\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:02:00.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\appsettings.json",
+              "RelativeToolTip": "StudentsController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T05:52:01.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

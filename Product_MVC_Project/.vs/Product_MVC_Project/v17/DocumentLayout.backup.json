@@ -130,12 +130,11 @@
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs*",
-              "RelativeToolTip": "Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs*",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Product_MVC_Project\\Middlewares\\LoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T12:22:00.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T12:22:00.105Z"
             },
             {
               "$type": "Document",
@@ -147,8 +146,7 @@
               "RelativeToolTip": "Product_MVC_Project\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:27:11.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:27:11.797Z"
             },
             {
               "$type": "Document",
@@ -180,12 +178,11 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Product_MVC_Project\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml*",
-              "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T04:21:46.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T04:21:46.427Z"
             },
             {
               "$type": "Document",
@@ -205,9 +202,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs",
               "RelativeDocumentMoniker": "Product_MVC_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs*",
-              "RelativeToolTip": "Product_MVC_Project\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Product_MVC_Project\\Product_MVC_Project\\Program.cs",
+              "RelativeToolTip": "Product_MVC_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T05:28:40.969Z",
               "EditorCaption": ""
@@ -222,8 +219,7 @@
               "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\CreateProduct.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T05:40:34.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:40:34.336Z"
             },
             {
               "$type": "Document",
@@ -235,8 +231,7 @@
               "RelativeToolTip": "Product_MVC_Project\\Views\\Product\\DeleteProduct.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T11:34:58.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T11:34:58.5Z"
             },
             {
               "$type": "Document",

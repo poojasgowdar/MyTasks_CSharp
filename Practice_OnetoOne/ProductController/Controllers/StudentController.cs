@@ -12,7 +12,7 @@ namespace ProductController.Controllers
         private readonly IService _studentService;
         public StudentController(IService productService)
         {
-            _studentService = productService;
+            _studentService = productService;                                                                           
         }
 
         [HttpGet("GetAllstudents")]
@@ -50,8 +50,15 @@ namespace ProductController.Controllers
         [HttpDelete("DeleteById{id}")]
         public IActionResult Delete(int id)
         {
+            var existingStudent = _studentService.GetStudentById(id);
+            if (existingStudent == null)
+            {
+                return Ok(new { Message = "Student Not Found" });
+            }
             _studentService.DeleteStudent(id);
             return Ok(new { Message = "Student Deleted Successfully" });
+
+
         }
     }
 }
