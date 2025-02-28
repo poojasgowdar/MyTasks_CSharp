@@ -114,8 +114,7 @@
               "RelativeToolTip": "Services\\ProductService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwDMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:11:00.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T16:11:00.441Z"
             },
             {
               "$type": "Document",
@@ -125,7 +124,7 @@
               "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CustomerAPI\\ProductController\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:13:18.915Z",
               "EditorCaption": ""

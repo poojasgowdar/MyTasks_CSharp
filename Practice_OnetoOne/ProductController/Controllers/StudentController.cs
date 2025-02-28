@@ -21,7 +21,7 @@ namespace ProductController.Controllers
             var students = _studentService.GetAllStudents();
             return Ok(students);
         }
-
+        
         [HttpGet("GetStudentById{id}")]
         public IActionResult GetStudentById(int id)
         {

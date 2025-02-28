@@ -9,11 +9,11 @@ namespace Interfaces.Interface
 {
     public interface IRepository
     {
-        public List<Student> GetStudents();
-        public Student GetById(int id);
-        public void Add(Student student);
-        public void Update(Student student);
-        public void Delete(int id);
+         List<Student> GetStudents();
+         Student GetById(int id);
+         void Add(Student student);
+         void Update(Student student);
+         void Delete(int id);
 
 
     }

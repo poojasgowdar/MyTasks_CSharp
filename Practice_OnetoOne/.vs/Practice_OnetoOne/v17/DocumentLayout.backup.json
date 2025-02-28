@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +15,44 @@
       "RelativeMoniker": "D:0:0:{8A25515D-A0F1-4BD6-9E68-1B21E4875640}|Services\\Services.csproj|solutionrelative:services\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\dto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|solutionrelative:dto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|solutionrelative:dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF76B93-4A9A-4AE8-89BF-D8F28033D105}|Repositories\\Repositories.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\repositories\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EF76B93-4A9A-4AE8-89BF-D8F28033D105}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E02656-4D23-4C49-BAB6-2FA451B2461F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|solutionrelative:models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBDE5D-E5B7-4B2D-935B-B7D976412278}|Models\\Models.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|solutionrelative:dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\dto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A946E24-0A5E-4F73-A482-107A3859FBBD}|Dto\\Dto.csproj|solutionrelative:dto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\productcontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B47B0683-E175-4EF5-A8D9-B4DA6DAB5BD0}|Middlewares\\Middlewares.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\middlewares\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47B0683-E175-4EF5-A8D9-B4DA6DAB5BD0}|Middlewares\\Middlewares.csproj|solutionrelative:middlewares\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{579A5BE8-D66B-42A1-820A-DECDCC6DFA55}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\practice_onetoone\\productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -86,72 +86,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Services\\Service\\StudentService.cs",
-              "RelativeDocumentMoniker": "Services\\Service\\StudentService.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Services\\Service\\StudentService.cs",
-              "RelativeToolTip": "Services\\Service\\StudentService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:15:00.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Program.cs",
-              "RelativeDocumentMoniker": "ProductController\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Program.cs",
-              "RelativeToolTip": "ProductController\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:57:37.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "ProductController\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "ProductController\\Controllers\\StudentController.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAA6AAAAAAAAAA==",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:20:22.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "Dto\\Dtos\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\StudentDTO.cs",
-              "RelativeToolTip": "Dto\\Dtos\\StudentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:17:24.554Z",
+              "WhenOpened": "2025-02-07T09:12:58.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CourseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\CourseDTO.cs",
-              "RelativeDocumentMoniker": "Dto\\Dtos\\CourseDTO.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\CourseDTO.cs",
-              "RelativeToolTip": "Dto\\Dtos\\CourseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:17:46.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Interfaces\\Interface\\IService.cs",
               "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
@@ -164,55 +112,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Interfaces\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Interfaces\\Interface\\IRepository.cs",
-              "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:12:58.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Repositories\\Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Repository\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Repositories\\Repository\\StudentRepository.cs",
               "RelativeToolTip": "Repositories\\Repository\\StudentRepository.cs",
-              "ViewState": "AgIAAAgAAACAMzMzMzMbwBEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T09:14:02.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "MyMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Controllers\\MyMappingProfile.cs",
               "RelativeDocumentMoniker": "ProductController\\Controllers\\MyMappingProfile.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Controllers\\MyMappingProfile.cs",
               "RelativeToolTip": "ProductController\\Controllers\\MyMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T09:21:12.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Services\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Services\\Service\\StudentService.cs",
+              "RelativeToolTip": "Services\\Service\\StudentService.cs",
+              "ViewState": "AgIAABoAAADw//////88wCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:15:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Program.cs",
+              "RelativeDocumentMoniker": "ProductController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Program.cs",
+              "RelativeToolTip": "ProductController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:57:37.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "ProductController\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAACMAAADg//////88wDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:20:22.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T09:52:14.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\AppDbContext.cs",
               "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T09:15:40.984Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:10:35.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "Dto\\Dtos\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\CourseDTO.cs",
+              "RelativeToolTip": "Dto\\Dtos\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:17:46.331Z"
             },
             {
               "$type": "Document",
@@ -222,61 +234,45 @@
               "RelativeDocumentMoniker": "Models\\Entities\\Course.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\Course.cs",
               "RelativeToolTip": "Models\\Entities\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:10:50.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "Models\\Entities\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:10:35.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T09:10:50.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ProductController",
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Dto\\Dtos\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Dto\\Dtos\\StudentDTO.cs",
+              "RelativeToolTip": "Dto\\Dtos\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:17:24.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.csproj",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\ProductController.csproj",
               "RelativeDocumentMoniker": "ProductController\\ProductController.csproj",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\ProductController.csproj",
               "RelativeToolTip": "ProductController\\ProductController.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T03:45:01.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T03:45:01.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Middlewares\\Middleware\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Middlewares\\Middleware\\LoggingMiddleware.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Middlewares\\Middleware\\LoggingMiddleware.cs",
               "RelativeToolTip": "Middlewares\\Middleware\\LoggingMiddleware.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:22:21.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\ProductController\\appsettings.json",
-              "RelativeToolTip": "ProductController\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T09:52:14.806Z"
+              "WhenOpened": "2025-02-07T09:22:21.082Z"
             },
             {
               "$type": "Document",
@@ -310,7 +306,6 @@
               "RelativeDocumentMoniker": "Models\\Migrations\\20250207103515_Initial.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Practice_OnetoOne\\Models\\Migrations\\20250207103515_Initial.cs",
               "RelativeToolTip": "Models\\Migrations\\20250207103515_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T10:35:16.206Z"
             }

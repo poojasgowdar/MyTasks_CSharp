@@ -22,7 +22,7 @@ namespace User_Endpoint_API.Controllers
             _context = context;
             _mapper = mapper;
         }
-
+       
         //User Login
         [HttpPost("login")]
         [Authorize(Roles = "User")]

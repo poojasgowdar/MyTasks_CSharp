@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01263-4B9C-4B03-A504-FABCB2F6454B}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\services\\clicklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01263-4B9C-4B03-A504-FABCB2F6454B}|Services\\Services.csproj|solutionrelative:services\\clicklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD4817A-792D-4DB4-BAFD-5AF82BD37409}|Repositories\\Repositories.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\repositories\\repositories\\clicklogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD4817A-792D-4DB4-BAFD-5AF82BD37409}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\clicklogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01263-4B9C-4B03-A504-FABCB2F6454B}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\services\\logclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01263-4B9C-4B03-A504-FABCB2F6454B}|Services\\Services.csproj|solutionrelative:services\\logclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC01263-4B9C-4B03-A504-FABCB2F6454B}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\services\\shortlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC01263-4B9C-4B03-A504-FABCB2F6454B}|Services\\Services.csproj|solutionrelative:services\\shortlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\entities\\migrations\\20250215115804_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20250215115804_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\entities\\entities\\clicklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\clicklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1608ED1-DAE6-41CF-B700-B78C3C42CF42}|Middleware\\Middleware.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\middleware\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1608ED1-DAE6-41CF-B700-B78C3C42CF42}|Middleware\\Middleware.csproj|solutionrelative:middleware\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\entities\\entities\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\entities\\entities\\linktrackingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC0D404-B71A-49F1-B12C-B8EC8FE5A92C}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\linktrackingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F16B6D-643A-4E9C-B9C6-B98CC40FA908}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\interfaces\\interfaces\\iclicklogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F16B6D-643A-4E9C-B9C6-B98CC40FA908}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces\\iclicklogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\controllers\\shortlinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\controllers\\shortlinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F16B6D-643A-4E9C-B9C6-B98CC40FA908}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\interfaces\\interfaces\\ishortlinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F16B6D-643A-4E9C-B9C6-B98CC40FA908}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces\\ishortlinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD4817A-792D-4DB4-BAFD-5AF82BD37409}|Repositories\\Repositories.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\repositories\\repositories\\shortlinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD4817A-792D-4DB4-BAFD-5AF82BD37409}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\shortlinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\shortlinkscontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\shortlinkscontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6ED27B-928D-4012-BD9F-D0C48EF8C3EA}|DTOs\\DTOs.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\dtos\\dtos\\shortlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6ED27B-928D-4012-BD9F-D0C48EF8C3EA}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtos\\shortlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6ED27B-928D-4012-BD9F-D0C48EF8C3EA}|DTOs\\DTOs.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\dtos\\dtos\\createshortlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6ED27B-928D-4012-BD9F-D0C48EF8C3EA}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dtos\\createshortlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|c:\\users\\pooja s\\source\\repos\\linktrackingproject\\shortlinkscontroller\\controllers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9B5A8-55ED-4624-8FF5-52A75C999C51}|ShortLinksController\\ShortLinksController.csproj|solutionrelative:shortlinkscontroller\\controllers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogClick.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Services\\LogClick.cs",
+              "RelativeDocumentMoniker": "Services\\LogClick.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Services\\LogClick.cs",
+              "RelativeToolTip": "Services\\LogClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:00:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250215115804_First.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Migrations\\20250215115804_First.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250215115804_First.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Migrations\\20250215115804_First.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250215115804_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:58:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShortLink.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Entities\\ShortLink.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\ShortLink.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Entities\\ShortLink.cs",
+              "RelativeToolTip": "Entities\\Entities\\ShortLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:29:09.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClickLogService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Services\\ClickLogService.cs",
+              "RelativeDocumentMoniker": "Services\\ClickLogService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Services\\ClickLogService.cs",
+              "RelativeToolTip": "Services\\ClickLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:39:53.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortLinkService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Services\\ShortLinkService.cs",
+              "RelativeDocumentMoniker": "Services\\ShortLinkService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Services\\ShortLinkService.cs",
+              "RelativeToolTip": "Services\\ShortLinkService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:42:28.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Repositories\\Repositories\\ClickLogRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\ClickLogRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Repositories\\Repositories\\ClickLogRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\ClickLogRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:40:14.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LinkTrackingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Entities\\LinkTrackingDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\LinkTrackingDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Entities\\LinkTrackingDbContext.cs",
+              "RelativeToolTip": "Entities\\Entities\\LinkTrackingDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:34:24.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClickLog.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Entities\\ClickLog.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\ClickLog.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Entities\\Entities\\ClickLog.cs",
+              "RelativeToolTip": "Entities\\Entities\\ClickLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:29:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Program.cs",
+              "RelativeDocumentMoniker": "ShortLinksController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Program.cs",
+              "RelativeToolTip": "ShortLinksController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:26:17.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShortLinksController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\ShortLinksController.cs",
+              "RelativeDocumentMoniker": "ShortLinksController\\Controllers\\ShortLinksController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\ShortLinksController.cs",
+              "RelativeToolTip": "ShortLinksController\\Controllers\\ShortLinksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:13:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\appsettings.json",
+              "RelativeDocumentMoniker": "ShortLinksController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\appsettings.json",
+              "RelativeToolTip": "ShortLinksController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T05:24:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Middleware\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Middleware\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:53:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "ShortLinksController\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "ShortLinksController\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:40:26.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShortLinksController\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShortLinksController\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:32:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClickLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Interfaces\\Interfaces\\IClickLogRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IClickLogRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Interfaces\\Interfaces\\IClickLogRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IClickLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:33:17.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShortLinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Repositories\\Repositories\\ShortLinkRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\ShortLinkRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Repositories\\Repositories\\ShortLinkRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\ShortLinkRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:39:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IShortLinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Interfaces\\Interfaces\\IShortLinkRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IShortLinkRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\Interfaces\\Interfaces\\IShortLinkRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IShortLinkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:32:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShortLinksController.http",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\ShortLinksController.http",
+              "RelativeDocumentMoniker": "ShortLinksController\\ShortLinksController.http",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\ShortLinksController.http",
+              "RelativeToolTip": "ShortLinksController\\ShortLinksController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-15T09:47:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShortLinkDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\DTOs\\DTOs\\ShortLinkDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOs\\ShortLinkDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\DTOs\\DTOs\\ShortLinkDTO.cs",
+              "RelativeToolTip": "DTOs\\DTOs\\ShortLinkDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:31:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateShortLinkDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\DTOs\\DTOs\\CreateShortLinkDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOs\\CreateShortLinkDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\DTOs\\DTOs\\CreateShortLinkDTO.cs",
+              "RelativeToolTip": "DTOs\\DTOs\\CreateShortLinkDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:31:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ShortLinksController\\Controllers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\LinkTrackingProject\\ShortLinksController\\Controllers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ShortLinksController\\Controllers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:14:30.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

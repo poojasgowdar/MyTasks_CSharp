@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Models.Entities
 {
     public class Product
-    {
+    {           
         [Key]
         public int Id { get; set; }
 

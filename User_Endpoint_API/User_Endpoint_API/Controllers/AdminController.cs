@@ -26,7 +26,7 @@ namespace User_Endpoint_API.Controllers
             }
 
             _context.Users.Add(newUser);
-            _context.SaveChanges();
+            _context.SaveChanges(); 
             return Created("", newUser);
         }
         [HttpDelete("{id}")]

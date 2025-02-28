@@ -17,7 +17,6 @@ namespace Repositories.Repository
         {
             _context = context;
         }
-
         public List<Student> GetAll()
         {
             return _context.Students.Include(s => s.Course).ToList();
@@ -26,7 +25,6 @@ namespace Repositories.Repository
         {
             return _context.Students.Include(s => s.Course).FirstOrDefault(s => s.Id == id);
         }
-    
         public void Add(Student student)
         {
             _context.Students.Add(student);
@@ -46,5 +44,6 @@ namespace Repositories.Repository
                 _context.SaveChanges();
             }
         }
+        
     }
 }

@@ -13,10 +13,11 @@ namespace Models.Entities
         public int Id { get; set; }
         [Required(ErrorMessage ="The Name Field is Required")]
         [StringLength(100,ErrorMessage ="The Name should be in 3 to 100 characters.",MinimumLength =3)]
-        public string Name { get; set; }
+        public string? Name{ get; set; }
         [Required(ErrorMessage = "The Email Field is Required")]
-        public string Email { get; set; }
-        public Course Course { get; set; }
+        public string? Email { get; set; }
+        public Course? Course { get; set; }
+        
 
     }
 }

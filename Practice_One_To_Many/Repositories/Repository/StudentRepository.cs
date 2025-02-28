@@ -21,6 +21,7 @@ namespace Repositories.Repository
             return _context.Students.Include(c => c.Courses).ToList();
         }
         public Student GetById(int id)
+
         {
             return _context.Students.Include(c => c.Courses).FirstOrDefault(c => c.Id == id);
         }
@@ -39,7 +40,7 @@ namespace Repositories.Repository
             var students = _context.Students.Find(id);
             if (students != null)
             {
-                _context.Students.Update(students);
+                _context.Students.Remove(students);
                 _context.SaveChanges();
             }
            

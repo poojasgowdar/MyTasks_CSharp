@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMethods", "ExampleMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aysnchronous_Example1", "Aysnchronous_Example1\Aysnchronous_Example1.csproj", "{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natural_Numbers", "Natural_Numbers\Natural_Numbers.csproj", "{020D8CD4-1439-488F-B1A3-9939C830A3A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

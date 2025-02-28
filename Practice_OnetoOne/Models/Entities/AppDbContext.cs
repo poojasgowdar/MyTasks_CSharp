@@ -43,6 +43,8 @@ namespace Models.Entities
                 new Course { Id = 3, Street = "RR Nagar", City = "Mysore", StudentId = 3 }
             );
 
+            
+
         }
 
     }
