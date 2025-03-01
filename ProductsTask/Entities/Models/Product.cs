@@ -12,12 +12,12 @@ namespace Entities.Models
         [Key]
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "The Name field is Required.")]
-        [StringLength(100, ErrorMessage = "The Name must be between 3 and 100 characters.", MinimumLength = 3)]
+        [Required]
         public string Name { get; set; }
 
-        [Required(ErrorMessage = "The Price field is required.")]
-        [Range(0.01, double.MaxValue, ErrorMessage = "The Price must be greater than 0.")]
-        public decimal Price { get; set; }
+
+        [Required]
+        [Range(0.01, double.MaxValue)]
+        public Decimal Price { get; set; }
     }
 }

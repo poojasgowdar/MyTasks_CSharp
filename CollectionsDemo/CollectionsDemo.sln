@@ -23,8 +23,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryEmp", "Dictionary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListDemo", "ArrayListDemo\ArrayListDemo.csproj", "{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,10 +69,6 @@ Global
 		{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

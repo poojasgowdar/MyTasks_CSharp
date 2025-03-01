@@ -31,7 +31,7 @@
               "RelativeDocumentMoniker": "Resume_S\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Resume_S\\Resume_S\\Program.cs",
               "RelativeToolTip": "Resume_S\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAApwBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T09:29:32.1Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "RelativeToolTip": "packages\\EPPlus.7.5.2\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-18T09:27:58.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T09:27:58.278Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\ResumeTask_Try4\\ResumeTask_Try4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:13:49.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T09:13:49.215Z"
             }
           ]
         }

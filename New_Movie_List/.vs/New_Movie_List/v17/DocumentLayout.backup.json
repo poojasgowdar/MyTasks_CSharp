@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\New_Movie_List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\AppData\\Local\\Temp\\2b212898-1500-4c26-abf1-2ebdd8dc7dad_movies.zip.dad\\movies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{96F547E7-3009-427D-AC33-7A29E42D2C82}|MovieController\\MovieController.csproj|c:\\users\\pooja s\\source\\repos\\new_movie_list\\moviecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F547E7-3009-427D-AC33-7A29E42D2C82}|MovieController\\MovieController.csproj|solutionrelative:moviecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F547E7-3009-427D-AC33-7A29E42D2C82}|MovieController\\MovieController.csproj|c:\\users\\pooja s\\source\\repos\\new_movie_list\\moviecontroller\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -12,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20334292-7D84-4AD8-8F5F-6D9A3F55BB75}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\new_movie_list\\models\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20334292-7D84-4AD8-8F5F-6D9A3F55BB75}|Models\\Models.csproj|solutionrelative:models\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96F547E7-3009-427D-AC33-7A29E42D2C82}|MovieController\\MovieController.csproj|c:\\users\\pooja s\\source\\repos\\new_movie_list\\moviecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96F547E7-3009-427D-AC33-7A29E42D2C82}|MovieController\\MovieController.csproj|solutionrelative:moviecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9429618E-C2DC-4B0B-AB56-231029B0CF99}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\new_movie_list\\services\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,32 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "movies.json",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\AppData\\Local\\Temp\\2b212898-1500-4c26-abf1-2ebdd8dc7dad_movies.zip.dad\\movies.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\2b212898-1500-4c26-abf1-2ebdd8dc7dad_movies.zip.dad\\movies.json",
-              "ToolTip": "C:\\Users\\Pooja S\\AppData\\Local\\Temp\\2b212898-1500-4c26-abf1-2ebdd8dc7dad_movies.zip.dad\\movies.json [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\2b212898-1500-4c26-abf1-2ebdd8dc7dad_movies.zip.dad\\movies.json [Read Only]",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T06:30:22.196Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_Movie_List\\MovieController\\Program.cs",
               "RelativeDocumentMoniker": "MovieController\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_Movie_List\\MovieController\\Program.cs",
               "RelativeToolTip": "MovieController\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T06:29:04.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_Movie_List\\Services\\ServiceLayer\\MovieService.cs",
               "RelativeDocumentMoniker": "Services\\ServiceLayer\\MovieService.cs",

@@ -18,8 +18,14 @@ namespace Entities.Models
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Product>()
+          
            .Property(p => p.Price)
            .HasPrecision(18, 2);
+
+          
+            modelBuilder.Entity<Product>()
+            .Property(p => p.Id)
+            .ValueGeneratedOnAdd();
 
         }
     }

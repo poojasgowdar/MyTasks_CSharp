@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Integration_Test_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF617587-4D27-4115-B0A5-EE481BFDB9D1}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\integration_test_project\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF617587-4D27-4115-B0A5-EE481BFDB9D1}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A461ACE7-3AC4-477F-9EF9-A30C847538B0}|ProductController.Tests\\ProductController.Tests.csproj|c:\\users\\pooja s\\source\\repos\\integration_test_project\\productcontroller.tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A461ACE7-3AC4-477F-9EF9-A30C847538B0}|ProductController.Tests\\ProductController.Tests.csproj|solutionrelative:productcontroller.tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF617587-4D27-4115-B0A5-EE481BFDB9D1}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\integration_test_project\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF617587-4D27-4115-B0A5-EE481BFDB9D1}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF617587-4D27-4115-B0A5-EE481BFDB9D1}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\integration_test_project\\productcontroller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -102,8 +102,7 @@
               "RelativeToolTip": "Manager\\ProductManager\\IProductManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T04:10:39.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T04:10:39.432Z"
             },
             {
               "$type": "Document",
@@ -131,29 +130,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Integration_Test_Project\\ProductController.Tests\\ProductControllerTests.cs",
               "RelativeDocumentMoniker": "ProductController.Tests\\ProductControllerTests.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Integration_Test_Project\\ProductController.Tests\\ProductControllerTests.cs",
               "RelativeToolTip": "ProductController.Tests\\ProductControllerTests.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAuwEYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAACAZmZmZmYswBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T06:23:56.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Integration_Test_Project\\ProductController\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Integration_Test_Project\\ProductController\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T04:19:03.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T04:19:03.217Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "ProductController\\MyMappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T09:38:49.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T09:38:49.915Z"
             },
             {
               "$type": "Document",

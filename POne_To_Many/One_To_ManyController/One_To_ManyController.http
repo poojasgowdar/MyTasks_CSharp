@@ -1,6 +1,0 @@
-@One_To_ManyController_HostAddress = http://localhost:5007
-
-GET {{One_To_ManyController_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -2,7 +2,7 @@
   {
     "ContainingType": "ProductController.Controllers.ProductController",
     "Method": "Add",
-    "RelativePath": "api/Product/CreateNewProduct",
+    "RelativePath": "api/Product/CreateProduct",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,8 +17,8 @@
   },
   {
     "ContainingType": "ProductController.Controllers.ProductController",
-    "Method": "DeleteById",
-    "RelativePath": "api/Product/DeleteProductById/{id}",
+    "Method": "Delete",
+    "RelativePath": "api/Product/DeleteById",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -26,25 +26,15 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "ProductController.Controllers.ProductController",
-    "Method": "GetAllProducts",
-    "RelativePath": "api/Product/GetAllProducts",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ProductController.Controllers.ProductController",
     "Method": "GetById",
-    "RelativePath": "api/Product/GetProductById/{id}",
+    "RelativePath": "api/Product/GetProductById",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -52,15 +42,15 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "ProductController.Controllers.ProductController",
-    "Method": "UpdateById",
-    "RelativePath": "api/Product/UpdateProductById/{id}",
+    "Method": "Update",
+    "RelativePath": "api/Product/UpdateProduct",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -68,7 +58,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       },
       {
         "Name": "productDto",

@@ -1,4 +1,7 @@
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using MVC_New_Project.Helpers;
 using MVC_New_Project.Interfaces;
 using MVC_New_Project.Middleware;
 using MVC_New_Project.Models;
@@ -19,13 +22,44 @@ builder.Services.AddSession(options =>
     options.IdleTimeout = TimeSpan.FromMinutes(5);
     options.Cookie.IsEssential = true;
 });
+//builder.Services.AddSwaggerGen(c =>   
+//{
+//    c.AddSecurityDefinition("Basic", new OpenApiSecurityScheme
+//    {
+//        Description = "Enter your username and password to access the API",
+//        Name = "Authorization",
+//        In = ParameterLocation.Header,
+//        Type = SecuritySchemeType.Http,
+//        Scheme = "Basic"
+//    });
+//    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+//    {
+//        {
+//            new OpenApiSecurityScheme
+//            {
+//                Reference = new OpenApiReference
+//                {
+//                    Type = ReferenceType.SecurityScheme,
+//                    Id = "Basic"
+//                }
+//            },
+//            new string[] { }
+//        }
+//    });
+//});
 
+builder.Services.AddAuthentication("BasicAuthentication")
+        .AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("BasicAuthentication", null);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 app.UseMiddleware<LoggingMiddleware>();
+
+
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

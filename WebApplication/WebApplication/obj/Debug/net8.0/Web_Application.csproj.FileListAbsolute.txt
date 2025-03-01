@@ -1,7 +1,0 @@
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.AssemblyInfoInputs.cache
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.AssemblyInfo.cs
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.csproj.CoreCompileInputs.cache
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Pooja S\source\repos\WebApplication\WebApplication\obj\Debug\net8.0\Web_Application.MvcApplicationPartsAssemblyInfo.cache

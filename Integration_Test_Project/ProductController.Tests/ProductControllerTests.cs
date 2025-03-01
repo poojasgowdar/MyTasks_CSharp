@@ -77,7 +77,7 @@ namespace ProductController.Tests
             var content = await response.Content.ReadAsStringAsync();
             var product = JsonConvert.DeserializeObject<ProductDTO>(content);
 
-            Assert.Equal("Bluetooth", product.Name);  // Use exact match
+            Assert.Equal("Bluetooth", product.Name);  
         }
 
         [Fact]

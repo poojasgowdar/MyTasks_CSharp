@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}|ArrayListDemo\\ArrayListDemo.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\arraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}|ArrayListDemo\\ArrayListDemo.csproj|solutionrelative:arraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5059A68-211C-4D6A-A744-B35EB620FA4B}|ListMethodsDemo\\ListMethodsDemo.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\listmethodsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5059A68-211C-4D6A-A744-B35EB620FA4B}|ListMethodsDemo\\ListMethodsDemo.csproj|solutionrelative:listmethodsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}|Async\\Async.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D824128-5A09-4BB9-99E9-EC7FDDE7D27E}|Async\\Async.csproj|solutionrelative:async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{473C6CDE-D4E2-49F3-A813-0F60A505109F}|ListGenericDemo1\\ListGenericDemo1.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\listgenericdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473C6CDE-D4E2-49F3-A813-0F60A505109F}|ListGenericDemo1\\ListGenericDemo1.csproj|solutionrelative:listgenericdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEA94BC-8EEF-43CA-B64E-175EE8C968FE}|ListEmployeeClass\\ListEmployeeClass.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\listemployeeclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEA94BC-8EEF-43CA-B64E-175EE8C968FE}|ListEmployeeClass\\ListEmployeeClass.csproj|solutionrelative:listemployeeclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61E82-7719-4714-BB84-D6434D4F8DB4}|ListDemo\\ListDemo.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\listdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61E82-7719-4714-BB84-D6434D4F8DB4}|ListDemo\\ListDemo.csproj|solutionrelative:listdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB18DB28-12EF-4948-BDB4-054349E6F573}|GenericCollectionDemo\\GenericCollectionDemo.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\genericcollectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB18DB28-12EF-4948-BDB4-054349E6F573}|GenericCollectionDemo\\GenericCollectionDemo.csproj|solutionrelative:genericcollectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90E7E536-6116-4BE7-BCB4-FE3F2FE1B1D6}|DictionaryEmp\\DictionaryEmp.csproj|C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\dictionaryemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90E7E536-6116-4BE7-BCB4-FE3F2FE1B1D6}|DictionaryEmp\\DictionaryEmp.csproj|solutionrelative:dictionaryemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F71C55-95B0-4E32-9364-9991AD657D49}|CollectionsDemo\\CollectionsDemo.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F71C55-95B0-4E32-9364-9991AD657D49}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BC59F9-BBE1-4CB1-8B4C-1F47CA0226A9}|ArrayToListCollection\\ArrayToListCollection.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\arraytolistcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BC59F9-BBE1-4CB1-8B4C-1F47CA0226A9}|ArrayToListCollection\\ArrayToListCollection.csproj|solutionrelative:arraytolistcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}|ArrayListDemo\\ArrayListDemo.csproj|c:\\users\\pooja s\\source\\repos\\collectionsdemo\\arraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7103C18F-7623-4E18-82C4-EC0D3C7E1EF4}|ArrayListDemo\\ArrayListDemo.csproj|solutionrelative:arraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,37 +52,115 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ArrayListDemo\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayListDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ArrayListDemo\\Program.cs",
-              "RelativeToolTip": "ArrayListDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListMethodsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ListMethodsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListMethodsDemo\\Program.cs",
+              "RelativeToolTip": "ListMethodsDemo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:34:07.004Z",
+              "WhenOpened": "2025-03-01T03:46:36.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\Async\\Program.cs",
-              "RelativeDocumentMoniker": "Async\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\Async\\Program.cs",
-              "RelativeToolTip": "Async\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListGenericDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "ListGenericDemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListGenericDemo1\\Program.cs",
+              "RelativeToolTip": "ListGenericDemo1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T09:04:09.849Z",
+              "WhenOpened": "2025-03-01T03:46:33.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListEmployeeClass\\Program.cs",
+              "RelativeDocumentMoniker": "ListEmployeeClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListEmployeeClass\\Program.cs",
+              "RelativeToolTip": "ListEmployeeClass\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:46:26.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ListDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ListDemo\\Program.cs",
+              "RelativeToolTip": "ListDemo\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:46:21.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\GenericCollectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollectionDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\GenericCollectionDemo\\Program.cs",
+              "RelativeToolTip": "GenericCollectionDemo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:46:16.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeToolTip": "CollectionsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:46:04.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ArrayToListCollection\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayToListCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ArrayToListCollection\\Program.cs",
+              "RelativeToolTip": "ArrayToListCollection\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:45:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ArrayListDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayListDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\ArrayListDemo\\Program.cs",
+              "RelativeToolTip": "ArrayListDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:34:07.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\DictionaryEmp\\Program.cs",
               "RelativeDocumentMoniker": "DictionaryEmp\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\CollectionsDemo\\DictionaryEmp\\Program.cs",
               "RelativeToolTip": "DictionaryEmp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T05:54:59.75Z",
               "EditorCaption": ""

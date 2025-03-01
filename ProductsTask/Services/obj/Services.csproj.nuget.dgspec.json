@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\Services.csproj": {}
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dtos.csproj": {
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Dtos\\Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Dtos\\Dtos.csproj",
         "projectName": "Dtos",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dtos.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Dtos\\Dtos.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,14 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -73,14 +65,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -103,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj": {
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,14 +129,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -172,14 +148,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -202,14 +170,14 @@
         }
       }
     },
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,11 +195,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dtos.csproj": {
-                "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Dtos\\Dtos.csproj"
+              "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Dtos\\Dtos.csproj"
               },
-              "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj"
+              "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj"
               }
             }
           }
@@ -251,14 +219,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -278,14 +238,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -308,14 +260,14 @@
         }
       }
     },
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\Services.csproj": {
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Services\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -333,8 +285,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Interfaces\\Interfaces.csproj"
+              "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -354,14 +306,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -381,14 +325,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[9.0.1, )"
             }
           },
           "imports": [

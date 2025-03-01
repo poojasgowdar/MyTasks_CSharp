@@ -97,8 +97,7 @@
               "RelativeToolTip": "Models\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:42:38.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:42:38.25Z"
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "Models\\Entities\\ProductCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:42:55.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:42:55.784Z"
             },
             {
               "$type": "Document",
@@ -121,7 +119,7 @@
               "RelativeDocumentMoniker": "Services\\Service\\ProductService.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Task\\Services\\Service\\ProductService.cs",
               "RelativeToolTip": "Services\\Service\\ProductService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T04:07:50.071Z",
               "EditorCaption": ""
@@ -148,8 +146,7 @@
               "RelativeToolTip": "Models\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:42:35.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:42:35.737Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:38:11.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:38:11.817Z"
             },
             {
               "$type": "Document",
@@ -174,8 +170,7 @@
               "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:45:01.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:45:01.407Z"
             },
             {
               "$type": "Document",
@@ -187,8 +182,7 @@
               "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:38:16.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:38:16.6Z"
             },
             {
               "$type": "Document",

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\dbmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|solutionrelative:new_aspcore_web_api\\dbmodels\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{522D74EC-F94F-4FE4-BD91-219C728618E0}|New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API.csproj|c:\\users\\pooja s\\source\\repos\\new_aspcore_web_api\\new_aspcore_web_api\\migrations\\20241204122932_seed_data_and_1tomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SchoolContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Migrations\\SchoolContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Migrations\\SchoolContextModelSnapshot.cs",
@@ -70,44 +70,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Student.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\Student.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Student.cs",
               "RelativeToolTip": "New_ASPCORE_WEB_API\\DBModels\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T10:29:27.21Z"
+              "WhenOpened": "2024-12-04T10:29:27.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Course.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\Course.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Course.cs",
               "RelativeToolTip": "New_ASPCORE_WEB_API\\DBModels\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T10:29:59.631Z"
+              "WhenOpened": "2024-12-04T10:29:59.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
               "RelativeToolTip": "New_ASPCORE_WEB_API\\Context\\SchoolContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwEMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T10:39:25.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "StudentCourse.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\StudentCourse.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\StudentCourse.cs",
@@ -119,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\Program.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\Program.cs",
@@ -131,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\New_ASPCORE_WEB_API\\New_ASPCORE_WEB_API\\DBModels\\Teacher.cs",
               "RelativeDocumentMoniker": "New_ASPCORE_WEB_API\\DBModels\\Teacher.cs",
@@ -151,7 +153,8 @@
               "RelativeToolTip": "New_ASPCORE_WEB_API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-04T10:41:11.824Z"
+              "WhenOpened": "2024-12-04T10:41:11.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

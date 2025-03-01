@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj": {
+    "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\ProductsTask\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\ProductsTask\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,14 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -73,14 +65,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.Extensions.Logging": {
-              "target": "Package",
-              "version": "[9.0.1, )"
             }
           },
           "imports": [

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Practice_CRUD_OPERATION_API.props" />
-</Project>

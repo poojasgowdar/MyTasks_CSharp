@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "EFCoreManyToMany\\Database\\BookDbContext.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EFCoreManyToMany\\EFCoreManyToMany\\Database\\BookDbContext.cs",
               "RelativeToolTip": "EFCoreManyToMany\\Database\\BookDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA0wC8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T06:35:08.66Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "EFCoreManyToMany\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T11:32:57.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T11:32:57.03Z"
             },
             {
               "$type": "Document",

@@ -7,15 +7,7 @@
       "RelativeMoniker": "D:0:0:{431D3493-9275-47F3-B112-64954F40C099}|Demo_Up\\Demo_Up.csproj|solutionrelative:demo_up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10EEC79C-2D63-4C8F-8ED4-E4943B5922E5}|Abstraction_Demo\\Abstraction_Demo.csproj|c:\\users\\pooja s\\source\\repos\\saturday_practise_programs\\abstraction_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10EEC79C-2D63-4C8F-8ED4-E4943B5922E5}|Abstraction_Demo\\Abstraction_Demo.csproj|solutionrelative:abstraction_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F28C79-081A-4D0A-8206-33F2AD95C0AA}|Abstraction_Using_Abstract\\Abstraction_Using_Abstract.csproj|c:\\users\\pooja s\\source\\repos\\saturday_practise_programs\\abstraction_using_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F28C79-081A-4D0A-8206-33F2AD95C0AA}|Abstraction_Using_Abstract\\Abstraction_Using_Abstract.csproj|solutionrelative:abstraction_using_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781E6706-E098-4029-84E0-90C92C382336}|Abstraction_Ex\\Abstraction_Ex.csproj|c:\\users\\pooja s\\source\\repos\\saturday_practise_programs\\abstraction_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{781E6706-E098-4029-84E0-90C92C382336}|Abstraction_Ex\\Abstraction_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\abstraction_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{781E6706-E098-4029-84E0-90C92C382336}|Abstraction_Ex\\Abstraction_Ex.csproj|solutionrelative:abstraction_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +28,7 @@
               "RelativeDocumentMoniker": "Demo_Up\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\Demo_Up\\Program.cs",
               "RelativeToolTip": "Demo_Up\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T07:09:17.796Z",
               "EditorCaption": ""
@@ -44,32 +36,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\Abstraction_Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Abstraction_Demo\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\Abstraction_Demo\\Program.cs",
-              "RelativeToolTip": "Abstraction_Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T05:48:53.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\Abstraction_Using_Abstract\\Program.cs",
-              "RelativeDocumentMoniker": "Abstraction_Using_Abstract\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\Abstraction_Using_Abstract\\Program.cs",
-              "RelativeToolTip": "Abstraction_Using_Abstract\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:05:40.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Saturday_Practise_Programs\\Abstraction_Ex\\Program.cs",
               "RelativeDocumentMoniker": "Abstraction_Ex\\Program.cs",

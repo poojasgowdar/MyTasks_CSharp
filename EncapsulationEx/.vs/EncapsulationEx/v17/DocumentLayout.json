@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DF99E20-3D84-4175-9184-ED637FBF7CC9}|EncapsulationEx\\EncapsulationEx.csproj|c:\\users\\pooja s\\source\\repos\\encapsulationex\\encapsulationex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF99E20-3D84-4175-9184-ED637FBF7CC9}|EncapsulationEx\\EncapsulationEx.csproj|solutionrelative:encapsulationex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDAE8C8-6A1E-4C71-A3B2-F258958F2FF3}|EncapBankAccount\\EncapBankAccount.csproj|c:\\users\\pooja s\\source\\repos\\encapsulationex\\encapbankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDAE8C8-6A1E-4C71-A3B2-F258958F2FF3}|EncapBankAccount\\EncapBankAccount.csproj|solutionrelative:encapbankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D8C2DF4-F13A-470D-8CC6-F1561445F05E}|Person\\Person.csproj|c:\\users\\pooja s\\source\\repos\\encapsulationex\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D8C2DF4-F13A-470D-8CC6-F1561445F05E}|Person\\Person.csproj|solutionrelative:person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\EncapsulationEx\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationEx\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\EncapsulationEx\\Program.cs",
+              "RelativeToolTip": "EncapsulationEx\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:04:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\EncapBankAccount\\BankAccount.cs",
+              "RelativeDocumentMoniker": "EncapBankAccount\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\EncapBankAccount\\BankAccount.cs",
+              "RelativeToolTip": "EncapBankAccount\\BankAccount.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:04:26.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\Person\\Program.cs",
               "RelativeDocumentMoniker": "Person\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\EncapsulationEx\\Person\\Program.cs",
               "RelativeToolTip": "Person\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T09:17:45.486Z",
               "EditorCaption": ""

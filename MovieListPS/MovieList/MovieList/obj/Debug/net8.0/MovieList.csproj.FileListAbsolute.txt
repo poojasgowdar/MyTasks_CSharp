@@ -1,0 +1,158 @@
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\appsettings.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.endpoints.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.exe
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.deps.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\MovieList.pdb
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.AssemblyReference.cache
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\scopedcss\projectbundle\MovieList.bundle.scp.css
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.Up2Date
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.pdb
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+C:\Users\Harsha\source\repos\MovieList\MovieList\obj\Debug\net8.0\ref\MovieList.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Polly.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\Harsha\source\repos\MovieList\MovieList\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\appsettings.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.exe
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.deps.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.pdb
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Polly.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.AssemblyReference.cache
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\scopedcss\projectbundle\MovieList.bundle.scp.css
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.Up2Date
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.pdb
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+C:\Users\Pooja S\Downloads\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\ref\MovieList.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\appsettings.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.exe
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.deps.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\MovieList.pdb
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Polly.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\Polly.Extensions.Http.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.sourcelink.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\scopedcss\projectbundle\MovieList.bundle.scp.css
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.Up2Date
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.pdb
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\MovieList 1\MovieList\MovieList\obj\Debug\net8.0\ref\MovieList.dll

@@ -8,6 +8,7 @@ using System.Reflection.Metadata.Ecma335;
 
 namespace MVC_New_Project.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly IRepository<Product> _productRepository;

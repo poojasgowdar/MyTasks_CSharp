@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{020D8CD4-1439-488F-B1A3-9939C830A3A9}|Natural_Numbers\\Natural_Numbers.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\natural_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{020D8CD4-1439-488F-B1A3-9939C830A3A9}|Natural_Numbers\\Natural_Numbers.csproj|solutionrelative:natural_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53163DAC-C665-4490-986F-7613A64E63CE}|Binary_Search\\Binary_Search.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\binary_search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53163DAC-C665-4490-986F-7613A64E63CE}|Binary_Search\\Binary_Search.csproj|solutionrelative:binary_search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA1AC08D-3DE4-4971-BED8-D4477AC02BB2}|GroupBy_Ex\\GroupBy_Ex.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\groupby_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1AC08D-3DE4-4971-BED8-D4477AC02BB2}|GroupBy_Ex\\GroupBy_Ex.csproj|solutionrelative:groupby_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCD30E04-7566-4D3D-A23A-99F301F7D339}|AreaOfTriangle\\AreaOfTriangle.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\areaoftriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD30E04-7566-4D3D-A23A-99F301F7D339}|AreaOfTriangle\\AreaOfTriangle.csproj|solutionrelative:areaoftriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E924ADA5-DF6D-44E1-8939-6B9C0A5DD77A}|Delegates_Example1\\Delegates_Example1.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\delegates_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E924ADA5-DF6D-44E1-8939-6B9C0A5DD77A}|Delegates_Example1\\Delegates_Example1.csproj|solutionrelative:delegates_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A601BE-FECD-47A7-9B4B-55FBC98A9C29}|Constructor_Injection\\Constructor_Injection.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\constructor_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A601BE-FECD-47A7-9B4B-55FBC98A9C29}|Constructor_Injection\\Constructor_Injection.csproj|solutionrelative:constructor_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}|Aysnchronous_Example1\\Aysnchronous_Example1.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\aysnchronous_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDFBFCA3-DC9E-4B4B-A530-E05759F9BAEE}|Aysnchronous_Example1\\Aysnchronous_Example1.csproj|solutionrelative:aysnchronous_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020D8CD4-1439-488F-B1A3-9939C830A3A9}|Natural_Numbers\\Natural_Numbers.csproj|c:\\users\\pooja s\\source\\repos\\interview_prep\\natural_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020D8CD4-1439-488F-B1A3-9939C830A3A9}|Natural_Numbers\\Natural_Numbers.csproj|solutionrelative:natural_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1AC08D-3DE4-4971-BED8-D4477AC02BB2}|GroupBy_Ex\\GroupBy_Ex.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\groupby_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1AC08D-3DE4-4971-BED8-D4477AC02BB2}|GroupBy_Ex\\GroupBy_Ex.csproj|solutionrelative:groupby_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F530FFD1-A4A3-428A-A30A-500596ED8865}|ExampleMethods\\ExampleMethods.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\examplemethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6141E91B-7054-42AA-86E4-ECACAB14B0C8}|PropertyInjection\\PropertyInjection.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\propertyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6141E91B-7054-42AA-86E4-ECACAB14B0C8}|PropertyInjection\\PropertyInjection.csproj|solutionrelative:propertyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A601BE-FECD-47A7-9B4B-55FBC98A9C29}|Constructor_Injection\\Constructor_Injection.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\constructor_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A601BE-FECD-47A7-9B4B-55FBC98A9C29}|Constructor_Injection\\Constructor_Injection.csproj|solutionrelative:constructor_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE0C97DF-BA7A-4B16-8002-BAC568295012}|Multi_Level_Inheritance\\Multi_Level_Inheritance.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\multi_level_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68B7D70F-7EAE-4468-B4DC-1A09338A58FD}|Interview_prep\\Interview_prep.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\interview_prep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68B7D70F-7EAE-4468-B4DC-1A09338A58FD}|Interview_prep\\Interview_prep.csproj|solutionrelative:interview_prep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E924ADA5-DF6D-44E1-8939-6B9C0A5DD77A}|Delegates_Example1\\Delegates_Example1.csproj|C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\delegates_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E924ADA5-DF6D-44E1-8939-6B9C0A5DD77A}|Delegates_Example1\\Delegates_Example1.csproj|solutionrelative:delegates_example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,42 +80,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Binary_Search\\Program.cs",
+              "RelativeDocumentMoniker": "Binary_Search\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Binary_Search\\Program.cs",
+              "RelativeToolTip": "Binary_Search\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:15:05.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\AreaOfTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "AreaOfTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\AreaOfTriangle\\Program.cs",
+              "RelativeToolTip": "AreaOfTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:14:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Natural_Numbers\\Program.cs",
               "RelativeDocumentMoniker": "Natural_Numbers\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Natural_Numbers\\Program.cs*",
-              "RelativeToolTip": "Natural_Numbers\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Natural_Numbers\\Program.cs",
+              "RelativeToolTip": "Natural_Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T09:49:37.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Aysnchronous_Example1\\Program.cs",
               "RelativeDocumentMoniker": "Aysnchronous_Example1\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Aysnchronous_Example1\\Program.cs",
               "RelativeToolTip": "Aysnchronous_Example1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T05:40:37.458Z"
+              "WhenOpened": "2025-02-11T05:40:37.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\PropertyInjection\\Program.cs",
-              "RelativeDocumentMoniker": "PropertyInjection\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\PropertyInjection\\Program.cs",
-              "RelativeToolTip": "PropertyInjection\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T04:13:45.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\MethodInjection\\Program.cs",
               "RelativeDocumentMoniker": "MethodInjection\\Program.cs",
@@ -119,19 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Constructor_Injection\\Program.cs",
               "RelativeDocumentMoniker": "Constructor_Injection\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Constructor_Injection\\Program.cs",
               "RelativeToolTip": "Constructor_Injection\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA0wCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T03:51:08.007Z"
+              "WhenOpened": "2025-02-07T03:51:08.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Multi_Level_Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "Multi_Level_Inheritance\\Program.cs",
@@ -143,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Single_level_Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "Single_level_Inheritance\\Program.cs",
@@ -155,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Specialization\\Program.cs",
               "RelativeDocumentMoniker": "Specialization\\Program.cs",
@@ -167,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Linq_GroupBy_Task\\Program.cs",
               "RelativeDocumentMoniker": "Linq_GroupBy_Task\\Program.cs",
@@ -179,7 +203,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Delegates_Example1\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates_Example1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Delegates_Example1\\Program.cs",
+              "RelativeToolTip": "Delegates_Example1\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:58:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\PropertyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\PropertyInjection\\Program.cs",
+              "RelativeToolTip": "PropertyInjection\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:13:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\GroupBy_Ex\\Program.cs",
               "RelativeDocumentMoniker": "GroupBy_Ex\\Program.cs",
@@ -187,12 +236,11 @@
               "RelativeToolTip": "GroupBy_Ex\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:04:11.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:04:11.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\ExampleMethods\\Program.cs",
               "RelativeDocumentMoniker": "ExampleMethods\\Program.cs",
@@ -204,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\GroupBy1\\Program.cs",
               "RelativeDocumentMoniker": "GroupBy1\\Program.cs",
@@ -216,19 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Delegates_Example1\\Program.cs",
-              "RelativeDocumentMoniker": "Delegates_Example1\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Delegates_Example1\\Program.cs",
-              "RelativeToolTip": "Delegates_Example1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T08:58:34.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Interview_prep\\Interview_prep\\Program.cs",
               "RelativeDocumentMoniker": "Interview_prep\\Program.cs",

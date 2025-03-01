@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aysnchronous_Example1", "Ay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natural_Numbers", "Natural_Numbers\Natural_Numbers.csproj", "{020D8CD4-1439-488F-B1A3-9939C830A3A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfTriangle", "AreaOfTriangle\AreaOfTriangle.csproj", "{FCD30E04-7566-4D3D-A23A-99F301F7D339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search", "Binary_Search\Binary_Search.csproj", "{53163DAC-C665-4490-986F-7613A64E63CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020D8CD4-1439-488F-B1A3-9939C830A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD30E04-7566-4D3D-A23A-99F301F7D339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD30E04-7566-4D3D-A23A-99F301F7D339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD30E04-7566-4D3D-A23A-99F301F7D339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD30E04-7566-4D3D-A23A-99F301F7D339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53163DAC-C665-4490-986F-7613A64E63CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53163DAC-C665-4490-986F-7613A64E63CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53163DAC-C665-4490-986F-7613A64E63CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53163DAC-C665-4490-986F-7613A64E63CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,14 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2593B31C-05D9-49D8-BF48-14B68DC33886}|Linq_Operations\\Linq_Operations.csproj|c:\\users\\pooja s\\source\\repos\\consoleapplinqexample\\linq_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2593B31C-05D9-49D8-BF48-14B68DC33886}|Linq_Operations\\Linq_Operations.csproj|solutionrelative:linq_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679B2B58-84BE-414D-AEE5-0A46A83277CD}|ConsoleAppLinqExample\\ConsoleAppLinqExample.csproj|c:\\users\\pooja s\\source\\repos\\consoleapplinqexample\\consoleapplinqexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{679B2B58-84BE-414D-AEE5-0A46A83277CD}|ConsoleAppLinqExample\\ConsoleAppLinqExample.csproj|solutionrelative:consoleapplinqexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679B2B58-84BE-414D-AEE5-0A46A83277CD}|ConsoleAppLinqExample\\ConsoleAppLinqExample.csproj|c:\\users\\pooja s\\source\\repos\\consoleapplinqexample\\consoleapplinqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{679B2B58-84BE-414D-AEE5-0A46A83277CD}|ConsoleAppLinqExample\\ConsoleAppLinqExample.csproj|solutionrelative:consoleapplinqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +28,7 @@
               "RelativeDocumentMoniker": "Linq_Example\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\Linq_Example\\Program.cs",
               "RelativeToolTip": "Linq_Example\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T12:07:00.221Z",
               "EditorCaption": ""
@@ -49,35 +41,9 @@
               "RelativeDocumentMoniker": "Linq_Operations\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\Linq_Operations\\Program.cs",
               "RelativeToolTip": "Linq_Operations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T11:06:48.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\ConsoleAppLinqExample\\Student.cs",
-              "RelativeDocumentMoniker": "ConsoleAppLinqExample\\Student.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\ConsoleAppLinqExample\\Student.cs",
-              "RelativeToolTip": "ConsoleAppLinqExample\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:25:25.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\ConsoleAppLinqExample\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppLinqExample\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ConsoleAppLinqExample\\ConsoleAppLinqExample\\Program.cs",
-              "RelativeToolTip": "ConsoleAppLinqExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:22:43.704Z",
               "EditorCaption": ""
             }
           ]

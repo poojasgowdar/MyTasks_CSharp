@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{4B0647FF-0FCC-43B1-8578-6FE2E81010F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{4B0647FF-0FCC-43B1-8578-6FE2E81010F2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{6BE2265D-9C72-4875-961E-EA8B9B97F258}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{6BE2265D-9C72-4875-961E-EA8B9B97F258}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductController", "ProductController\ProductController.csproj", "{7E475009-D1D8-4626-BB6D-FB74C13E961D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductController", "ProductController\ProductController.csproj", "{7E475009-D1D8-4626-BB6D-FB74C13E961D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{732D1327-74DF-4788-8553-BE10DD7AF44B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{732D1327-74DF-4788-8553-BE10DD7AF44B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{30F102C6-94BB-4416-99E4-028FFA55D6C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{30F102C6-94BB-4416-99E4-028FFA55D6C4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dtos", "Dtos\Dtos.csproj", "{C24E1317-0E3C-496F-8204-040BF1E5691F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dtos", "Dtos\Dtos.csproj", "{C24E1317-0E3C-496F-8204-040BF1E5691F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

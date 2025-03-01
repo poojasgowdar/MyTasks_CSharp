@@ -15,10 +15,6 @@ namespace Repository.Repositories
         {
             _context = context;
         }
-        public IEnumerable<Product> GetAll()
-        {
-            return _context.Products;
-        }
 
         public Product GetById(int id)
         {
@@ -26,10 +22,10 @@ namespace Repository.Repositories
         }
         public void Add(Product product)
         {
-            _context.Products.Add(product);
+            _context.Add(product);
             _context.SaveChanges();
         }
-        public void UpdateById(int id, Product product)
+        public void UpdateById(Product product)
         {
             _context.Products.Update(product);
             _context.SaveChanges();

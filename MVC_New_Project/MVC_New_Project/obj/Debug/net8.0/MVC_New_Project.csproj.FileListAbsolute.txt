@@ -171,4 +171,3 @@ C:\Users\Pooja S\source\repos\MVC_New_Project\MVC_New_Project\bin\Debug\net8.0\S
 C:\Users\Pooja S\source\repos\MVC_New_Project\MVC_New_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Pooja S\source\repos\MVC_New_Project\MVC_New_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Pooja S\source\repos\MVC_New_Project\MVC_New_Project\obj\Debug\net8.0\MVC_New_Project.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Pooja S\source\repos\MVC_New_Project\MVC_New_Project\obj\Debug\net8.0\MVC_New_Project.sourcelink.json
