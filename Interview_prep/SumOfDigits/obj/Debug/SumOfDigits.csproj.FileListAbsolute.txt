@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\obj\Debug\SumOfDigits.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\Pooja S\source\repos\Interview_prep\SumOfDigits\obj\Debug\SumOfDigits.pdb

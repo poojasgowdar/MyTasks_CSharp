@@ -12,3 +12,4 @@ C:\Users\Pooja S\source\repos\UserLoginAPI\Models\obj\Debug\net8.0\refint\Models
 C:\Users\Pooja S\source\repos\UserLoginAPI\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\Pooja S\source\repos\UserLoginAPI\Models\obj\Debug\net8.0\Models.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\UserLoginAPI\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\Pooja S\source\repos\UserLoginAPI\Models\obj\Debug\net8.0\Models.sourcelink.json

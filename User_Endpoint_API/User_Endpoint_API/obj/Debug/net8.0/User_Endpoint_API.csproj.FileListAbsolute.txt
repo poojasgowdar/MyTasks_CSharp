@@ -172,3 +172,4 @@ C:\Users\Pooja S\source\repos\User_Endpoint_API\User_Endpoint_API\obj\Debug\net8
 C:\Users\Pooja S\source\repos\User_Endpoint_API\User_Endpoint_API\bin\Debug\net8.0\JWT.dll
 C:\Users\Pooja S\source\repos\User_Endpoint_API\User_Endpoint_API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Pooja S\source\repos\User_Endpoint_API\User_Endpoint_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pooja S\source\repos\User_Endpoint_API\User_Endpoint_API\obj\Debug\net8.0\User_Endpoint_API.sourcelink.json

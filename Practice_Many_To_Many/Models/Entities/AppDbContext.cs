@@ -22,29 +22,31 @@ namespace Models.Entities
            .HasKey(pc => new { pc.ProductId, pc.CategoryId });
 
             modelBuilder.Entity<Product>().HasData(
-                 new Product { ProductId = 1, ProductName = "Laptop"},
-                 new Product { ProductId = 2, ProductName = "Smartphone" }
+                 new Product { ProductId = 1, ProductName = "Laptop" },
+                 new Product { ProductId = 2, ProductName = "Smartphone" },
+                 new Product { ProductId = 3, ProductName = "Headphones" }
             );
 
             modelBuilder.Entity<Category>().HasData(
                 new Category { CategoryId = 1, CategoryName = "Electronics" },
-                new Category { CategoryId = 2, CategoryName = "Computers" }
+                new Category { CategoryId = 2, CategoryName = "Accessories" },
+                new Category { CategoryId = 3, CategoryName = "Mobiles"}
             );
 
              modelBuilder.Entity<ProductCategory>().HasData(
                 new ProductCategory { ProductId = 1, CategoryId = 1 },  // Laptop → Electronics
-                new ProductCategory { ProductId = 1, CategoryId = 2 },  // Laptop → Computers
-                new ProductCategory { ProductId = 2, CategoryId = 1 }   // Smartphone → Electronics
+                new ProductCategory { ProductId = 2, CategoryId = 1 },  // Laptop → Computers
+                new ProductCategory { ProductId = 2, CategoryId = 3 }   // Smartphone → Electronics
             );
 
 
-            modelBuilder.Entity<Product>()
-            .HasIndex(p => p.ProductName)
-            .IsUnique();
+           // modelBuilder.Entity<Product>()
+           // .HasIndex(p => p.ProductName)
+           // .IsUnique();
 
-            modelBuilder.Entity<Category>()
-           .HasIndex(p => p.CategoryName)
-           .IsUnique();
+           // modelBuilder.Entity<Category>()
+           //.HasIndex(p => p.CategoryName)
+           //.IsUnique();
         }
     }
 }

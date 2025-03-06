@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\employeecontroller\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|solutionrelative:employeecontroller\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673AC401-091B-4D5F-AB82-A3C550F2E3D5}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\services\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673AC401-091B-4D5F-AB82-A3C550F2E3D5}|Services\\Services.csproj|solutionrelative:services\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281CFBD-007B-40A6-9F74-EC2F41667E47}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281CFBD-007B-40A6-9F74-EC2F41667E47}|Models\\Models.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281CFBD-007B-40A6-9F74-EC2F41667E47}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281CFBD-007B-40A6-9F74-EC2F41667E47}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673AC401-091B-4D5F-AB82-A3C550F2E3D5}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\services\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673AC401-091B-4D5F-AB82-A3C550F2E3D5}|Services\\Services.csproj|solutionrelative:services\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4772AAF7-3FEC-4EB0-9321-36C5A17912D9}|Repository\\Repository.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\repository\\repos\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4772AAF7-3FEC-4EB0-9321-36C5A17912D9}|Repository\\Repository.csproj|solutionrelative:repository\\repos\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\employeecontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|solutionrelative:employeecontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\employeecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|solutionrelative:employeecontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CFCBC8-BC42-4FCD-81D7-5C5A1852C0CF}|DTOs\\DTOs.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\dtos\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CFCBC8-BC42-4FCD-81D7-5C5A1852C0CF}|DTOs\\DTOs.csproj|solutionrelative:dtos\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\employeecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F0D4F20-020F-48F9-BA06-7B97DA6D1F56}|EmployeeController\\EmployeeController.csproj|solutionrelative:employeecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4772AAF7-3FEC-4EB0-9321-36C5A17912D9}|Repository\\Repository.csproj|c:\\users\\pooja s\\source\\repos\\employee_management\\repository\\repos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4772AAF7-3FEC-4EB0-9321-36C5A17912D9}|Repository\\Repository.csproj|solutionrelative:repository\\repos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Repository\\Repos\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repos\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Repository\\Repos\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Repos\\EmployeeRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:23:35.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeController\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeController\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:27:47.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Services\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Services\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:25:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\Controllers\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeController\\Controllers\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\Controllers\\MyMappingProfile.cs",
+              "RelativeToolTip": "EmployeeController\\Controllers\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:28:07.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Services\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Services\\Service\\IService.cs",
+              "RelativeToolTip": "Services\\Service\\IService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:26:36.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:31:10.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:19:41.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\Program.cs",
+              "RelativeToolTip": "EmployeeController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:29:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\DTOs\\dto\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\dto\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\DTOs\\dto\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\dto\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:21:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\EmployeeController\\appsettings.json",
+              "RelativeToolTip": "EmployeeController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T11:32:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Repository\\Repos\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repos\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Employee_Management\\Repository\\Repos\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Repos\\IRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:24:10.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

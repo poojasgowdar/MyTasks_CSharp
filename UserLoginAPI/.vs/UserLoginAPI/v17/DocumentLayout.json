@@ -7,44 +7,52 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\Interface\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Services\\ServiceLayer\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ServiceLayer\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Context\\UsersDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Context\\UsersDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Services\\ServiceLayer\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ServiceLayer\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Mappings\\CreateMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\Mappings\\CreateMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\ResponseUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\ResponseUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\Interface\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\UserLoginAPI.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserLoginAPI\\UserLoginAPI.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\ResponseUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\ResponseUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Migrations\\20241216120729_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,79 +82,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IRepository.cs",
-              "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:02:46.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IService.cs",
-              "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:03:04.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\UserLoginDto.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\UserLoginDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:05:36.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UserLoginAPI\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "UserLoginAPI\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:06:52.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Models\\User.cs",
-              "RelativeToolTip": "DataAccessLayer\\Models\\User.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:00:02.077Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Program.cs",
-              "RelativeDocumentMoniker": "UserLoginAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Program.cs",
-              "RelativeToolTip": "UserLoginAPI\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAABAvVQAAAAhAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Services\\ServiceLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceLayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Services\\ServiceLayer\\UserService.cs",
+              "RelativeToolTip": "Services\\ServiceLayer\\UserService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:53:57.536Z",
+              "WhenOpened": "2024-12-16T11:08:28.117Z",
               "EditorCaption": ""
             },
             {
@@ -165,62 +105,147 @@
               "RelativeDocumentMoniker": "UserLoginAPI\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "UserLoginAPI\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T11:09:21.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsersDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Context\\UsersDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Context\\UsersDbContext.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Context\\UsersDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\Context\\UsersDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:01:07.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Services\\ServiceLayer\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\ServiceLayer\\UserService.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Services\\ServiceLayer\\UserService.cs",
-              "RelativeToolTip": "Services\\ServiceLayer\\UserService.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAmwHQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:08:28.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\appsettings.json",
               "RelativeDocumentMoniker": "UserLoginAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\appsettings.json",
               "RelativeToolTip": "UserLoginAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-16T11:53:28.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserLoginAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserLoginAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:06:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserLoginAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Program.cs",
+              "RelativeToolTip": "UserLoginAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:53:57.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:49.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Models\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:00:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Context\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Context\\UsersDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\DataAccessLayer\\Context\\UsersDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Context\\UsersDbContext.cs",
+              "ViewState": "AgIAABcAAAAANDMzMzPzvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:01:07.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CreateMapper.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Mappings\\CreateMapper.cs",
               "RelativeDocumentMoniker": "UserLoginAPI\\Mappings\\CreateMapper.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\Mappings\\CreateMapper.cs",
               "RelativeToolTip": "UserLoginAPI\\Mappings\\CreateMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T11:25:24.197Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:02:46.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:05:36.28Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ResponseUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\ResponseUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\ResponseUserDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\ResponseUserDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\ResponseUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:05:10.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Interfaces\\Interface\\IService.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:03:04.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UserLoginAPI\\appsettings.Development.json",
@@ -232,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UserLoginAPI.http",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\UserLoginAPI\\UserLoginAPI.http",
               "RelativeDocumentMoniker": "UserLoginAPI\\UserLoginAPI.http",
@@ -241,30 +266,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-01-21T06:34:30.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\CreateUserDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\CreateUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:04:49.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ResponseUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\ResponseUserDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\ResponseUserDto.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\UserLoginAPI\\Models\\Dtos\\ResponseUserDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\ResponseUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:05:10.467Z"
             },
             {
               "$type": "Document",

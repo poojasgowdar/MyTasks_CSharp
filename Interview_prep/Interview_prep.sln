@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfTriangle", "AreaOfTri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Search", "Binary_Search\Binary_Search.csproj", "{53163DAC-C665-4490-986F-7613A64E63CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOddNo", "EvenOrOddNo\EvenOrOddNo.csproj", "{DAC63759-C08C-4D6C-B9D7-FAF16F20A555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{76279A61-C46B-4644-90B3-F9F18712F081}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{53163DAC-C665-4490-986F-7613A64E63CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53163DAC-C665-4490-986F-7613A64E63CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53163DAC-C665-4490-986F-7613A64E63CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC63759-C08C-4D6C-B9D7-FAF16F20A555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC63759-C08C-4D6C-B9D7-FAF16F20A555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC63759-C08C-4D6C-B9D7-FAF16F20A555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC63759-C08C-4D6C-B9D7-FAF16F20A555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76279A61-C46B-4644-90B3-F9F18712F081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76279A61-C46B-4644-90B3-F9F18712F081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76279A61-C46B-4644-90B3-F9F18712F081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76279A61-C46B-4644-90B3-F9F18712F081}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

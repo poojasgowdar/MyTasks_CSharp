@@ -46,7 +46,6 @@ namespace UserLoginAPI.Controllers
                 return CreatedAtAction(nameof(CreateUser),
                     new { username = user.Username }, user);
                 //return Ok();
-
             }
             catch (InvalidOperationException ex)
             {

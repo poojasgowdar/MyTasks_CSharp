@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
+    "",
+    "\\DataAccessLayer",
+    "\\Models",
+    "\\Services",
+    "\\Services\\ServiceLayer",
     "\\UserLoginAPI",
-    "\\UserLoginAPI\\Controllers"
+    "\\UserLoginAPI\\Controllers",
+    "\\UserLoginAPI\\Mappings",
+    "\\UserLoginAPI\\Repositories"
   ],
+  "SelectedNode": "\\UserLoginAPI",
   "PreviewInSolutionExplorer": false
 }

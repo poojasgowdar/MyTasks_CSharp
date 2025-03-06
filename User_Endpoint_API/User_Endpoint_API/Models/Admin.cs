@@ -8,7 +8,7 @@
         public string Role { get; set; }
 
         public bool IsAdmin => Role == "Admin";
-
+        l
     }
 }
 

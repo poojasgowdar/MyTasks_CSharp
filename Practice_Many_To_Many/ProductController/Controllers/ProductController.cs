@@ -63,9 +63,6 @@ namespace ProductController.Controllers
             }
             _productService.Delete(id);
             return Ok(new { Message = "Product Deleted Successfully" });
-
-
         }
-
     }
 }

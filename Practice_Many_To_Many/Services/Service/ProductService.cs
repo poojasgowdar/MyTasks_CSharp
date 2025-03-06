@@ -37,7 +37,8 @@ namespace Services.Service
             var product = _mapper.Map<Product>(productDto);
             _productRepository.Add(product, categoryIds);
         }
-        public bool Update(int id, ProductDTO productDto)
+
+       public bool Update(int id, ProductDTO productDto)
         {
             var existingProduct = _productRepository.GetById(id);
             if (existingProduct == null)
@@ -53,7 +54,6 @@ namespace Services.Service
         {
             _productRepository.Delete(id);
         }
-
-       
+        
     }
 }

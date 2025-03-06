@@ -30,32 +30,35 @@ namespace Repositories.Repository
                                  .ThenInclude(pc => pc.Category)
                                  .FirstOrDefault(p => p.ProductId == id);
         }
-
         public void Add(Product product, List<int> categoryIds)
         {
             _context.Products.Add(product);
-            _context.SaveChanges();
-
+            _context.SaveChanges(); // Save Product First
             if (categoryIds != null && categoryIds.Count > 0)
             {
                 foreach (var categoryId in categoryIds)
                 {
-                    _context.ProductCategories.Add(new ProductCategory
+                    var category = _context.Categories.Find(categoryId); // Fetch existing category
+
+                    if (category == null)
+                        throw new Exception($"Category with ID {categoryId} not found.");
+
+                    var productCategory = new ProductCategory
                     {
                         ProductId = product.ProductId,
-                        CategoryId = categoryId
-                    });
+                        CategoryId = category.CategoryId
+                    };
+
+                    _context.ProductCategories.Add(productCategory);
                 }
-                _context.SaveChanges();
+                _context.SaveChanges(); // Save all relations at once
             }
         }
-
         public void Update(Product product)
         {
             _context.Products.Update(product);
             _context.SaveChanges();
         }
-        
         public void Delete(int id)
         {
             var student = _context.Products.Find(id);

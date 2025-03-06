@@ -36,9 +36,6 @@ namespace Models.Migrations
 
                     b.HasKey("CategoryId");
 
-                    b.HasIndex("CategoryName")
-                        .IsUnique();
-
                     b.ToTable("Categories");
 
                     b.HasData(
@@ -50,7 +47,12 @@ namespace Models.Migrations
                         new
                         {
                             CategoryId = 2,
-                            CategoryName = "Computers"
+                            CategoryName = "Accessories"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            CategoryName = "Mobiles"
                         });
                 });
 
@@ -69,9 +71,6 @@ namespace Models.Migrations
 
                     b.HasKey("ProductId");
 
-                    b.HasIndex("ProductName")
-                        .IsUnique();
-
                     b.ToTable("Products");
 
                     b.HasData(
@@ -84,6 +83,11 @@ namespace Models.Migrations
                         {
                             ProductId = 2,
                             ProductName = "Smartphone"
+                        },
+                        new
+                        {
+                            ProductId = 3,
+                            ProductName = "Headphones"
                         });
                 });
 
@@ -109,13 +113,13 @@ namespace Models.Migrations
                         },
                         new
                         {
-                            ProductId = 1,
-                            CategoryId = 2
+                            ProductId = 2,
+                            CategoryId = 1
                         },
                         new
                         {
                             ProductId = 2,
-                            CategoryId = 1
+                            CategoryId = 3
                         });
                 });
 

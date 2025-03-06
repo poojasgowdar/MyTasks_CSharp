@@ -10,11 +10,11 @@ namespace Interfaces.Interface
 {
     public interface IService
     {
-        public List<ProductDTO> GetProducts();
-        public ProductDTO GetById(int id);
-        public void Add(ProductDTO productDto);
-        public bool UpdateById(int id, ProductDTO productDto);
-        public void DeleteById(int id);
+         List<ProductDTO> GetProducts();
+         ProductDTO GetById(int id);
+         void Add(ProductDTO productDto);
+         bool UpdateById(int id, ProductDTO productDto);
+         void DeleteById(int id);
 
     }
 }

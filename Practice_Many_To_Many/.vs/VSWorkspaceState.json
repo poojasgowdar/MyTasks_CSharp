@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DTOs",
+    "\\Interfaces",
+    "\\Mapper",
+    "\\Models",
+    "\\ProductController",
+    "\\Repositories",
+    "\\Repositories\\Repository",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Practice_Many_To_Many.sln",
+  "PreviewInSolutionExplorer": false
+}
