@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\bin\Debug\PalindromeString.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\bin\Debug\PalindromeString.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\bin\Debug\PalindromeString.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\obj\Debug\PalindromeString.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\obj\Debug\PalindromeString.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\obj\Debug\PalindromeString.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PalindromeString\obj\Debug\PalindromeString.pdb

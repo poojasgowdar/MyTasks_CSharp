@@ -11,5 +11,6 @@ namespace UserController.Controllers
             CreateMap<CreateUserDto, User>();
             CreateMap<User, ResponseUserDto>();
         }
+
     }
 }

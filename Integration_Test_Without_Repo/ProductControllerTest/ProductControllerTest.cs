@@ -64,7 +64,7 @@ namespace ProductControllerTest
             Assert.NotNull(product);
             Assert.Equal("Bluetooth", product.Name);
         }
-        
+
         [Fact]
         public void AddProduct_ReturnsCreated()
         {
@@ -74,6 +74,12 @@ namespace ProductControllerTest
             var response = _client.PostAsync("/api/Product/CreateNewProduct", jsonContent).Result;
             Assert.Equal(HttpStatusCode.Created, response.StatusCode);
         }
+        [Fact]
+        public void AddProduct_Correct()
+        {
+            var newProduct=new Product { Name="Tablet"}
+        }
+
         [Fact]
         public void UpdateProduct_ReturnsUpdated()
         {
@@ -104,6 +110,19 @@ namespace ProductControllerTest
             Assert.Equal(HttpStatusCode.NotFound, getResponse.StatusCode); 
         }
 
-       
+        [Fact]
+        public void Delete_ReturnsNoContent()
+        {
+            var response = _client.DeleteAsync("/api/Product/DeleteProductById/1").Result;
+            Assert.Equal(HttpStatusCode.NoContent, response.StatusCode);
+            var getResponse = _client.GetAsync("/api/Product/GetProductByID/1").Result;
+            Assert.Equal(HttpStatusCode.NotFound, getResponse.StatusCode);
+
+            var response = _client.DeleteAsync("/api/Product/DeleteProductById/1").Result;
+            Assert.Equal(HttpStatusCode.NotFound, getResponse.StatusCode);
+            var response = _client.GetAsync("/api/Product/GetProductByID/1").Result;
+
+        }
+
     }
 }

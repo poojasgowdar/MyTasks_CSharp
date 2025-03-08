@@ -39,15 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SecurityDemoMVC",
+              "Title": "SecurityDemoMVC.csproj",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\SecurityDemoMVC.csproj",
               "RelativeDocumentMoniker": "SecurityDemoMVC\\SecurityDemoMVC.csproj",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\SecurityDemoMVC.csproj",
               "RelativeToolTip": "SecurityDemoMVC\\SecurityDemoMVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T04:47:24.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:47:24.269Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "SecurityDemoMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:44:49.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:44:49.585Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "SecurityDemoMVC\\Controllers\\AccountsController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\SecurityDemoMVC\\SecurityDemoMVC\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "SecurityDemoMVC\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T04:44:16.369Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "SecurityDemoMVC\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAmwFcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:41:32.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:41:32.826Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "SecurityDemoMVC\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:37:44.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:37:44.146Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "SecurityDemoMVC\\Models\\MvcAuthenticationContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:17:01.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:17:01.507Z"
             }
           ]
         }

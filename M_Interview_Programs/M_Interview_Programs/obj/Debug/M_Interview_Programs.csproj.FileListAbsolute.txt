@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\bin\Debug\M_Interview_Programs.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\bin\Debug\M_Interview_Programs.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\bin\Debug\M_Interview_Programs.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\obj\Debug\M_Interview_Programs.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\obj\Debug\M_Interview_Programs.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\obj\Debug\M_Interview_Programs.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\M_Interview_Programs\obj\Debug\M_Interview_Programs.pdb

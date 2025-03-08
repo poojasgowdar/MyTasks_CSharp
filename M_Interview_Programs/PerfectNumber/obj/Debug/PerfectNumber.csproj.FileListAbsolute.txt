@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\obj\Debug\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\obj\Debug\PerfectNumber.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PerfectNumber\obj\Debug\PerfectNumber.pdb

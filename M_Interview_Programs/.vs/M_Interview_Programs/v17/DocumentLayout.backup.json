@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8A107-AFFE-4547-A14C-DE9598E437F6}|RemoveDuplicateStrings\\RemoveDuplicateStrings.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\removeduplicatestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8A107-AFFE-4547-A14C-DE9598E437F6}|RemoveDuplicateStrings\\RemoveDuplicateStrings.csproj|solutionrelative:removeduplicatestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176AC4D0-F4DA-4C7F-869F-78C1AFF2250F}|BinarySearch\\BinarySearch.csproj|c:\\users\\pooja s\\source\\repos\\m_interview_programs\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176AC4D0-F4DA-4C7F-869F-78C1AFF2250F}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A7FDCD-725F-4A38-8421-E672B2DF6D96}|PalindromeString\\PalindromeString.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\palindromestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A7FDCD-725F-4A38-8421-E672B2DF6D96}|PalindromeString\\PalindromeString.csproj|solutionrelative:palindromestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2ABA58-4F8C-4339-819A-AFB9CFCC7B55}|ReverseString\\ReverseString.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2ABA58-4F8C-4339-819A-AFB9CFCC7B55}|ReverseString\\ReverseString.csproj|solutionrelative:reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B52701-213A-460D-89DF-940FFDD0B4A4}|PerfectNumber\\PerfectNumber.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\perfectnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B52701-213A-460D-89DF-940FFDD0B4A4}|PerfectNumber\\PerfectNumber.csproj|solutionrelative:perfectnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF9A5E7-00E8-4374-B5CD-AD68AA1C638F}|Factorial\\Factorial.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF9A5E7-00E8-4374-B5CD-AD68AA1C638F}|Factorial\\Factorial.csproj|solutionrelative:factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6EBFE-E9E5-4C18-9671-327096E3DC75}|Bubble_Sort\\Bubble_Sort.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\bubble_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6EBFE-E9E5-4C18-9671-327096E3DC75}|Bubble_Sort\\Bubble_Sort.csproj|solutionrelative:bubble_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0041C41-DFF5-4FF9-BEA3-008C362BB608}|Swap_No_Without_ThirdVar\\Swap_No_Without_ThirdVar.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\swap_no_without_thirdvar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0041C41-DFF5-4FF9-BEA3-008C362BB608}|Swap_No_Without_ThirdVar\\Swap_No_Without_ThirdVar.csproj|solutionrelative:swap_no_without_thirdvar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0041C41-DFF5-4FF9-BEA3-008C362BB608}|Swap_No_Without_ThirdVar\\Swap_No_Without_ThirdVar.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\swap_no_without_thirdvar\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D0041C41-DFF5-4FF9-BEA3-008C362BB608}|Swap_No_Without_ThirdVar\\Swap_No_Without_ThirdVar.csproj|solutionrelative:swap_no_without_thirdvar\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF36C3DE-7B70-4EAD-ABC4-22D351C8FDC8}|M_Interview_Programs\\M_Interview_Programs.csproj|C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\m_interview_programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF36C3DE-7B70-4EAD-ABC4-22D351C8FDC8}|M_Interview_Programs\\M_Interview_Programs.csproj|solutionrelative:m_interview_programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:32:47.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\PalindromeString\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeString\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\PalindromeString\\Program.cs",
+              "RelativeToolTip": "PalindromeString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:16:09.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseString\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\ReverseString\\Program.cs",
+              "RelativeToolTip": "ReverseString\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:07:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\PerfectNumber\\Program.cs",
+              "RelativeDocumentMoniker": "PerfectNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\PerfectNumber\\Program.cs",
+              "RelativeToolTip": "PerfectNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:49:55.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\RemoveDuplicateStrings\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicateStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\RemoveDuplicateStrings\\Program.cs*",
+              "RelativeToolTip": "RemoveDuplicateStrings\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:47:52.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Bubble_Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Bubble_Sort\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Bubble_Sort\\Program.cs",
+              "RelativeToolTip": "Bubble_Sort\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAMzMzMzMDwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:51:59.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Swap_No_Without_ThirdVar\\Program.cs",
+              "RelativeDocumentMoniker": "Swap_No_Without_ThirdVar\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Swap_No_Without_ThirdVar\\Program.cs",
+              "RelativeToolTip": "Swap_No_Without_ThirdVar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:51:43.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Swap_No_Without_ThirdVar\\App.config",
+              "RelativeDocumentMoniker": "Swap_No_Without_ThirdVar\\App.config",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Swap_No_Without_ThirdVar\\App.config",
+              "RelativeToolTip": "Swap_No_Without_ThirdVar\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T08:51:41.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Factorial\\Program.cs",
+              "RelativeDocumentMoniker": "Factorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\Factorial\\Program.cs",
+              "RelativeToolTip": "Factorial\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:30:48.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\M_Interview_Programs\\Program.cs",
+              "RelativeDocumentMoniker": "M_Interview_Programs\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\M_Interview_Programs\\M_Interview_Programs\\Program.cs",
+              "RelativeToolTip": "M_Interview_Programs\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:54:54.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

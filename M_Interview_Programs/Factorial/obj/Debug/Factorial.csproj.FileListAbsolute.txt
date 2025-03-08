@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\bin\Debug\Factorial.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\obj\Debug\Factorial.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Factorial\obj\Debug\Factorial.pdb

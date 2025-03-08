@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\bin\Debug\Bubble_Sort.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\bin\Debug\Bubble_Sort.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\bin\Debug\Bubble_Sort.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\obj\Debug\Bubble_Sort.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Bubble_Sort\obj\Debug\Bubble_Sort.pdb
