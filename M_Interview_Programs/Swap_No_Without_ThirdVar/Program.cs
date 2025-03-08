@@ -15,7 +15,7 @@ namespace Swap_No_Without_ThirdVar
             a = a + b;
             b = a - b; 
             a = a - b;
-            Console.WriteLine("After Swap: a={a},b={b}");
+            Console.WriteLine($"After Swap: a={a},b={b}");
             Console.ReadKey();
         }
     }

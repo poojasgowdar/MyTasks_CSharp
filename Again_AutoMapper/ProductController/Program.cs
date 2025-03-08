@@ -47,8 +47,9 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddAuthentication("Basic")
     .AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("Basic", null);
 
-builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer
-(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("DefaultConnection"))
+    );));
 builder.Services.AddAutoMapper(typeof(MyMappingProfile));
 var app = builder.Build();
 

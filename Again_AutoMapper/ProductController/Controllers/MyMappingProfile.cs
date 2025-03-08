@@ -9,8 +9,8 @@ namespace ProductController.Controllers
     {
         public MyMappingProfile()
         {
-            CreateMap<Product, ProductDTO>().ReverseMap()
-            .ForMember(dest => dest.Id, opt => opt.Ignore());
+            CreateMap<Product, ProductDTO>().ReverseMap();
+            //.ForMember(dest => dest.Id, opt => opt.Ignore());
         }
     }
 }

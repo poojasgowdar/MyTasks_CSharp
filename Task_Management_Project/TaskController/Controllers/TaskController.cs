@@ -56,7 +56,5 @@ namespace TaskController.Controllers
             _taskService.Delete(id);
             return NoContent();
         }
-
-
     }
 }

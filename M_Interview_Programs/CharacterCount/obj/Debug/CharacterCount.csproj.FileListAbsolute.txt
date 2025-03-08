@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\bin\Debug\CharacterCount.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\bin\Debug\CharacterCount.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\bin\Debug\CharacterCount.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\obj\Debug\CharacterCount.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\obj\Debug\CharacterCount.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\obj\Debug\CharacterCount.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\CharacterCount\obj\Debug\CharacterCount.pdb

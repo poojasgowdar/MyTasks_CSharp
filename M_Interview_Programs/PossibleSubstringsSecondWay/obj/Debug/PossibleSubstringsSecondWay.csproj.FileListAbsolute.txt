@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\bin\Debug\PossibleSubstringsSecondWay.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\bin\Debug\PossibleSubstringsSecondWay.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\bin\Debug\PossibleSubstringsSecondWay.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\obj\Debug\PossibleSubstringsSecondWay.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\obj\Debug\PossibleSubstringsSecondWay.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\obj\Debug\PossibleSubstringsSecondWay.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\PossibleSubstringsSecondWay\obj\Debug\PossibleSubstringsSecondWay.pdb

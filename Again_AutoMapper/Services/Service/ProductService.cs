@@ -21,7 +21,6 @@ namespace Services.Service
             _productRepository = productRepository;
             _mapper = mapper;
         }
-
         public List<ProductDTO> GetProducts()
         {
             var product = _productRepository.GetAllProducts();

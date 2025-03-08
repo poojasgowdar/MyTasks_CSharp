@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\bin\Debug\Swap_No_Without_ThirdVar.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\bin\Debug\Swap_No_Without_ThirdVar.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\bin\Debug\Swap_No_Without_ThirdVar.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\obj\Debug\Swap_No_Without_ThirdVar.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\obj\Debug\Swap_No_Without_ThirdVar.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\obj\Debug\Swap_No_Without_ThirdVar.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\Swap_No_Without_ThirdVar\obj\Debug\Swap_No_Without_ThirdVar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\bin\Debug\VowelsConsonentsCount.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\bin\Debug\VowelsConsonentsCount.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\bin\Debug\VowelsConsonentsCount.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\obj\Debug\VowelsConsonentsCount.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\obj\Debug\VowelsConsonentsCount.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\obj\Debug\VowelsConsonentsCount.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\VowelsConsonentsCount\obj\Debug\VowelsConsonentsCount.pdb
