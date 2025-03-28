@@ -2,7 +2,9 @@
 using Interfaces.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Models.Entities;
 using ProductController.Helpers;
+using System.Linq.Expressions;
 
 namespace ProductController.Controllers
 {
@@ -20,9 +22,24 @@ namespace ProductController.Controllers
         [BasicAuthorization]
         public IActionResult GetAllProducts()
         {
-            var products = _productService.GetProducts();
-            return Ok(products);
+            try
+            {
+                var authHeader = Request.Headers["Authorization"].FirstOrDefault();
+                Console.WriteLine($"Authorization Header Received: {authHeader}");
+
+                var products = _productService.GetProducts();
+                if (products == null || !products.Any())
+                    return Ok(new { Message = "No Products Found" });
+
+                return Ok(new { Message = "Products Retrieved Successfully" });
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                return Unauthorized("An error occurred while fetching products");
+            }
         }
+
 
         [HttpGet("GetProductsById{id}")]
         [BasicAuthorization]
@@ -61,11 +78,14 @@ namespace ProductController.Controllers
         public IActionResult DeleteById(int id)
         {
             var existingProduct = _productService.GetById(id);
-            if (existingProduct == null)
+            if (existingProduct == null) 
                 return NotFound("Product Not Found");
 
             _productService.DeleteById(id);
             return Ok("Product Deleted Successfully");
         }
+
+        
     }
+
 }

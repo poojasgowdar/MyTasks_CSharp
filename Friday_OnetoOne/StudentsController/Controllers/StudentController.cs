@@ -3,6 +3,7 @@ using Interface.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Models.Entities;
 
 namespace StudentsController.Controllers
 {
@@ -23,7 +24,7 @@ namespace StudentsController.Controllers
             return Ok(students);
         }
 
-        [HttpGet("GetStudentsById")]
+        [HttpGet("GetStudentsById/{id}")]
         public IActionResult GetStudent(int id)
         {
             var students = _studentService.GetStudentById(id);
@@ -37,6 +38,11 @@ namespace StudentsController.Controllers
         [HttpPost("CreateNewStudent")]
         public IActionResult AddStudent([FromBody] StudentDTO studentDto)
         {
+            if (studentDto == null)
+            {
+                return BadRequest("Invalid student data.");
+            }
+
             _studentService.Add(studentDto);
             return Ok(new { Message = "Student Created Successfully" });
         }

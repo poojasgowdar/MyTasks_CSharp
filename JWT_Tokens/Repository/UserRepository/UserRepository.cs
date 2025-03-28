@@ -16,7 +16,7 @@ namespace Repository.UserRepository
         }
         public User GetById(int id)
         {
-            return _context.Users.Find(id);
+            return _context.Users.FirstOrDefault(u => u.Id == id);
         }
         public User GetByUserName(string userName)
         {

@@ -9,6 +9,7 @@ namespace dtos.Dto
 {
     public class ProductDTO
     {
+        public int Id { get; set; }
         [Required(ErrorMessage = "The Name Field is Required")]
         [StringLength(100, ErrorMessage = "The Name must be in 3 to 100 characters.", MinimumLength = 3)]
         public string Name { get; set; }

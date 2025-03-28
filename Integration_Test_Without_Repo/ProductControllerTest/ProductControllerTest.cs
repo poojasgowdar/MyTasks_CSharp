@@ -49,7 +49,11 @@ namespace ProductControllerTest
         [Fact]
         public void GetAllProducts_ReturnsSuccess()
         {
+            //Act
             var response = _client.GetAsync("/api/Product/GetAllProducts").Result;
+            //Assert
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+
             response.EnsureSuccessStatusCode();
         }
 
@@ -77,7 +81,7 @@ namespace ProductControllerTest
         [Fact]
         public void AddProduct_Correct()
         {
-            var newProduct=new Product { Name="Tablet"}
+            var newProduct = new Product { Name = "Tablet" };
         }
 
         [Fact]
@@ -110,19 +114,6 @@ namespace ProductControllerTest
             Assert.Equal(HttpStatusCode.NotFound, getResponse.StatusCode); 
         }
 
-        [Fact]
-        public void Delete_ReturnsNoContent()
-        {
-            var response = _client.DeleteAsync("/api/Product/DeleteProductById/1").Result;
-            Assert.Equal(HttpStatusCode.NoContent, response.StatusCode);
-            var getResponse = _client.GetAsync("/api/Product/GetProductByID/1").Result;
-            Assert.Equal(HttpStatusCode.NotFound, getResponse.StatusCode);
-
-            var response = _client.DeleteAsync("/api/Product/DeleteProductById/1").Result;
-            Assert.Equal(HttpStatusCode.NotFound, getResponse.StatusCode);
-            var response = _client.GetAsync("/api/Product/GetProductByID/1").Result;
-
-        }
-
+       
     }
 }

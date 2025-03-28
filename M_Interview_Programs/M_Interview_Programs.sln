@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCountUsingForLoop"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsConsonentsCount", "VowelsConsonentsCount\VowelsConsonentsCount.csproj", "{18A50BAF-2D38-4C00-B342-5E15EE03AAE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{5572EB57-EDDE-49ED-8AE5-1A0365292B71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{18A50BAF-2D38-4C00-B342-5E15EE03AAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A50BAF-2D38-4C00-B342-5E15EE03AAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18A50BAF-2D38-4C00-B342-5E15EE03AAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5572EB57-EDDE-49ED-8AE5-1A0365292B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5572EB57-EDDE-49ED-8AE5-1A0365292B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5572EB57-EDDE-49ED-8AE5-1A0365292B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5572EB57-EDDE-49ED-8AE5-1A0365292B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

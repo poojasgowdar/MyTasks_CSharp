@@ -5,6 +5,7 @@ using Microsoft.OpenApi.Models;
 using Models.Entities;
 using Repository.UserRepository;
 using Services.UserService;
+using System;
 using System.Text;
 using UserController.Controllers;
 
@@ -37,8 +38,20 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
-builder.Services.AddDbContext<UserDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+if (builder.Environment.IsEnvironment("Testing"))
+{
+    builder.Services.AddDbContext<UserDbContext>(options =>
+        options.UseInMemoryDatabase("TestDb"));
+}
+else
+{
+    builder.Services.AddDbContext<UserDbContext>(options =>
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+}
+
+
+//builder.Services.AddDbContext<UserDbContext>(options =>
+// options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddAutoMapper(typeof(MyMappingProfile));
@@ -63,7 +76,6 @@ builder.Services.AddAuthentication(options =>
                 Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
         };
     });
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -80,3 +92,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+public partial class Program
+{
+
+}

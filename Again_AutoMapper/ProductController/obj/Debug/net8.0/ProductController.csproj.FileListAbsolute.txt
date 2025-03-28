@@ -178,3 +178,4 @@ C:\Users\Pooja S\source\repos\Again_AutoMapper\ProductController\obj\Debug\net8.
 C:\Users\Pooja S\source\repos\Again_AutoMapper\ProductController\obj\Debug\net8.0\ProductController.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Again_AutoMapper\ProductController\obj\Debug\net8.0\ref\ProductController.dll
 C:\Users\Pooja S\source\repos\Again_AutoMapper\ProductController\obj\Debug\net8.0\ProductController.sourcelink.json
+C:\Users\Pooja S\source\repos\Again_AutoMapper\ProductController\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

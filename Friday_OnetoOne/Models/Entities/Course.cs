@@ -13,9 +13,6 @@ namespace Models.Entities
         public int Id { get; set; }
         [Required(ErrorMessage = "The CourseName Field is Required")]
         public string CourseName { get; set; }
-        [Required(ErrorMessage = "The Email Field is Required")]
-
-        
         public int StudentId { get; set; }
         public Student Student { get; set; }
        

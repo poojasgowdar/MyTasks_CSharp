@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IzH4gXVa6tg=",
+  "dgSpecHash": "fAc+dW53Y5I=",
   "success": true,
   "projectFilePath": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\StudentsController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pooja S\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Pooja S\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",

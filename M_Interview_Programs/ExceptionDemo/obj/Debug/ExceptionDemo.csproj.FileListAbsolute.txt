@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\Pooja S\source\repos\M_Interview_Programs\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

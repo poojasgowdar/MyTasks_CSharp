@@ -44,7 +44,7 @@
   {
     "ContainingType": "StudentsController.Controllers.StudentController",
     "Method": "GetStudent",
-    "RelativePath": "api/Student/GetStudentsById",
+    "RelativePath": "api/Student/GetStudentsById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -52,7 +52,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

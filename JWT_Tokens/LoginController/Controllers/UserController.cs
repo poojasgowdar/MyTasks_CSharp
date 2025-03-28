@@ -37,6 +37,7 @@ namespace LoginController.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin")]
         public IActionResult GetById(int id)
         {
             var user = _userService.GetUserById(id);
@@ -46,6 +47,7 @@ namespace LoginController.Controllers
         }
 
         [HttpGet("username/{username}")]
+        [Authorize(Roles = "Admin")]
         public IActionResult GetByUsername(string username)
         {
             var user = _userService.GetUserByUsername(username);
@@ -55,13 +57,14 @@ namespace LoginController.Controllers
         }
 
         [HttpGet("GetAllUsers")]
+        [Authorize(Roles = "Admin")]
         public IActionResult GetAll()
         {
             return Ok(_userService.GetAll());
         }
 
-        [Authorize(Roles = "Admin")]
         [HttpPost("CreateUser")]
+        [Authorize(Roles = "Admin")]
         public IActionResult CreateUser([FromBody] CreateUserDto userDto)
         {
             var adminUsername = User.Identity?.Name;

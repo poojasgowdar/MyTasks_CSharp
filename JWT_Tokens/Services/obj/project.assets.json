@@ -2660,7 +2660,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 14.0.0",
-      "BCrypt.Net-Next >= 4.0.3",
       "DTOs >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.4",
       "Repository >= 1.0.0"
@@ -2721,10 +2720,6 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[14.0.0, )"
-          },
-          "BCrypt.Net-Next": {
-            "target": "Package",
-            "version": "[4.0.3, )"
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",

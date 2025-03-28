@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3B99242B-122C-4E5E-B184-DBEF12D60911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{3B99242B-122C-4E5E-B184-DBEF12D60911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1D1DC730-71DD-465C-9228-BD8E55361FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{1D1DC730-71DD-465C-9228-BD8E55361FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "StudentRepository\Repository.csproj", "{7AB7BBAB-EF2C-4109-BB60-2FF604D40287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "StudentRepository\Repository.csproj", "{7AB7BBAB-EF2C-4109-BB60-2FF604D40287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{C5CE5FED-6690-473F-9D96-4360941831DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{C5CE5FED-6690-473F-9D96-4360941831DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsController", "StudentsController\StudentsController.csproj", "{351F3C37-3B31-40B2-A0FD-C216B4D6653F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsController", "StudentsController\StudentsController.csproj", "{351F3C37-3B31-40B2-A0FD-C216B4D6653F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dtos", "dtos\dtos.csproj", "{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dtos", "dtos\dtos.csproj", "{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp.IntegrationTests", "MyApp.IntegrationTests\MyApp.IntegrationTests.csproj", "{CA563935-46C4-4B9B-B9BD-CC8BE77D9B21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{014FD769-CFC7-4575-9BDC-B3E6B053C4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA563935-46C4-4B9B-B9BD-CC8BE77D9B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA563935-46C4-4B9B-B9BD-CC8BE77D9B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA563935-46C4-4B9B-B9BD-CC8BE77D9B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA563935-46C4-4B9B-B9BD-CC8BE77D9B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

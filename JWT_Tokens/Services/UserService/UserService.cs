@@ -42,7 +42,8 @@ namespace Services.UserService
                 throw new UnauthorizedAccessException("Only admins can create users.");
             }
             var user = _mapper.Map<User>(userDto);
-            user.Password = BCrypt.Net.BCrypt.HashPassword(userDto.Password);
+            user.Password = userDto.Password;
+            //user.Password = BCrypt.Net.BCrypt.HashPassword(userDto.Password);
             _userRepository.AddUser(user);
             return _mapper.Map<ResponseUserDto>(user);
         }

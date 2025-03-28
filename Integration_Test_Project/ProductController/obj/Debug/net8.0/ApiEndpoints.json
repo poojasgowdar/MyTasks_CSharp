@@ -44,7 +44,7 @@
   {
     "ContainingType": "ProductController.Controllers.ProductController",
     "Method": "GetById",
-    "RelativePath": "api/Product/GetProductsById{id}",
+    "RelativePath": "api/Product/GetProductsById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

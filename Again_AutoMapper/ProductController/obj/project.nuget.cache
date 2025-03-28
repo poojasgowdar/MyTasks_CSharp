@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KMdU2rh7rTs=",
+  "dgSpecHash": "ykVRBk0I7rI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Pooja S\\source\\repos\\Again_AutoMapper\\ProductController\\ProductController.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.1\\microsoft.entityframeworkcore.analyzers.9.0.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.1\\microsoft.entityframeworkcore.design.9.0.1.nupkg.sha512",
+    "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.14\\microsoft.entityframeworkcore.inmemory.8.0.14.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.1\\microsoft.entityframeworkcore.relational.9.0.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.1\\microsoft.entityframeworkcore.sqlserver.9.0.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.1\\microsoft.entityframeworkcore.tools.9.0.1.nupkg.sha512",

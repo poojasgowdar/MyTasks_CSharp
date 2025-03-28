@@ -79,7 +79,7 @@ namespace ProductController.Tests
 
             Assert.Equal("Bluetooth", product.Name);  
         }
-
+        
         [Fact]
         public async Task AddProduct_ReturnsCreated()
         {
@@ -91,14 +91,19 @@ namespace ProductController.Tests
         }
 
         [Fact]
-        public async Task UpdateProduct_ReturnsUpdated()
+        public async Task UpdateTestItem_ReturnsUpdated()
         {
-            var updateProduct = new ProductDTO { Name = "Updated Laptop", Price = 1400 };
+            var updateProduct = new ProductDTO
+            {
+                Name = "LenovoLaptop",
+                Price = 1000
+            };
             var jsonContent = new StringContent(JsonConvert.SerializeObject(updateProduct), Encoding.UTF8, "application/json");
 
             var response = await _client.PutAsync("/api/Product/UpdateProductById1", jsonContent);
             response.EnsureSuccessStatusCode();
         }
+
         [Fact]
         public async Task DeleteProduct_ReturnsSuccess()
         {

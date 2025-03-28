@@ -1,0 +1,8 @@
+{
+  "dtos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\dtos",
+  "Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface",
+  "Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models",
+  "Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentRepository",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Services",
+  "StudentsController, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController"
+}

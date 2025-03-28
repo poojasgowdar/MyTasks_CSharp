@@ -14,9 +14,8 @@ namespace TaskController.Controllers
         {
             _taskService = taskService;
         }
+
         [HttpGet("GetAllTasks")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status204NoContent)]
         public IActionResult GetAll()
         {
             var tasks = _taskService.GetAll();
@@ -27,7 +26,7 @@ namespace TaskController.Controllers
             return Ok(tasks);
         }
 
-        [HttpGet("GetTaskById{id}")]
+        [HttpGet("GetTaskById/{id}")]
         public IActionResult GetById(int id)
         {
             var task = _taskService.GetById(id);
@@ -43,14 +42,14 @@ namespace TaskController.Controllers
             return StatusCode(201);
         }
 
-        [HttpPut("UpdateTaskById{id}")]
+        [HttpPut("UpdateTaskById/{id}")]
         public IActionResult Update(int id, TaskDto taskDto)
         {
             _taskService.Update(id, taskDto);
             return NoContent();
         }
 
-        [HttpDelete("DeleteTaskById{id}")]
+        [HttpDelete("DeleteTaskById/{id}")]
         public IActionResult Delete(int id)
         {
             _taskService.Delete(id);
