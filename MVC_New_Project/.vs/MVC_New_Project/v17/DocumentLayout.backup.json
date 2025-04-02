@@ -94,8 +94,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -142,8 +150,7 @@
               "RelativeToolTip": "MVC_New_Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T07:25:14.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T07:25:14.943Z"
             },
             {
               "$type": "Document",
@@ -155,8 +162,7 @@
               "RelativeToolTip": "MVC_New_Project\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:11:11.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T11:11:11.501Z"
             },
             {
               "$type": "Document",

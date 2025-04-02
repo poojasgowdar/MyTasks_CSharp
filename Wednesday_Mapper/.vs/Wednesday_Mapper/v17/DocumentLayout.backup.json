@@ -74,8 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T08:37:02.496Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -144,22 +156,10 @@
               "RelativeDocumentMoniker": "Middlewares\\Middleware\\LoggingMiddleware.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\Middlewares\\Middleware\\LoggingMiddleware.cs",
               "RelativeToolTip": "Middlewares\\Middleware\\LoggingMiddleware.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T03:51:19.432Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Wednesday_Mapper\\ProductController\\appsettings.json",
-              "RelativeToolTip": "ProductController\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-13T08:37:02.496Z"
             },
             {
               "$type": "Document",

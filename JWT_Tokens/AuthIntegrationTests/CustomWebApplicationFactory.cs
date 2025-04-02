@@ -33,7 +33,7 @@ namespace AuthIntegrationTests
                     options.UseInMemoryDatabase("TestDb");
                 });
 
-                //3.Build the service provider and apply migrations
+               // 3. Build the service provider and apply migrations
                 var sp = services.BuildServiceProvider();
                 using (var scope = sp.CreateScope())
                 {
@@ -43,7 +43,6 @@ namespace AuthIntegrationTests
                 }
             });
         }
-
         private void SeedTestData(UserDbContext db)
         {
             if (!db.Users.Any())
@@ -67,6 +66,7 @@ namespace AuthIntegrationTests
                 db.SaveChanges();
             }
         }
+
     }
 }
 

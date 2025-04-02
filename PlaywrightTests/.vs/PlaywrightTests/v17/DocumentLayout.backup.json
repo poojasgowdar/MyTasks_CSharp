@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\PlaywrightTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0347BD1D-9F3A-43C6-A067-1FFB43AD4D67}|PlaywrightTests\\PlaywrightTests.csproj|c:\\users\\pooja s\\source\\repos\\playwrighttests\\playwrighttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0347BD1D-9F3A-43C6-A067-1FFB43AD4D67}|PlaywrightTests\\PlaywrightTests.csproj|solutionrelative:playwrighttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0347BD1D-9F3A-43C6-A067-1FFB43AD4D67}|PlaywrightTests\\PlaywrightTests.csproj|c:\\users\\pooja s\\source\\repos\\playwrighttests\\playwrighttests\\playwrighttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0347BD1D-9F3A-43C6-A067-1FFB43AD4D67}|PlaywrightTests\\PlaywrightTests.csproj|solutionrelative:playwrighttests\\playwrighttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaywrightTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\PlaywrightTests\\PlaywrightTests\\PlaywrightTests.csproj",
+              "RelativeDocumentMoniker": "PlaywrightTests\\PlaywrightTests.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\PlaywrightTests\\PlaywrightTests\\PlaywrightTests.csproj",
+              "RelativeToolTip": "PlaywrightTests\\PlaywrightTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T04:05:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\PlaywrightTests\\PlaywrightTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PlaywrightTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\PlaywrightTests\\PlaywrightTests\\UnitTest1.cs",
+              "RelativeToolTip": "PlaywrightTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:57:00.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

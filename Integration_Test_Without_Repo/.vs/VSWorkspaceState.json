@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DTOs",
+    "\\DTOs\\Dto",
+    "\\Models",
+    "\\Models\\Entities",
+    "\\ProductController",
+    "\\ProductControllerTest",
+    "\\ProductController\\Controllers",
+    "\\Services",
+    "\\Services\\Service"
+  ],
+  "SelectedNode": "\\Models\\Entities\\AppDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

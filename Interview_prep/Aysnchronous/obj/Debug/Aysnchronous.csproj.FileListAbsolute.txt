@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\obj\Debug\Aysnchronous.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\obj\Debug\Aysnchronous.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\bin\Debug\Aysnchronous.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\bin\Debug\Aysnchronous.exe
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\bin\Debug\Aysnchronous.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\obj\Debug\Aysnchronous.exe
+C:\Users\Pooja S\source\repos\Interview_prep\Aysnchronous\obj\Debug\Aysnchronous.pdb

@@ -17,3 +17,4 @@ C:\Users\Pooja S\source\repos\Mangement\Interface\obj\Debug\net8.0\refint\Interf
 C:\Users\Pooja S\source\repos\Mangement\Interface\obj\Debug\net8.0\Interface.pdb
 C:\Users\Pooja S\source\repos\Mangement\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Mangement\Interface\obj\Debug\net8.0\ref\Interface.dll
+C:\Users\Pooja S\source\repos\Mangement\Interface\obj\Debug\net8.0\Interface.sourcelink.json

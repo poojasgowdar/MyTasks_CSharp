@@ -1,0 +1,7 @@
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\bin\Debug\SynchronousExample.exe.config
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\bin\Debug\SynchronousExample.exe
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\bin\Debug\SynchronousExample.pdb
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\obj\Debug\SynchronousExample.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\obj\Debug\SynchronousExample.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\obj\Debug\SynchronousExample.exe
+C:\Users\Pooja S\source\repos\Interview_prep\SynchronousExample\obj\Debug\SynchronousExample.pdb

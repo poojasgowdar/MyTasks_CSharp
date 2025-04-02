@@ -1,87 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\helpers\\basicauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\helpers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124101130_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124101130_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_New_Project\\Migrations\\20250124101130_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124072931_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124072931_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_New_Project\\Migrations\\20250124072931_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\onedrive - giridhara software services pvt ltd\\desktop\\mvc_new_project\\mvc_new_project\\migrations\\20250124121540_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|c:\\users\\pooja s\\source\\repos\\mvc_new_project\\mvc_new_project\\migrations\\20250124121540_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C3A8064-E470-4491-BB9A-5B20DA87F3C4}|MVC_New_Project\\MVC_New_Project.csproj|solutionrelative:mvc_new_project\\migrations\\20250124121540_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -92,15 +94,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BasicAuthenticationHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthenticationHandler.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Helpers\\BasicAuthenticationHandler.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthenticationHandler.cs",
               "RelativeToolTip": "MVC_New_Project\\Helpers\\BasicAuthenticationHandler.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIA0wB0AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BasicAuthorizationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthorizationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthorizationAttribute.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Helpers\\BasicAuthorizationAttribute.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthorizationAttribute.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Helpers\\BasicAuthorizationAttribute.cs",
               "RelativeToolTip": "MVC_New_Project\\Helpers\\BasicAuthorizationAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\appsettings.json",
               "RelativeDocumentMoniker": "MVC_New_Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\appsettings.json",
               "RelativeToolTip": "MVC_New_Project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -134,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Program.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Program.cs",
               "RelativeToolTip": "MVC_New_Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +156,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Controllers\\AccountController.cs",
               "RelativeToolTip": "MVC_New_Project\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,11 +168,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-24T10:04:41.592Z",
               "EditorCaption": ""
@@ -171,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Controllers\\ProductController.cs",
               "RelativeToolTip": "MVC_New_Project\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwCwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,9 +193,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -195,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "LoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Middleware\\LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Middleware\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Middleware\\LoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Middleware\\LoggingMiddleware.cs",
               "RelativeToolTip": "MVC_New_Project\\Middleware\\LoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -219,9 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -231,9 +241,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Product\\Delete.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwBAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -243,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Models\\Product.cs",
               "RelativeToolTip": "MVC_New_Project\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,9 +265,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Repository\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "MVC_New_Project\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,9 +277,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Models\\AppDbContext.cs",
               "RelativeToolTip": "MVC_New_Project\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,9 +289,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "MVC_New_Project\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,9 +301,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "20250124121540_New.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124121540_New.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124121540_New.cs",
               "RelativeDocumentMoniker": "MVC_New_Project\\Migrations\\20250124121540_New.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124121540_New.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124121540_New.cs",
               "RelativeToolTip": "MVC_New_Project\\Migrations\\20250124121540_New.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,9 +314,9 @@
               "DocumentIndex": 16,
               "Title": "20250124101130_Initial1.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124101130_Initial1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124101130_Initial1.cs",
+              "RelativeDocumentMoniker": "MVC_New_Project\\Migrations\\20250124101130_Initial1.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124101130_Initial1.cs",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124101130_Initial1.cs",
+              "RelativeToolTip": "MVC_New_Project\\Migrations\\20250124101130_Initial1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T10:11:30.966Z"
             },
@@ -314,9 +324,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -326,9 +336,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_New_Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pooja S\\OneDrive - Giridhara Software Services Pvt Ltd\\Desktop\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVC_New_Project\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -339,9 +349,9 @@
               "DocumentIndex": 19,
               "Title": "20250124072931_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124072931_Initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124072931_Initial.cs",
+              "RelativeDocumentMoniker": "MVC_New_Project\\Migrations\\20250124072931_Initial.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124072931_Initial.cs",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\MVC_New_Project\\MVC_New_Project\\Migrations\\20250124072931_Initial.cs",
+              "RelativeToolTip": "MVC_New_Project\\Migrations\\20250124072931_Initial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T07:29:31.78Z"
             }

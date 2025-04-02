@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E54F65-ED9E-4AE8-B1BB-14DE29A9B022}|MiniOffice365Backend.WebApi\\MiniOffice365Backend.WebApi.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.webapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E54F65-ED9E-4AE8-B1BB-14DE29A9B022}|MiniOffice365Backend.WebApi\\MiniOffice365Backend.WebApi.csproj|solutionrelative:minioffice365backend.webapi\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|solutionrelative:minioffice365backend.models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.dataaccess\\dbmodel\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|solutionrelative:minioffice365backend.dataaccess\\dbmodel\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.models\\dto\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|solutionrelative:minioffice365backend.models\\dto\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.models\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|solutionrelative:minioffice365backend.models\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.models\\dto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6366A9-A9A1-448A-B778-1476A0F1C2CA}|MiniOffice365Backend.Models\\MiniOffice365Backend.Models.csproj|solutionrelative:minioffice365backend.models\\dto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.dataaccess\\dbmodel\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|solutionrelative:minioffice365backend.dataaccess\\dbmodel\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.dataaccess\\dbmodel\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|solutionrelative:minioffice365backend.dataaccess\\dbmodel\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.dataaccess\\dbmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|solutionrelative:minioffice365backend.dataaccess\\dbmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|c:\\users\\pooja s\\source\\repos\\minioffice365backend\\minioffice365backend.dataaccess\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD579253-E539-4648-A3E4-139CB24C075F}|MiniOffice365Backend.DataAccess\\MiniOffice365Backend.DataAccess.csproj|solutionrelative:minioffice365backend.dataaccess\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.WebApi\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.WebApi\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.WebApi\\MyMappingProfile.cs",
+              "RelativeToolTip": "MiniOffice365Backend.WebApi\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:51:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\FileDto.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.Models\\Dto\\FileDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\FileDto.cs",
+              "RelativeToolTip": "MiniOffice365Backend.Models\\Dto\\FileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:48:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\EventDto.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.Models\\Dto\\EventDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\EventDto.cs",
+              "RelativeToolTip": "MiniOffice365Backend.Models\\Dto\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:48:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\EmailDto.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.Models\\Dto\\EmailDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\EmailDto.cs",
+              "RelativeToolTip": "MiniOffice365Backend.Models\\Dto\\EmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:47:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.Models\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "MiniOffice365Backend.Models\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:46:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\File.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.DataAccess\\DBModel\\File.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\File.cs",
+              "RelativeToolTip": "MiniOffice365Backend.DataAccess\\DBModel\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:44:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\Event.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.DataAccess\\DBModel\\Event.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\Event.cs",
+              "RelativeToolTip": "MiniOffice365Backend.DataAccess\\DBModel\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:43:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\Email.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.DataAccess\\DBModel\\Email.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\Email.cs",
+              "RelativeToolTip": "MiniOffice365Backend.DataAccess\\DBModel\\Email.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:41:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\User.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.DataAccess\\DBModel\\User.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\DBModel\\User.cs",
+              "RelativeToolTip": "MiniOffice365Backend.DataAccess\\DBModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:40:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "MiniOffice365Backend.DataAccess\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\MiniOffice365Backend\\MiniOffice365Backend.DataAccess\\ProjectDbContext.cs",
+              "RelativeToolTip": "MiniOffice365Backend.DataAccess\\ProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:29:12.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

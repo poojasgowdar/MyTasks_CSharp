@@ -175,3 +175,4 @@ C:\Users\Pooja S\source\repos\Mangement\Mangement\obj\Debug\net8.0\refint\Mangem
 C:\Users\Pooja S\source\repos\Mangement\Mangement\obj\Debug\net8.0\Mangement.pdb
 C:\Users\Pooja S\source\repos\Mangement\Mangement\obj\Debug\net8.0\Mangement.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Mangement\Mangement\obj\Debug\net8.0\ref\Mangement.dll
+C:\Users\Pooja S\source\repos\Mangement\Mangement\obj\Debug\net8.0\Mangement.sourcelink.json

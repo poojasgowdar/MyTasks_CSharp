@@ -29,20 +29,20 @@ namespace AuthIntegrationTests
         // Class to handle token response
         public class TokenResponse
         {
-            public string Token { get; set; }
+            public string? Token { get; set; }
         }
 
         // Class to handle error response
         public class ErrorResponse
         {
-            public string Message { get; set; }
+            public string? Message { get; set; }
         }
 
         // Class to handle user response
         public class UserResponse
         {
             public int Id { get; set; }
-            public string Name { get; set; }
+            public string? Name { get; set; }
         }
 
         // Method to get JWT token dynamically
@@ -73,7 +73,6 @@ namespace AuthIntegrationTests
             return result.Token;
         }
 
-
         [Fact]
         public async Task Login_ReturnsOk_WithValidCredentials()
         {
@@ -102,7 +101,7 @@ namespace AuthIntegrationTests
             var result = await response.Content.ReadAsStringAsync();
             Assert.Contains("Access denied", result);
         }
-
+        
         [Fact]
         public async Task GetById_ReturnsUnauthorized_WhenTokenIsMissing()
         {
@@ -154,7 +153,6 @@ namespace AuthIntegrationTests
             Assert.Equal(HttpStatusCode.Forbidden, responseWithToken.StatusCode); // If Forbidden is expected
         }
 
-
         [Fact]
         public async Task GetAllUsers_AdminRole_ReturnsOk()
         {
@@ -195,8 +193,6 @@ namespace AuthIntegrationTests
             // Assert
             Assert.Equal(HttpStatusCode.Forbidden, response.StatusCode); // Expect Forbidden if login succeeds but lacks admin role
         }
-
-
 
         [Fact]
         public async Task DeleteUser_AdminRole_ReturnsOk()

@@ -19,3 +19,4 @@ C:\Users\Pooja S\source\repos\Mangement\Service\obj\Debug\net8.0\refint\Service.
 C:\Users\Pooja S\source\repos\Mangement\Service\obj\Debug\net8.0\Service.pdb
 C:\Users\Pooja S\source\repos\Mangement\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Mangement\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\Pooja S\source\repos\Mangement\Service\obj\Debug\net8.0\Service.sourcelink.json

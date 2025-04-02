@@ -19,3 +19,4 @@ C:\Users\Pooja S\source\repos\Sessions_Task\Repositories\obj\Debug\net8.0\refint
 C:\Users\Pooja S\source\repos\Sessions_Task\Repositories\obj\Debug\net8.0\Repositories.pdb
 C:\Users\Pooja S\source\repos\Sessions_Task\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Sessions_Task\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\Pooja S\source\repos\Sessions_Task\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
