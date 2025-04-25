@@ -32,12 +32,29 @@ namespace ProductController.Controllers
             }
             return Ok(products);
         }
+
         [HttpPost("CreateProduct")]
         public IActionResult Add([FromBody] ProductDTO productDto)
         {
-            _productService.Add(productDto);
-            return Ok("Product Created Successfully");
+            var createdProduct = _productService.Add(productDto);
+            if (createdProduct == null)
+            {
+                return BadRequest("Product could not be created.");
+            }
+            return CreatedAtAction(nameof(GetById), new { id = createdProduct.Id }, createdProduct);
         }
+
+        [HttpPost("CreateBulkProducts")]
+        public IActionResult AddBulk([FromBody] List<ProductDTO> productDtos)
+        {
+            var createdProducts = _productService.Add(productDtos);
+            if (createdProducts == null || !createdProducts.Any())
+            {
+                return BadRequest("Products could not be created.");
+            }
+            return Created("", createdProducts); 
+        }
+
 
         [HttpPut("UpdateProductById{id}")]
         public IActionResult Add(int id,[FromBody] ProductDTO productDto)

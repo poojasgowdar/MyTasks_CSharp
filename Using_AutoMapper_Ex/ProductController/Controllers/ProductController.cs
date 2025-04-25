@@ -36,7 +36,6 @@ namespace ProductController.Controllers
             return Ok(product);
         }
        
-
         [HttpPost("CreateProduct")]
         public IActionResult Add([FromBody] ProductDTO productDTO)
         {
@@ -47,7 +46,6 @@ namespace ProductController.Controllers
         [HttpPost("CreateBulkProducts")]
         public IActionResult AddBulk([FromBody] List<ProductDTO> productDtos)
         {
-
             _productService.AddBulk(productDtos);
             return Ok("Bulk Products added successfully");
         }
@@ -80,7 +78,5 @@ namespace ProductController.Controllers
                 return NotFound(new { Message = "No matching products found for deletion." });
             return Ok("Products deleted successfully.");
         }
-
-
     }
 }

@@ -25,10 +25,11 @@ namespace Services.ProductService
             return _productManager.GetById(id);
         }
 
-        public void Add(ProductDTO productDto)
+        public ProductDTO Add(ProductDTO productDto)
         {
-            _productManager.Add(productDto);
+            return _productManager.Add(productDto); 
         }
+
         public bool Update(int id, ProductDTO productDto)
         {
             return _productManager.Update(id, productDto);

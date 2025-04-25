@@ -17,3 +17,4 @@ C:\Users\Pooja S\source\repos\Thursday_Mapper\Interfaces\obj\Debug\net8.0\refint
 C:\Users\Pooja S\source\repos\Thursday_Mapper\Interfaces\obj\Debug\net8.0\Interfaces.pdb
 C:\Users\Pooja S\source\repos\Thursday_Mapper\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Thursday_Mapper\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json

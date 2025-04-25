@@ -8,21 +8,28 @@ using Services.ProductService;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
+// Program.cs or Startup.cs
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    var env = builder.Environment.EnvironmentName;
+
+    if (env != "Testing") // Avoid registering SQL Server during test
+    {
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    }
+});
+
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductManager, ProductManager>();
 builder.Services.AddScoped<IProductService, ProductService>();
 
-
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppDbContext>(options => options.UseInMemoryDatabase("Dbcontext"));
 
 builder.Services.AddAutoMapper(typeof(MyMappingProfile));
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

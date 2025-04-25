@@ -1,0 +1,12 @@
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\bin\Debug\net8.0\PlayWrightCrudOperations.Models.deps.json
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\bin\Debug\net8.0\PlayWrightCrudOperations.Models.dll
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\bin\Debug\net8.0\PlayWrightCrudOperations.Models.pdb
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.sourcelink.json
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.dll
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\refint\PlayWrightCrudOperations.Models.dll
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\PlayWrightCrudOperations.Models.pdb
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.Models\obj\Debug\net8.0\ref\PlayWrightCrudOperations.Models.dll

@@ -1,0 +1,8 @@
+{
+  "DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DataAccessLayer",
+  "DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DTO",
+  "Manager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Manager",
+  "ProductController, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Repositories",
+  "Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Service"
+}

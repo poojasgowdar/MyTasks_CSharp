@@ -23,11 +23,19 @@ namespace Repository.Repositories
         public Product GetById(int id)
         {
             return _context.Products.Find(id);
+            //return _context.Products.FirstOrDefault(p=>p.Id==id);
         }
-        public void Add(Product product)
+        public Product Add(Product product)
         {
-            _context.Products.Add(product);
+             _context.Products.Add(product);
+             _context.SaveChanges();
+             return product;
+        }
+        List<Product> AddBulk(List<Product> products)
+        {
+            _context.AddRange(products);
             _context.SaveChanges();
+            return products;
         }
         public void Update(Product product)
         {
@@ -43,6 +51,5 @@ namespace Repository.Repositories
                 _context.SaveChanges();
             }
         }
-
     }
 }

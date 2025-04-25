@@ -37,7 +37,7 @@ namespace Delegates_Example1
             //Console.WriteLine(a1 == a2);
             //Console.WriteLine(a1.Equals(a2));
             //Console.ReadKey();
-        
+
                 string name = "sandeep";
                 string myName = name;
                 Console.WriteLine("== operator result is {0}", name == myName);

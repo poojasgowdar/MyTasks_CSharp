@@ -20,7 +20,7 @@ namespace Aysnchronous
         static async Task<string> GetData()
         {
             await Task.Delay(10000);
-            return "Processing";
+            return "Processing";     
         }
     }
 }

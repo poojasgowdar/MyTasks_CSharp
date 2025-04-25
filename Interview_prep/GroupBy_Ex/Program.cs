@@ -56,7 +56,6 @@ namespace GroupBy_Ex
                 }
             }
 
-
             Console.ReadKey();
 
         }

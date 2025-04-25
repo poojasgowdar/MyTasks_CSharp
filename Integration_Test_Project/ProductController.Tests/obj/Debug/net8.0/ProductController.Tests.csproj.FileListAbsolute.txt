@@ -1,11 +1,4 @@
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ProductController.Tests
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.AssemblyInfoInputs.cache
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.AssemblyInfo.cs
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.csproj.CoreCompileInputs.cache
-C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.sourcelink.json
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\testhost.dll
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\ProductController.deps.json
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\ProductController.runtimeconfig.json
@@ -479,6 +472,13 @@ C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\b
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\Manager.pdb
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\Repositories.pdb
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\bin\Debug\net8.0\Services.pdb
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.sourcelink.json
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductC.657D88FB.Up2Date
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\ProductController.Tests.dll
 C:\Users\Pooja S\source\repos\Integration_Test_Project\ProductController.Tests\obj\Debug\net8.0\refint\ProductController.Tests.dll

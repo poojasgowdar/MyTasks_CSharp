@@ -4216,11 +4216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\MyUnitTest_Cases\\MyUnitTest_Cases.csproj",
+      "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\MyUnitTest_Cases\\MyUnitTest_Cases.csproj",
       "projectName": "MyUnitTest_Cases",
-      "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\MyUnitTest_Cases\\MyUnitTest_Cases.csproj",
+      "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\MyUnitTest_Cases\\MyUnitTest_Cases.csproj",
       "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\MyUnitTest_Cases\\obj\\",
+      "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\MyUnitTest_Cases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4238,11 +4238,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj"
             },
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Repository\\Repository.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Repository\\Repository.csproj"
             }
           }
         }
@@ -4299,7 +4299,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

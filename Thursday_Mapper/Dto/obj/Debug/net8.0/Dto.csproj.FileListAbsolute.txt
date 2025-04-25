@@ -15,3 +15,4 @@ C:\Users\Pooja S\source\repos\Thursday_Mapper\Dto\obj\Debug\net8.0\refint\Dto.dl
 C:\Users\Pooja S\source\repos\Thursday_Mapper\Dto\obj\Debug\net8.0\Dto.pdb
 C:\Users\Pooja S\source\repos\Thursday_Mapper\Dto\obj\Debug\net8.0\Dto.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\Thursday_Mapper\Dto\obj\Debug\net8.0\ref\Dto.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Dto\obj\Debug\net8.0\Dto.sourcelink.json

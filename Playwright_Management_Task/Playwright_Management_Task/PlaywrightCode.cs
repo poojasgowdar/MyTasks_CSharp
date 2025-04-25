@@ -40,18 +40,6 @@ namespace Playwright_Management_Task
             await Expect(Page.GetByRole(AriaRole.Textbox)).ToContainTextAsync("{ \"name\": \"Oppo\", \"description\": \"Good Camera\", \"price\": 80000, \"stockQuantity\": 67}");
             await Page.GetByRole(AriaRole.Button, new() { Name = "Execute" }).ClickAsync();
 
-            
         }
-
-
-
-
-
-
-
-
-     
-
-
     }
 }

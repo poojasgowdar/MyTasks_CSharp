@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller_tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|solutionrelative:productcontroller_tests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller_tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|solutionrelative:productcontroller_tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller_tests\\productcontroller_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|solutionrelative:productcontroller_tests\\productcontroller_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B101A4-FBD7-41C5-808E-16D3AF0088F7}|Repositories\\Repositories.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\repositories\\productrepositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B101A4-FBD7-41C5-808E-16D3AF0088F7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79540CFC-6DCE-4F52-9E80-F7FC84CA7600}|Service\\Service.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\service\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79540CFC-6DCE-4F52-9E80-F7FC84CA7600}|Service\\Service.csproj|solutionrelative:service\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller_tests\\coverage-report\\icon_info-circled_dark.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C905169E-61CC-4EEA-B62A-6B6A5B4D18D9}|ProductController_Tests\\ProductController_Tests.csproj|solutionrelative:productcontroller_tests\\coverage-report\\icon_info-circled_dark.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147D7F5-AD60-48D0-9A44-401A098D8ED5}|Manager\\Manager.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\manager\\productmanagers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147D7F5-AD60-48D0-9A44-401A098D8ED5}|Manager\\Manager.csproj|solutionrelative:manager\\productmanagers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911BB4AD-DD00-442B-B455-77DFBDFAD748}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79540CFC-6DCE-4F52-9E80-F7FC84CA7600}|Service\\Service.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\service\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79540CFC-6DCE-4F52-9E80-F7FC84CA7600}|Service\\Service.csproj|solutionrelative:service\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B101A4-FBD7-41C5-808E-16D3AF0088F7}|Repositories\\Repositories.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\repositories\\productrepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B101A4-FBD7-41C5-808E-16D3AF0088F7}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3147D7F5-AD60-48D0-9A44-401A098D8ED5}|Manager\\Manager.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\manager\\productmanagers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3147D7F5-AD60-48D0-9A44-401A098D8ED5}|Manager\\Manager.csproj|solutionrelative:manager\\productmanagers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017C0302-2F46-4C3F-8B3C-C5C5C9356902}|DTO\\DTO.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C0302-2F46-4C3F-8B3C-C5C5C9356902}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8AE78E-9365-4BA3-9F02-011F4E2AB4AD}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8AE78E-9365-4BA3-9F02-011F4E2AB4AD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8AE78E-9365-4BA3-9F02-011F4E2AB4AD}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pooja s\\source\\repos\\task_integration_testing\\dataaccesslayer\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8AE78E-9365-4BA3-9F02-011F4E2AB4AD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController_Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\ProductController_Tests.csproj",
+              "RelativeDocumentMoniker": "ProductController_Tests\\ProductController_Tests.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\ProductController_Tests.csproj",
+              "RelativeToolTip": "ProductController_Tests\\ProductController_Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T06:59:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Manager\\ProductManagers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Manager\\ProductManagers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Manager\\ProductManagers\\ProductManager.cs",
+              "RelativeToolTip": "Manager\\ProductManagers\\ProductManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:21:42.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Repositories\\ProductRepositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Repositories\\ProductRepositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:24:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "ProductController_Tests\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\ProductControllerTests.cs",
+              "RelativeToolTip": "ProductController_Tests\\ProductControllerTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:01:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "ProductController_Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "ProductController_Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:00:32.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Service\\ProductServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Service\\ProductServices\\IProductService.cs",
+              "RelativeToolTip": "Service\\ProductServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:47:21.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\Program.cs",
+              "RelativeDocumentMoniker": "ProductController\\Program.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\Program.cs",
+              "RelativeToolTip": "ProductController\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:51:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "icon_info-circled_dark.svg",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\coverage-report\\icon_info-circled_dark.svg",
+              "RelativeDocumentMoniker": "ProductController_Tests\\coverage-report\\icon_info-circled_dark.svg",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController_Tests\\coverage-report\\icon_info-circled_dark.svg",
+              "RelativeToolTip": "ProductController_Tests\\coverage-report\\icon_info-circled_dark.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-05T09:19:51.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Service\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Service\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductServices\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:23:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T06:52:28.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:26:03.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\Controllers\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "ProductController\\Controllers\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\ProductController\\Controllers\\MyMappingProfile.cs",
+              "RelativeToolTip": "ProductController\\Controllers\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:26:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Repositories\\ProductRepositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Repositories\\ProductRepositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:25:05.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Manager\\ProductManagers\\IProductManager.cs",
+              "RelativeDocumentMoniker": "Manager\\ProductManagers\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\Manager\\ProductManagers\\IProductManager.cs",
+              "RelativeToolTip": "Manager\\ProductManagers\\IProductManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:22:13.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:20:32.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DataAccessLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DataAccessLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:19:06.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DataAccessLayer\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Task_Integration_Testing\\DataAccessLayer\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:19:38.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

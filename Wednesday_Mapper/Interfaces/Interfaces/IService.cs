@@ -10,12 +10,53 @@ namespace Interfaces.Interfaces
 {
     public interface IService
     {
-        public List<Product> GetAllProducts(string name,int page,int pageSize);
-        public ProductDTO GetProductsById(int id);
-        public void Add(ProductDTO productDto);
-        public void AddBulk(List<ProductDTO> productDtos);
-        public bool UpdateById(int id, ProductDTO productDto);
-        public void DeleteById(int id);
-        public bool DeleteBulk(List<int> productDtos);
+        /// <summary>
+        /// Fetches an all the Products
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="page"></param>
+        /// <param name="pageSize"></param>
+        /// <returns></returns>
+        List<Product> GetAllProducts(string name,int page,int pageSize);
+
+        /// <summary>
+        /// Fetches an Product By Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        ProductDTO GetProductsById(int id);
+
+        /// <summary>
+        /// Creates an new Product
+        /// </summary>
+        /// <param name="productDto"></param>
+        void Add(ProductDTO productDto);
+
+        /// <summary>
+        /// Creates an Bulk Product
+        /// </summary>
+        /// <param name="productDtos"></param>
+        void AddBulk(List<ProductDTO> productDtos);
+
+        /// <summary>
+        /// Updates an Product By Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="productDto"></param>
+        /// <returns></returns>
+        bool UpdateById(int id, ProductDTO productDto);
+
+        /// <summary>
+        /// Deletes an Product By Id
+        /// </summary>
+        /// <param name="id"></param>
+        void DeleteById(int id);
+
+        /// <summary>
+        /// Deletes an Bulk Product
+        /// </summary>
+        /// <param name="productDtos"></param>
+        /// <returns></returns>
+        bool DeleteBulk(List<int> productDtos);
     }
 }

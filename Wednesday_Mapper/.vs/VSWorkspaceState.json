@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Interfaces",
+    "\\Interfaces\\Interfaces",
+    "\\ProductController",
+    "\\ProductController\\Controllers",
+    "\\Repository",
+    "\\Repository\\Repositories",
+    "\\Services\\Service"
+  ],
+  "SelectedNode": "\\ProductController\\Controllers\\ProductController.cs",
+  "PreviewInSolutionExplorer": false
+}

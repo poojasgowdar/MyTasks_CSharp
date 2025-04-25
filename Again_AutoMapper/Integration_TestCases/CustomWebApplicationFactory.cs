@@ -29,7 +29,7 @@ namespace Integration_TestCases
                 });
 
                // Ensure database is created with test data
-               var sp = services.BuildServiceProvider();
+                var sp = services.BuildServiceProvider();
                 using (var scope = sp.CreateScope())
                 {
                     var scopedServices = scope.ServiceProvider;
@@ -52,4 +52,6 @@ namespace Integration_TestCases
                db.SaveChanges();
             }
         }
-    }
+        
+   
+    

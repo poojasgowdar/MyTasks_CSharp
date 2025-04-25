@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj": {}
+    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj": {
+    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

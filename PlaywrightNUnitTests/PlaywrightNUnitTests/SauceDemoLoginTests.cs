@@ -114,8 +114,4 @@ namespace PlaywrightNUnitTests
     }
 }
 
-//PickLocator
-//Assert Visibility
-//Assert text
-//Assert value
-//Assert snapshot
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\Middleware.csproj": {}
+    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\Middleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\Middleware.csproj": {
+    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\Middleware.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\Middleware.csproj",
         "projectName": "Middleware",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\Middleware.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\Middleware.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

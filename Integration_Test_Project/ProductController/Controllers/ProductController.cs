@@ -36,12 +36,16 @@ namespace ProductController.Controllers
         [HttpPost("CreateNewProduct")]
         public IActionResult Add([FromBody] ProductDTO productDto)
         {
-            _productService.Add(productDto);
-            return Ok(productDto);
+            var createdProduct = _productService.Add(productDto);
+            if (createdProduct == null)
+            {
+                return BadRequest("Product could not be created.");
+            }
+            return CreatedAtAction(nameof(GetById), new { id = createdProduct.Id }, createdProduct);
         }
 
-        [HttpPut("UpdateProductById{id}")]
-        public IActionResult Update(int id, ProductDTO productDto)
+        [HttpPut("UpdateProductById/{id}")]
+        public IActionResult UpdateProductById(int id, [FromBody] ProductDTO productDto)
         {
             var result = _productService.Update(id, productDto);
             if (!result)
@@ -51,7 +55,7 @@ namespace ProductController.Controllers
             return Ok("Product Updated Successfully");
         }
 
-        [HttpDelete("DeleteProductById{id}")]
+        [HttpDelete("DeleteProductById/{id}")]
         public IActionResult DeleteById(int id)
         {
             var existingProduct = _productService.GetById(id);
@@ -61,6 +65,7 @@ namespace ProductController.Controllers
             _productService.Delete(id);
             return Ok("Product Deleted Successfully");
         }
+
     }
 }
 

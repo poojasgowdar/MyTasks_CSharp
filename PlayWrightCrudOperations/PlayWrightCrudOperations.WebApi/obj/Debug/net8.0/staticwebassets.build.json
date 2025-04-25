@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5x1KXsbMUXVP2TyxORHerYNjndIeqwynLTw30EBNtiY=",
+  "Source": "PlayWrightCrudOperations.WebApi",
+  "BasePath": "_content/PlayWrightCrudOperations.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

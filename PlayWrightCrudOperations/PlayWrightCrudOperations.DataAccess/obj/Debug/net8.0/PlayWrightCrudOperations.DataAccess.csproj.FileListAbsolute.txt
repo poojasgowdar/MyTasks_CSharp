@@ -1,0 +1,15 @@
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\bin\Debug\net8.0\PlayWrightCrudOperations.DataAccess.deps.json
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\bin\Debug\net8.0\PlayWrightCrudOperations.DataAccess.runtimeconfig.json
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\bin\Debug\net8.0\PlayWrightCrudOperations.DataAccess.dll
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\bin\Debug\net8.0\PlayWrightCrudOperations.DataAccess.pdb
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.sourcelink.json
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.dll
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\refint\PlayWrightCrudOperations.DataAccess.dll
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.pdb
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\PlayWrightCrudOperations.DataAccess.genruntimeconfig.cache
+C:\Users\Pooja S\source\repos\PlayWrightCrudOperations\PlayWrightCrudOperations.DataAccess\obj\Debug\net8.0\ref\PlayWrightCrudOperations.DataAccess.dll

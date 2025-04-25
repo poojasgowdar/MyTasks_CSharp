@@ -30,10 +30,18 @@ namespace Services.Service
             var products = _productRepository.GetById(id);
             return _mapper.Map<ProductDTO>(products);
         }
-        public void Add(ProductDTO productDto)
+        public Product Add(ProductDTO productDto)
         {
-            var products = _mapper.Map<Product>(productDto);
-            _productRepository.Add(products);
+            var product = _mapper.Map<Product>(productDto);
+            var createdProduct = _productRepository.Add(product);
+            return _mapper.Map<Product>(createdProduct);
+        }
+
+        public List<Product> Add(List<ProductDTO> productDto)
+        {
+            var product = _mapper.Map<Product>(productDto);
+            var createdProduct = _productRepository.Add(product);
+            return _mapper.Map<List<Product>>(createdProduct);
         }
         public bool UpdateById(int id, ProductDTO productDto)
         {
@@ -41,7 +49,7 @@ namespace Services.Service
             if (existingProduct==null)
             {
                 return false;
-             }
+            }
             _mapper.Map(productDto, existingProduct);
             _productRepository.Update(existingProduct);
              return true;

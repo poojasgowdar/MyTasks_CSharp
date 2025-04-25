@@ -16,6 +16,7 @@ namespace Services.Service
     {
         private readonly IRepository _productRepository;
         private readonly IMapper _mapper;
+
         public ProductService(IRepository productRepository, IMapper mapper)
         {
             _productRepository = productRepository;

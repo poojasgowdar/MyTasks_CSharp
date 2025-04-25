@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273AB087-37CC-4CF3-BC39-F91BFA3D8711}|ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj|c:\\users\\pooja s\\source\\repos\\modernmilkmansampleplaywrightuitest\\modernmilkmansampleplaywrightuitest\\signinflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273AB087-37CC-4CF3-BC39-F91BFA3D8711}|ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj|solutionrelative:modernmilkmansampleplaywrightuitest\\signinflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273AB087-37CC-4CF3-BC39-F91BFA3D8711}|ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj|c:\\users\\pooja s\\source\\repos\\modernmilkmansampleplaywrightuitest\\modernmilkmansampleplaywrightuitest\\modernmilkmansampleplaywrightuitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{273AB087-37CC-4CF3-BC39-F91BFA3D8711}|ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj|solutionrelative:modernmilkmansampleplaywrightuitest\\modernmilkmansampleplaywrightuitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273AB087-37CC-4CF3-BC39-F91BFA3D8711}|ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj|c:\\users\\pooja s\\source\\repos\\modernmilkmansampleplaywrightuitest\\modernmilkmansampleplaywrightuitest\\playwright.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{273AB087-37CC-4CF3-BC39-F91BFA3D8711}|ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj|solutionrelative:modernmilkmansampleplaywrightuitest\\playwright.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "playwright.settings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest\\playwright.settings.json",
+              "RelativeDocumentMoniker": "ModernMilkmanSamplePlaywrightUITest\\playwright.settings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest\\playwright.settings.json",
+              "RelativeToolTip": "ModernMilkmanSamplePlaywrightUITest\\playwright.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T04:01:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModernMilkmanSamplePlaywrightUITest.csproj",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj",
+              "RelativeDocumentMoniker": "ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj",
+              "RelativeToolTip": "ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T04:43:59.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignInFlow.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest\\SignInFlow.cs",
+              "RelativeDocumentMoniker": "ModernMilkmanSamplePlaywrightUITest\\SignInFlow.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\ModernMilkmanSamplePlaywrightUITest\\ModernMilkmanSamplePlaywrightUITest\\SignInFlow.cs",
+              "RelativeToolTip": "ModernMilkmanSamplePlaywrightUITest\\SignInFlow.cs",
+              "ViewState": "AgIAAGIAAAAAPGZmZmbmv2oAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:43:25.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

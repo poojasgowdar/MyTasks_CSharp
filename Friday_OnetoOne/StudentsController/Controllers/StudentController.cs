@@ -69,7 +69,5 @@ namespace StudentsController.Controllers
             return Ok(new { Message = "Student Deleted Successfully" });
 
         }
-
-
     }
 }

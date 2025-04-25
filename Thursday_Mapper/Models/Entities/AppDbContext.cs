@@ -25,7 +25,7 @@ namespace Dto.Dtos
             modelBuilder.Entity<Product>()
             .HasIndex(p => p.Name)
             .IsUnique();
-
         }
     }
 }
+  

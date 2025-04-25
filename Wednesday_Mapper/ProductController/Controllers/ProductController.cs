@@ -48,7 +48,6 @@ namespace ProductController.Controllers
         [BasicAuthorization]
         public IActionResult AddBulk([FromBody] List<ProductDTO> productDtos)
         {
-
             _productService.AddBulk(productDtos);
             return Ok("Bulk Products added successfully");
         }
@@ -86,7 +85,5 @@ namespace ProductController.Controllers
                 return NotFound(new { Message = "No matching products found for deletion." });
             return Ok("Products deleted successfully.");
         }
-
-
     }
 }

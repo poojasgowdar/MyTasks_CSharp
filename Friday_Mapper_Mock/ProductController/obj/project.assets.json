@@ -5556,11 +5556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\ProductController\\ProductController.csproj",
+      "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\ProductController\\ProductController.csproj",
       "projectName": "ProductController",
-      "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\ProductController\\ProductController.csproj",
+      "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\ProductController\\ProductController.csproj",
       "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\ProductController\\obj\\",
+      "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\ProductController\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5578,23 +5578,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\Dto.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\Dto.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\Dto.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\Dto.csproj"
             },
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Interfaces\\Interfaces.csproj"
             },
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\Middleware.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Middleware\\Middleware.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\Middleware.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Middleware\\Middleware.csproj"
             },
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Models\\Models.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Models\\Models.csproj"
             },
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Repository\\Repository.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Services\\Services.csproj"
+            "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Services\\Services.csproj"
             }
           }
         }
@@ -5666,7 +5666,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -3,68 +3,26 @@ using DTO.DTOs;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
 using Newtonsoft.Json;
 using System.Net;
 using System.Text;
-using System.Text.Json;
+using Xunit;
 
 namespace ProductController.Tests
 {
-    public class ProductControllerTests : IClassFixture<WebApplicationFactory<Program>>
+    public class ProductControllerTests : IClassFixture<CustomWebApplicationFactory>
     {
         private readonly HttpClient _client;
-        private readonly WebApplicationFactory<Program> _factory;
-        public ProductControllerTests(WebApplicationFactory<Program> factory)
+        public ProductControllerTests(CustomWebApplicationFactory factory)
         {
-            _factory = factory.WithWebHostBuilder(builder =>
-            {
-                builder.ConfigureServices(services =>
-                {
-                    // Remove existing database context
-                    var descriptor = services.SingleOrDefault(d => d.ServiceType == typeof(DbContextOptions<AppDbContext>));
-                    if (descriptor != null)
-                        services.Remove(descriptor);
-
-                    // Add new in-memory database
-                    services.AddDbContext<AppDbContext>(options =>
-                        options.UseInMemoryDatabase("TestDb"));
-
-                    // Seed database
-                    using (var scope = services.BuildServiceProvider().CreateScope())
-                    {
-                        var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-                        dbContext.Database.EnsureDeleted(); // Clear old data
-                        dbContext.Database.EnsureCreated(); // Create fresh in-memory DB
-
-                        // Seed products
-                        dbContext.Products.Add(new Product
-                        {
-                            Id = 1,
-                            Name = "Bluetooth",
-                            Price = 500
-                        });
-
-                        dbContext.Products.Add(new Product
-                        {
-                            Id = 2,
-                            Name = "Laptop",
-                            Price = 1000
-                        });
-
-                        dbContext.SaveChanges(); // Save seeded data
-                    }
-                });
-            });
-
-            _client = _factory.CreateClient();
+            _client = factory.CreateClient();
         }
 
         [Fact]
         public async Task GetAllProducts_ReturnsSuccess()
         {
             var response = await _client.GetAsync("/api/Product/GetAllProducts");
-            response.EnsureSuccessStatusCode();
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
 
         [Fact]
@@ -72,14 +30,15 @@ namespace ProductController.Tests
         {
             var response = await _client.GetAsync("/api/Product/GetProductsById/1");
 
-            response.EnsureSuccessStatusCode();
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
 
             var content = await response.Content.ReadAsStringAsync();
             var product = JsonConvert.DeserializeObject<ProductDTO>(content);
 
-            Assert.Equal("Bluetooth", product.Name);  
+            Assert.Equal("Bluetooth", product.Name);
+            Assert.Equal(500, product.Price);
         }
-        
+
         [Fact]
         public async Task AddProduct_ReturnsCreated()
         {
@@ -87,29 +46,42 @@ namespace ProductController.Tests
             var jsonContent = new StringContent(JsonConvert.SerializeObject(newProduct), Encoding.UTF8, "application/json");
 
             var response = await _client.PostAsync("/api/Product/CreateNewProduct", jsonContent);
-            response.EnsureSuccessStatusCode();
+
+            Assert.Equal(HttpStatusCode.Created, response.StatusCode);
         }
 
         [Fact]
         public async Task UpdateTestItem_ReturnsUpdated()
         {
-            var updateProduct = new ProductDTO
-            {
-                Name = "LenovoLaptop",
-                Price = 1000
-            };
+            var updateProduct = new ProductDTO { Name = "LenovoLaptop", Price = 1000 };
             var jsonContent = new StringContent(JsonConvert.SerializeObject(updateProduct), Encoding.UTF8, "application/json");
 
-            var response = await _client.PutAsync("/api/Product/UpdateProductById1", jsonContent);
-            response.EnsureSuccessStatusCode();
+            var response = await _client.PutAsync("/api/Product/UpdateProductById/1", jsonContent);
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+
+            // Verify update
+            var getResponse = await _client.GetAsync("/api/Product/GetProductsById/1");
+            var content = await getResponse.Content.ReadAsStringAsync();
+            var updatedProduct = JsonConvert.DeserializeObject<ProductDTO>(content);
+
+            Assert.Equal("LenovoLaptop", updatedProduct.Name);
+            Assert.Equal(1000, updatedProduct.Price);
         }
 
         [Fact]
         public async Task DeleteProduct_ReturnsSuccess()
         {
-            var response = await _client.DeleteAsync("/api/Product/DeleteProductById1");
-            response.EnsureSuccessStatusCode();
-        }
+            // Check if the product exists before deleting
+            var getResponse = await _client.GetAsync("/api/Product/GetProductsById/1");
+            Assert.Equal(HttpStatusCode.OK, getResponse.StatusCode);
 
+            // Delete the product
+            var response = await _client.DeleteAsync("/api/Product/DeleteProductById/1");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+
+            // Verify product no longer exists
+            var deletedResponse = await _client.GetAsync("/api/Product/GetProductsById/1");
+            Assert.Equal(HttpStatusCode.NotFound, deletedResponse.StatusCode);
+        }
     }
 }

@@ -18,7 +18,7 @@
   {
     "ContainingType": "ProductController.Controllers.ProductController",
     "Method": "DeleteById",
-    "RelativePath": "api/Product/DeleteProductById{id}",
+    "RelativePath": "api/Product/DeleteProductById/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -60,7 +60,7 @@
   {
     "ContainingType": "ProductController.Controllers.ProductController",
     "Method": "Update",
-    "RelativePath": "api/Product/UpdateProductById{id}",
+    "RelativePath": "api/Product/UpdateProductById/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,

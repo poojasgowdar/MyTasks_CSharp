@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\PlayWright_MSTest_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1952A7E-BBBA-4E14-918E-36B37F76D6A7}|PlayWright_MSTest_Project\\PlayWright_MSTest_Project.csproj|c:\\users\\pooja s\\source\\repos\\playwright_mstest_project\\playwright_mstest_project\\playwrightmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1952A7E-BBBA-4E14-918E-36B37F76D6A7}|PlayWright_MSTest_Project\\PlayWright_MSTest_Project.csproj|solutionrelative:playwright_mstest_project\\playwrightmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayWrightMSTest.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\PlayWright_MSTest_Project\\PlayWright_MSTest_Project\\PlayWrightMSTest.cs",
+              "RelativeDocumentMoniker": "PlayWright_MSTest_Project\\PlayWrightMSTest.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\PlayWright_MSTest_Project\\PlayWright_MSTest_Project\\PlayWrightMSTest.cs",
+              "RelativeToolTip": "PlayWright_MSTest_Project\\PlayWrightMSTest.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:28:21.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

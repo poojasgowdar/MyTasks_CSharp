@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECq2j7c9Ng4=",
+  "dgSpecHash": "9+1Nh8AQz9E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pooja S\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Pooja S\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

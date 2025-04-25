@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\Dto.csproj": {}
+    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\Dto.csproj": {
+    "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\Dto.csproj",
+        "projectUniqueName": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\Dto.csproj",
         "projectName": "Dto",
-        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\Dto.csproj",
+        "projectPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\Dto.csproj",
         "packagesPath": "C:\\Users\\Pooja S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper\\Dto\\obj\\",
+        "outputPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_Mapper_Mock\\Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pooja S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

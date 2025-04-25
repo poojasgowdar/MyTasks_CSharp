@@ -19,7 +19,7 @@ namespace Manager.ProductManager
         /// 
         /// </summary>
         /// <param name="productDto"></param>
-        void Add(ProductDTO productDto);
+        ProductDTO Add(ProductDTO productDto);
         /// <summary>
         /// 
         /// </summary>

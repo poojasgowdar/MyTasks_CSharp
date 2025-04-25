@@ -9,10 +9,35 @@ namespace Interface.Interface
 {
     public interface IRepository
     {
-        public List<Student> GetStudents();
-        public Student GetById(int id);
-        public void Add(Student student);
-        public void Update(Student student);
-        public void Delete(int id);
+        /// <summary>
+        /// Fetches all the students
+        /// </summary>
+        /// <returns></returns>
+        List<Student> GetStudents();
+
+        /// <summary>
+        /// Fetches an Student By Id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        Student GetById(int id);
+
+        /// <summary>
+        /// Creates an new Student
+        /// </summary>
+        /// <param name="student"></param>
+        void Add(Student student);
+
+        /// <summary>
+        /// Updates an Existing Student
+        /// </summary>
+        /// <param name="student"></param>
+        void Update(Student student);
+
+        /// <summary>
+        /// Deletes an Student
+        /// </summary>
+        /// <param name="id"></param>
+        void Delete(int id);
     }
 }

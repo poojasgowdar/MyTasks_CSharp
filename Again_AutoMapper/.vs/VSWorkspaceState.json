@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Integration_TestCases",
     "\\Interfaces",
     "\\Interfaces\\Interface",
     "\\ProductController",
@@ -8,6 +9,6 @@
     "\\Services",
     "\\Services\\Service"
   ],
-  "SelectedNode": "\\Interfaces\\Interface\\IService.cs",
+  "SelectedNode": "\\Interfaces\\Interface\\IRepository.cs",
   "PreviewInSolutionExplorer": false
 }

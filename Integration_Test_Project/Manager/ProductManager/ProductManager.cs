@@ -25,27 +25,26 @@ namespace Manager.ProductManager
             return _mapper.Map<ProductDTO>(product);
         }
 
-        public void Add(ProductDTO productDto)
+        public ProductDTO Add(ProductDTO productDto)
         {
             var product = _mapper.Map<Product>(productDto);
-            _productRepository.Add(product);
+            var createdProduct = _productRepository.Add(product);
+            return _mapper.Map<ProductDTO>(createdProduct); 
         }
         public bool Update(int id, ProductDTO productDto)
         {
             var existingProduct = _productRepository.GetById(id);
             if (existingProduct == null)
-            {
                 return false;
-            }
+
             _mapper.Map(productDto, existingProduct);
             _productRepository.Update(existingProduct);
             return true;
         }
+
         public void Delete(int id)
         {
             _productRepository.Delete(id);
         }
-
-
     }
 }

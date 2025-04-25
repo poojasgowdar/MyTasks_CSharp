@@ -1,0 +1,6 @@
+@PlayWrightCrudOperations.WebApi_HostAddress = http://localhost:5194
+
+GET {{PlayWrightCrudOperations.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

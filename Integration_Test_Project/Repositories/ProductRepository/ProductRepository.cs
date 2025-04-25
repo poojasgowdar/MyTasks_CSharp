@@ -17,14 +17,14 @@ namespace Repositories.ProductRepository
         {
             return _context.Products.Find(id);
         }
-        public void Add(Product product)
+        public Product Add(Product product)
         {
             _context.Products.Add(product);
             _context.SaveChanges();
+             return product; 
         }
         public void Update(Product product)
         {
-            _context.Products.Update(product);
             _context.SaveChanges();
         }
         public void Delete(int id)

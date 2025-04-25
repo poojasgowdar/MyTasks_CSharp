@@ -3,76 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\Interface\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\Helper\\BasicAuthenticationAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\helper\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\helper\\basicauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\helper\\basicauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\helper\\basicauthenticationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\helper\\basicauthenticationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBBED4F-13AF-41D3-8ED1-18D971A686E8}|Services\\Services.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\services\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBBED4F-13AF-41D3-8ED1-18D971A686E8}|Services\\Services.csproj|solutionrelative:services\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DC2219-8885-4EF7-8680-0CCF6D81765B}|Repository\\Repository.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DC2219-8885-4EF7-8680-0CCF6D81765B}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6456CAC2-3369-475A-8DD5-63E6F81337CE}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6456CAC2-3369-475A-8DD5-63E6F81337CE}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6456CAC2-3369-475A-8DD5-63E6F81337CE}|Interfaces\\Interfaces.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6456CAC2-3369-475A-8DD5-63E6F81337CE}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Migrations\\20250208085157_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20250208085157_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\Helper\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\Helper\\BasicAuthenticationClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entities\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\models\\migrations\\20250210095407_basicauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|solutionrelative:models\\migrations\\20250210095407_basicauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{62D4F915-BE1E-49C5-AC42-A2F377A0F3E7}|dtos\\dtos.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\dtos\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D4F915-BE1E-49C5-AC42-A2F377A0F3E7}|dtos\\dtos.csproj|solutionrelative:dtos\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{85BA652B-68B0-437B-9D04-CFD219B6BF1F}|ProductController\\ProductController.csproj|solutionrelative:productcontroller\\productcontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Repository\\Repositories\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Repositories\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Migrations\\20250210095407_BasicAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20250210095407_BasicAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Services\\Service\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Service\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\MyMappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\MyMappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\dtos\\dto\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dtos\\dto\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\ProductController.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductController\\ProductController.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Migrations\\20250208085410_Information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20250208085410_Information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\using_automapper_ex\\models\\migrations\\20250208085410_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7E668D-B4CB-4288-8A8E-1C816478ECE3}|Models\\Models.csproj|solutionrelative:models\\migrations\\20250208085410_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,6 +84,10 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -98,117 +102,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasicAuthenticationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationAttribute.cs",
-              "RelativeDocumentMoniker": "ProductController\\Helper\\BasicAuthenticationAttribute.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationAttribute.cs",
-              "RelativeToolTip": "ProductController\\Helper\\BasicAuthenticationAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:52:59.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T04:15:22.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\Product.cs",
-              "RelativeToolTip": "Models\\Entities\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T04:11:32.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\appsettings.json",
-              "RelativeToolTip": "ProductController\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-05T04:23:54.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IService.cs",
-              "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwBAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T04:29:23.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BasicAuthenticationHandler.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationHandler.cs",
               "RelativeDocumentMoniker": "ProductController\\Helper\\BasicAuthenticationHandler.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationHandler.cs",
               "RelativeToolTip": "ProductController\\Helper\\BasicAuthenticationHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T09:53:17.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Program.cs",
               "RelativeDocumentMoniker": "ProductController\\Program.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Program.cs",
               "RelativeToolTip": "ProductController\\Program.cs",
-              "ViewState": "AgIAADYAAAAAZmZmZmYuwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAZmZmZmYuwCgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T04:22:43.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductController\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\appsettings.json",
+              "RelativeToolTip": "ProductController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T04:23:54.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductController\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductController\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABcAAAAAoJmZmZnJvyQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T04:31:24.705Z"
+              "WhenOpened": "2025-02-05T04:31:24.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "BasicAuthenticationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationAttribute.cs",
+              "RelativeDocumentMoniker": "ProductController\\Helper\\BasicAuthenticationAttribute.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\ProductController\\Helper\\BasicAuthenticationAttribute.cs",
+              "RelativeToolTip": "ProductController\\Helper\\BasicAuthenticationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:52:59.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Services\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Services\\Service\\ProductService.cs",
+              "RelativeToolTip": "Services\\Service\\ProductService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:31:52.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Repository\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Repository\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAMzMzMzMbwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T04:29:42.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IService.cs",
+              "RelativeToolTip": "Interfaces\\Interface\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:29:23.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Interfaces\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\Interface\\IRepository.cs",
@@ -221,6 +212,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:11:32.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:15:22.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20250210095407_BasicAuth.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Migrations\\20250210095407_BasicAuth.cs",
               "RelativeDocumentMoniker": "Models\\Migrations\\20250210095407_BasicAuth.cs",
@@ -229,18 +244,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T09:54:07.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Services\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Services\\Service\\ProductService.cs",
-              "RelativeToolTip": "Services\\Service\\ProductService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T04:31:52.243Z"
             },
             {
               "$type": "Document",
@@ -292,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "20250208085157_Data.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Using_AutoMapper_Ex\\Models\\Migrations\\20250208085157_Data.cs",
               "RelativeDocumentMoniker": "Models\\Migrations\\20250208085157_Data.cs",

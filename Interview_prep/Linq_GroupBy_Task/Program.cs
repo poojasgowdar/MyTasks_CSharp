@@ -18,7 +18,7 @@ namespace Linq_GroupBy_Task
             return new List<Employee>()
             {
                 new Employee { No = 123, Name = "Abc", Qty = 5, Req = -1 },
-                new Employee { No = 123, Name = "Abc", Qty = 10, Req = 0 },
+                new Employee { No = 123, Name = "Abc", Qty = 10,Req = 0 },
                 new Employee { No = 345, Name = "Def", Qty = 5, Req = -5 },
                 new Employee { No = 345, Name = "Def", Qty = 15, Req = 0 },
                 new Employee { No = 123, Name = "Abc", Qty = 14, Req = 5 },
@@ -61,4 +61,3 @@ namespace Linq_GroupBy_Task
     }
 }
 
-Today I learnt Middlewares, Action Filters and worked on LINQ Operators,GroupBy,revised C sharp Concepts and also attended Entity Framework Task
