@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentscontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|solutionrelative:studentscontroller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|solutionrelative:models\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B99242B-122C-4E5E-B184-DBEF12D60911}|Models\\Models.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{351F3C37-3B31-40B2-A0FD-C216B4D6653F}|StudentsController\\StudentsController.csproj|c:\\users\\pooja s\\source\\repos\\friday_onetoone\\studentscontroller\\controllers\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentCourseIntegrationTests.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\MyApp.IntegrationTests\\StudentCourseIntegrationTests.cs",
               "RelativeDocumentMoniker": "MyApp.IntegrationTests\\StudentCourseIntegrationTests.cs",
@@ -94,24 +94,24 @@
               "RelativeToolTip": "MyApp.IntegrationTests\\StudentCourseIntegrationTests.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAIwEYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T04:52:20.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T04:52:20.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\Student.cs",
               "RelativeToolTip": "Models\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:19:10.814Z"
+              "WhenOpened": "2025-02-14T05:19:10.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Models\\Entities\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\AppDbContext.cs",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\appsettings.json",
               "RelativeDocumentMoniker": "StudentsController\\appsettings.json",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TestStartup.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\MyApp.IntegrationTests\\TestStartup.cs",
               "RelativeDocumentMoniker": "MyApp.IntegrationTests\\TestStartup.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TestWebApplicationFactory.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\MyApp.IntegrationTests\\TestWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "MyApp.IntegrationTests\\TestWebApplicationFactory.cs",
@@ -171,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentsController\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\StudentsController\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentsController\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T05:46:30.004Z",
               "EditorCaption": ""
@@ -268,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "Interface\\Interface\\IRepository.cs",
@@ -276,12 +276,11 @@
               "RelativeToolTip": "Interface\\Interface\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:41:22.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:41:22.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Friday_OnetoOne\\Interface\\Interface\\IService.cs",
               "RelativeDocumentMoniker": "Interface\\Interface\\IService.cs",
@@ -289,8 +288,7 @@
               "RelativeToolTip": "Interface\\Interface\\IService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA1wBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:41:00.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:41:00.552Z"
             }
           ]
         }

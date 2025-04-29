@@ -31,7 +31,7 @@ namespace Repository.Repositories
              _context.SaveChanges();
              return product;
         }
-        List<Product> AddBulk(List<Product> products)
+        public List<Product> AddBulk(List<Product> products)
         {
             _context.AddRange(products);
             _context.SaveChanges();

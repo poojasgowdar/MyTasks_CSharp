@@ -181,3 +181,7 @@ C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\obj\Debug\net8.0
 C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\obj\Debug\net8.0\ref\ProductController.dll
 C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\obj\Debug\net8.0\ProductController.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\obj\Debug\net8.0\ProductController.sourcelink.json
+C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\bin\Debug\net8.0\Action_Filters.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\ProductController\bin\Debug\net8.0\Action_Filters.pdb

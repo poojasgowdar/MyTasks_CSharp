@@ -1,6 +1,0 @@
-C:\Users\Pooja S\source\repos\Calculator\CalculatorTestCase\obj\Debug\net8.0\CalculatorTestCase.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\Calculator\CalculatorTestCase\obj\Debug\net8.0\CalculatorTestCase.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Pooja S\source\repos\Calculator\CalculatorTestCase\obj\Debug\net8.0\CalculatorTestCase.AssemblyInfoInputs.cache
-C:\Users\Pooja S\source\repos\Calculator\CalculatorTestCase\obj\Debug\net8.0\CalculatorTestCase.AssemblyInfo.cs
-C:\Users\Pooja S\source\repos\Calculator\CalculatorTestCase\obj\Debug\net8.0\CalculatorTestCase.csproj.CoreCompileInputs.cache
-C:\Users\Pooja S\source\repos\Calculator\CalculatorTestCase\obj\Debug\net8.0\CalculatorTestCase.sourcelink.json

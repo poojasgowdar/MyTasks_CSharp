@@ -22,9 +22,9 @@ namespace Dto.Dtos
             .Property(p => p.Price)
             .HasPrecision(18, 2);
 
-            modelBuilder.Entity<Product>()
-            .HasIndex(p => p.Name)
-            .IsUnique();
+            //modelBuilder.Entity<Product>()
+            //.HasIndex(p => p.Name)
+            //.IsUnique();
         }
     }
 }

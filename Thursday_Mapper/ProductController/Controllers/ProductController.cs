@@ -47,14 +47,13 @@ namespace ProductController.Controllers
         [HttpPost("CreateBulkProducts")]
         public IActionResult AddBulk([FromBody] List<ProductDTO> productDtos)
         {
-            var createdProducts = _productService.Add(productDtos);
+            var createdProducts = _productService.AddBulk(productDtos);
             if (createdProducts == null || !createdProducts.Any())
             {
                 return BadRequest("Products could not be created.");
             }
             return Created("", createdProducts); 
         }
-
 
         [HttpPut("UpdateProductById{id}")]
         public IActionResult Add(int id,[FromBody] ProductDTO productDto)
@@ -66,6 +65,7 @@ namespace ProductController.Controllers
             }
             return Ok("Product Updated Successfully");
         }
+
         [HttpDelete("DeleteById{id}")]
         public IActionResult Delete(int id)
         {
@@ -73,7 +73,7 @@ namespace ProductController.Controllers
             if(existingProduct==null)
                 return NotFound("Product Not Found");
             _productService.DeleteById(id);
-            return Ok("Product Deleted Successfully");
+            return NoContent();
         }
     }
 }

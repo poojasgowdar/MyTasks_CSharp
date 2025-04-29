@@ -35,7 +35,7 @@ namespace Interfaces.Interface
         /// </summary>
         /// <param name="productDto"></param>
         /// <returns></returns>
-        List<Product> Add(List<ProductDTO> productDto);
+        List<ProductDTO> AddBulk(List<ProductDTO> productDto);
 
         /// <summary>
         /// Updates an Existing Product by its ID

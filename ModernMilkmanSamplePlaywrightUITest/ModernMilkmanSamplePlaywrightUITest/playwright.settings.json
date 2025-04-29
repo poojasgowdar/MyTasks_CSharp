@@ -1,5 +1,5 @@
 ﻿{
-  "browser": "chrome",
+  "browser": "msedge",
   "headless": false,
   "timeout": "30000"
 }

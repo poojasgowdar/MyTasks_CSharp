@@ -1,3 +1,4 @@
+using Action_Filters.ActionFilters;
 using Dto.Dtos;
 using Interfaces.Interface;
 using Microsoft.EntityFrameworkCore;
@@ -20,6 +21,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer
 (builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddAutoMapper(typeof(MyMappingProfile));
+builder.Services.AddScoped<LogActionFilter>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -29,6 +31,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseMiddleware<LoggingMiddleware>();
+
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

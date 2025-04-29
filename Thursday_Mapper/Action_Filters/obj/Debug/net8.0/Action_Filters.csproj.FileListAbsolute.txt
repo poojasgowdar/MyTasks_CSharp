@@ -1,0 +1,13 @@
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\bin\Debug\net8.0\Action_Filters.deps.json
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\bin\Debug\net8.0\Action_Filters.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\bin\Debug\net8.0\Action_Filters.pdb
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.sourcelink.json
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\refint\Action_Filters.dll
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\Action_Filters.pdb
+C:\Users\Pooja S\source\repos\Thursday_Mapper\Action_Filters\obj\Debug\net8.0\ref\Action_Filters.dll

@@ -343,6 +343,7 @@ C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanS
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\nunit.engine.api.dll
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\nunit.engine.core.dll
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\playwright.settings.json
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\ModernMilkmanSamplePlaywrightUITest.deps.json
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\ModernMilkmanSamplePlaywrightUITest.runtimeconfig.json
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\ModernMilkmanSamplePlaywrightUITest.dll
@@ -439,4 +440,3 @@ C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanS
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\obj\Debug\net8.0\ModernMilkmanSamplePlaywrightUITest.pdb
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\obj\Debug\net8.0\ModernMilkmanSamplePlaywrightUITest.genruntimeconfig.cache
 C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\obj\Debug\net8.0\ref\ModernMilkmanSamplePlaywrightUITest.dll
-C:\Users\Pooja S\source\repos\ModernMilkmanSamplePlaywrightUITest\ModernMilkmanSamplePlaywrightUITest\bin\Debug\net8.0\playwright.settings.json

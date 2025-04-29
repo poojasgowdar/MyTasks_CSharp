@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{AECBF5AA-6367-4478-B347-41ACEA9E770E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{AECBF5AA-6367-4478-B347-41ACEA9E770E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2D8316A7-D98E-47CF-BC37-483420658C8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2D8316A7-D98E-47CF-BC37-483420658C8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{295B6A2F-0E05-4DF6-A426-54A4AFB9CD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{295B6A2F-0E05-4DF6-A426-54A4AFB9CD93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{FE9547AF-9A63-4030-8D46-BE00DCC8A708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{FE9547AF-9A63-4030-8D46-BE00DCC8A708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{F6DCD33E-2C28-4D38-9DCE-19D8BC5B5776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dto", "Dto\Dto.csproj", "{F6DCD33E-2C28-4D38-9DCE-19D8BC5B5776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductController", "ProductController\ProductController.csproj", "{8E3658A7-739B-4DB1-9976-6390B44F870F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductController", "ProductController\ProductController.csproj", "{8E3658A7-739B-4DB1-9976-6390B44F870F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middlewares", "Middlewares\Middlewares.csproj", "{12F2C212-BB67-4EBD-827A-AA2C55CC97E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middlewares", "Middlewares\Middlewares.csproj", "{12F2C212-BB67-4EBD-827A-AA2C55CC97E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action_Filters", "Action_Filters\Action_Filters.csproj", "{C3F76ECD-8FD1-4442-8DF8-164C180EDC94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{12F2C212-BB67-4EBD-827A-AA2C55CC97E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F2C212-BB67-4EBD-827A-AA2C55CC97E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F2C212-BB67-4EBD-827A-AA2C55CC97E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F76ECD-8FD1-4442-8DF8-164C180EDC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F76ECD-8FD1-4442-8DF8-164C180EDC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F76ECD-8FD1-4442-8DF8-164C180EDC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F76ECD-8FD1-4442-8DF8-164C180EDC94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -36,7 +36,5 @@ namespace Repositories.ProductRepository
                 _context.SaveChanges();
             }
         }
-
-
     }
 }

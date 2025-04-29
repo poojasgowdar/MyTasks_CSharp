@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D90B46-D6C2-4236-A960-95D9E8674F56}|Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj|c:\\users\\pooja s\\source\\repos\\playwright_one_to_onetestcases\\playwright_one_to_onetestcases\\onetoonerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D90B46-D6C2-4236-A960-95D9E8674F56}|Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj|solutionrelative:playwright_one_to_onetestcases\\onetoonerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\obj\\Debug\\net8.0\\Playwright_One_To_OneTestCases.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Playwright_One_To_OneTestCases\\obj\\Debug\\net8.0\\Playwright_One_To_OneTestCases.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D90B46-D6C2-4236-A960-95D9E8674F56}|Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj|c:\\users\\pooja s\\source\\repos\\playwright_one_to_onetestcases\\playwright_one_to_onetestcases\\playwright_one_to_onetestcases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25D90B46-D6C2-4236-A960-95D9E8674F56}|Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj|solutionrelative:playwright_one_to_onetestcases\\playwright_one_to_onetestcases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playwright_One_To_OneTestCases.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\obj\\Debug\\net8.0\\Playwright_One_To_OneTestCases.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Playwright_One_To_OneTestCases\\obj\\Debug\\net8.0\\Playwright_One_To_OneTestCases.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\obj\\Debug\\net8.0\\Playwright_One_To_OneTestCases.GlobalUsings.g.cs",
+              "RelativeToolTip": "Playwright_One_To_OneTestCases\\obj\\Debug\\net8.0\\Playwright_One_To_OneTestCases.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:26:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playwright_One_To_OneTestCases",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj",
+              "RelativeDocumentMoniker": "Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj",
+              "RelativeToolTip": "Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T09:25:07.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OneToOneRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\OneToOneRelationship.cs",
+              "RelativeDocumentMoniker": "Playwright_One_To_OneTestCases\\OneToOneRelationship.cs",
+              "ToolTip": "C:\\Users\\Pooja S\\source\\repos\\Playwright_One_To_OneTestCases\\Playwright_One_To_OneTestCases\\OneToOneRelationship.cs",
+              "RelativeToolTip": "Playwright_One_To_OneTestCases\\OneToOneRelationship.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:23:14.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

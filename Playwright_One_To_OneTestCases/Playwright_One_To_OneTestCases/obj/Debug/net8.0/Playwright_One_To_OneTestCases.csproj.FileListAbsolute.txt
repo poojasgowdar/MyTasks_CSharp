@@ -1,0 +1,6 @@
+C:\Users\Pooja S\source\repos\Playwright_One_To_OneTestCases\Playwright_One_To_OneTestCases\obj\Debug\net8.0\Playwright_One_To_OneTestCases.csproj.AssemblyReference.cache
+C:\Users\Pooja S\source\repos\Playwright_One_To_OneTestCases\Playwright_One_To_OneTestCases\obj\Debug\net8.0\Playwright_One_To_OneTestCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja S\source\repos\Playwright_One_To_OneTestCases\Playwright_One_To_OneTestCases\obj\Debug\net8.0\Playwright_One_To_OneTestCases.AssemblyInfoInputs.cache
+C:\Users\Pooja S\source\repos\Playwright_One_To_OneTestCases\Playwright_One_To_OneTestCases\obj\Debug\net8.0\Playwright_One_To_OneTestCases.AssemblyInfo.cs
+C:\Users\Pooja S\source\repos\Playwright_One_To_OneTestCases\Playwright_One_To_OneTestCases\obj\Debug\net8.0\Playwright_One_To_OneTestCases.csproj.CoreCompileInputs.cache
+C:\Users\Pooja S\source\repos\Playwright_One_To_OneTestCases\Playwright_One_To_OneTestCases\obj\Debug\net8.0\Playwright_One_To_OneTestCases.sourcelink.json

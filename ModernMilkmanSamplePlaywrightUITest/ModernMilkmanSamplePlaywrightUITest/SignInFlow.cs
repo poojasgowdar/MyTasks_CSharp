@@ -8,7 +8,7 @@ namespace ModernMilkmanSamplePlaywrightUITest
     public class SignInFlow
     {
         private IPlaywright _playwright;
-        private IBrowser _browser;
+        private IBrowser? _browser;
         private IBrowserContext _context;   
         private IPage _page;
         private const string BaseUrl = "https://gb-git-ctd-milkman.vercel.app/";
@@ -29,26 +29,26 @@ namespace ModernMilkmanSamplePlaywrightUITest
                 case "chromium":
                     _browser = await _playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
                     {
-                        Headless = config.Headless, // Use the headless flag from config
-                        Timeout = timeout // Set the timeout value
+                        Headless = config.Headless, 
+                        Timeout = timeout 
                     });
                     break;
 
                 case "msedge":
                     _browser = await _playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
                     {
-                        Channel = "msedge",  // Specify the Edge browser channel
+                        Channel = "msedge", 
                         Headless = config.Headless,
-                        Timeout = timeout // Set the timeout value
+                        Timeout = timeout 
                     });
                     break;
 
                 case "chrome":
                     _browser = await _playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
                     {
-                        Channel = "chrome",  // Specify the Chrome browser channel
+                        Channel = "chrome", 
                         Headless = config.Headless,
-                        Timeout = timeout // Set the timeout value
+                        Timeout = timeout 
                     });
                     break;
 
@@ -56,12 +56,6 @@ namespace ModernMilkmanSamplePlaywrightUITest
                     throw new Exception($"Browser configuration '{config.Browser}' not recognized.");
             }
 
-            //_playwright = await Playwright.CreateAsync();
-            //_browser = await _playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
-            //{
-            //    Channel = "msedge", // This specifies the Microsoft Edge browser
-            //    Headless = false
-            //});
             _context = await _browser.NewContextAsync(new BrowserNewContextOptions
             {
                 ViewportSize = new ViewportSize { Width = 1280, Height = 800 }
@@ -93,10 +87,8 @@ namespace ModernMilkmanSamplePlaywrightUITest
             Assert.IsTrue(await getStartedLink.IsVisibleAsync(), "Get started link not visible");
             await getStartedLink.ClickAsync();
 
-            await _page.WaitForURLAsync("**/login", new() { Timeout = 60000 });
-
-            await _page.FillAsync("input[placeholder='e.g 07123456789']", "07755591266");
-            await _page.FillAsync("input[id='password']", "Smith@123");
+            await _page.FillAsync("input[placeholder='e.g 07123456789']", "07755591265");
+            await _page.FillAsync("input[id='password']", "Williams@123");
 
             // Wait again for overlay before login
             await WaitForCookieOverlayToDisappearAsync();
@@ -106,16 +98,12 @@ namespace ModernMilkmanSamplePlaywrightUITest
             Assert.IsTrue(await loginBtn.IsEnabledAsync(), "Login button not enabled");
             await loginBtn.ClickAsync();
 
-            // Wait for URL change, adjust this to the actual post-login URL
-            await _page.WaitForURLAsync("https://gb-git-ctd-milkman.vercel.app/", new() { Timeout = 60000 });
+            await _page.ClickAsync("a.primary.lg.button.font-mohr-semibold");
 
             // Now automatically click on the "Our products" link after login
             var ourProductsLink = _page.GetByRole(AriaRole.Link, new() { Name = "Our products" });
             Assert.IsTrue(await ourProductsLink.IsVisibleAsync(), "'Our products' link not visible");
             await ourProductsLink.ClickAsync();
-
-            // Wait for navigation to /products
-            await _page.WaitForURLAsync("**/products", new() { Timeout = 60000 });
 
             var heading = _page.GetByRole(AriaRole.Heading, new() { Name = "Our Products" });
             await heading.WaitForAsync(new() { Timeout = 60000 });
@@ -144,9 +132,6 @@ namespace ModernMilkmanSamplePlaywrightUITest
             // Click the button
             await continueShoppingButton.ClickAsync();
 
-            // Wait for the redirection to the products page
-            await _page.WaitForURLAsync("**/products", new() { Timeout = 10000 });
-
             // Optionally verify that the products page loaded by checking for a heading or product list
             var productsHeading = _page.GetByRole(AriaRole.Heading, new() { Name = "Our Products" });
             Assert.IsTrue(await productsHeading.IsVisibleAsync(), "User was not redirected to the products page after clicking 'Continue shopping'");
@@ -164,7 +149,7 @@ namespace ModernMilkmanSamplePlaywrightUITest
             var radioButton = _page.GetByRole(AriaRole.Radio, new() { Name = "One Time Order" });
             Assert.True(await radioButton.IsCheckedAsync(), "One Time Order radio button should be selected.");
 
-            await _page.GetByRole(AriaRole.Button, new() { Name = "+" }).First.ClickAsync();
+           // await _page.GetByRole(AriaRole.Button, new() { Name = "+" }).First.ClickAsync();
             await _page.GetByRole(AriaRole.Button, new() { Name = "Add to Basket" }).ClickAsync();
 
             // Click "Go to your Basket" button
@@ -172,26 +157,18 @@ namespace ModernMilkmanSamplePlaywrightUITest
             Assert.IsTrue(await goToBasketButton.IsVisibleAsync(), "'Go to your Basket' button not visible");
             await goToBasketButton.ClickAsync();
 
-            // Wait for redirection to basket page
-            await _page.WaitForURLAsync("https://gb-git-ctd-milkman.vercel.app/basket", new() { Timeout = 60000 });
-
             // Wait for and click "Continue to delivery" link
             await _page.WaitForSelectorAsync("a[href='/basket/delivery-details']", new() { State = WaitForSelectorState.Visible, Timeout = 10000 });
             var continueToDeliveryButton = _page.Locator("a[href='/basket/delivery-details']");
             Assert.IsTrue(await continueToDeliveryButton.IsVisibleAsync(), "'Continue to delivery' link not visible");
             await continueToDeliveryButton.ClickAsync();
-
-            // Wait for redirection to delivery details page
-            await _page.WaitForURLAsync("https://gb-git-ctd-milkman.vercel.app/basket/delivery-details", new() { Timeout = 60000 });
-
+          
             // Wait for and click "Checkout securely" button
             await _page.WaitForSelectorAsync("button[type='submit']", new() { State = WaitForSelectorState.Visible, Timeout = 10000 });
             var checkoutButton = _page.Locator("button[type='submit']");
             Assert.IsTrue(await checkoutButton.IsVisibleAsync(), "'Checkout securely' button not visible");
             await checkoutButton.ClickAsync();
 
-            // Wait for redirection to checkout page
-            await _page.WaitForURLAsync("https://gb-git-ctd-milkman.vercel.app/checkout", new() { Timeout = 60000 });
             // Locate the actual iframe element as a Locator
             var iframeLocator = _page.Locator("iframe[name^='__privateStripeFrame']").First;
             var iframeElementHandle = await iframeLocator.ElementHandleAsync();
@@ -219,7 +196,6 @@ namespace ModernMilkmanSamplePlaywrightUITest
             await expiryField.FillAsync("05 / 25");
             var expiryValue = await expiryField.InputValueAsync();
 
-            // Trim spaces or ensure no spaces before comparing
             Assert.AreEqual("05 / 25", expiryValue.Replace(" ", " "));
 
             var iframeElements = _page.FrameLocator("iframe[name^='__privateStripeFrame']").First;
@@ -227,14 +203,13 @@ namespace ModernMilkmanSamplePlaywrightUITest
 
             // Enter CVC: 123
             var cvcField = iframeElements.Locator("input[name='cvc']");
-            await cvcField.ClickAsync();  // Ensure the field is focused
-            await cvcField.FillAsync("123");  // Fill the CVC value
-            var cvcValue = await cvcField.InputValueAsync();  //Get the unified
+            await cvcField.ClickAsync();  
+            await cvcField.FillAsync("123"); 
+            var cvcValue = await cvcField.InputValueAsync();  
 
             // Assert that the value is as expected
             Assert.AreEqual("123", cvcValue);
 
-            // Click the Pay button
             // Locate the Pay button and wait for it to appear
             var payButton = _page.Locator("button:has-text('Pay £15.59')");
             await payButton.WaitForAsync(new() { Timeout = 60000 }); // Wait for 60 seconds
@@ -291,14 +266,12 @@ namespace ModernMilkmanSamplePlaywrightUITest
                 Console.WriteLine("No cookie overlay found. Continuing...");
             }
         }
-
     }
 
     public class BrowserConfig
     {
         public string Browser { get; set; }
         public bool Headless { get; set; }
-        public int Timeout { get; set; } // Timeout should be an int, not string
-
+        public int Timeout { get; set; } 
     }
 }

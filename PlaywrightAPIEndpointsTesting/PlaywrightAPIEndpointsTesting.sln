@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaywrightAPIEndpointsTesting", "PlaywrightAPIEndpointsTesting\PlaywrightAPIEndpointsTesting.csproj", "{DDAB71C6-8BAD-4500-A0CD-7FF55FB4FB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAB71C6-8BAD-4500-A0CD-7FF55FB4FB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAB71C6-8BAD-4500-A0CD-7FF55FB4FB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAB71C6-8BAD-4500-A0CD-7FF55FB4FB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAB71C6-8BAD-4500-A0CD-7FF55FB4FB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88B1DE57-3E3C-4A3C-8084-88783B184B89}
+	EndGlobalSection
+EndGlobal

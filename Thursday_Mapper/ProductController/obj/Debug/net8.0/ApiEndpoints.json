@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "ProductController.Controllers.ProductController",
+    "Method": "AddBulk",
+    "RelativePath": "api/Product/CreateBulkProducts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDtos",
+        "Type": "System.Collections.Generic.List\u00601[[Dto.Dtos.ProductDTO, Dto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductController.Controllers.ProductController",
     "Method": "Add",
     "RelativePath": "api/Product/CreateProduct",
     "HttpMethod": "POST",

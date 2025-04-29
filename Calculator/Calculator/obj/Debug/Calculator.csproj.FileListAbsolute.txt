@@ -1,7 +1,0 @@
-C:\Users\Pooja S\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
-C:\Users\Pooja S\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\Pooja S\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Pooja S\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\Pooja S\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Pooja S\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\Pooja S\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

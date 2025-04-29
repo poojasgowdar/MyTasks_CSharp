@@ -20,8 +20,7 @@ namespace MS_Playwright_Task
             await Page.GetByRole(AriaRole.Button, new() { Name = "Execute" }).ClickAsync();
         }
 
-
-        [TestMethod]
+       [TestMethod]
         public async Task GetProductById()
         {
             await Page.GotoAsync(BaseUrl);
@@ -44,7 +43,5 @@ namespace MS_Playwright_Task
             await Page.GetByRole(AriaRole.Row, new() { Name = "id integer($int32) (query)", Exact = true }).GetByPlaceholder("id").FillAsync("1");
             await Page.Locator("#operations-Product-delete_api_Product_DeleteProductById").GetByRole(AriaRole.Button, new() { Name = "Execute" }).ClickAsync();
         }
-
-
     }
 }
